@@ -3,4 +3,6 @@
 
 
 	echo "i love you";
+
+	echo "hi gay";
 ?>
