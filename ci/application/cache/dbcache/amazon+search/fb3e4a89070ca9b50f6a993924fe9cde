@@ -1,0 +1,33 @@
+O:12:"CI_DB_result":8:{s:7:"conn_id";N;s:9:"result_id";N;s:12:"result_array";a:2:{i:0;a:24:{s:4:"time";s:12:"14-0323-1294";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:9:"宠物类";s:8:"order_id";s:19:"205-0004971-7790736";s:12:"product_name";s:89:"Sanlise New Pet Cat Dog Puppy Cotton Clothes Costumes Superman Suit size XS/S/M/L/XL (XL)";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£9.96";s:6:"s_time";s:5:"41727";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:154:"Nathan Richard stephenson<br />
+22 High Street<br />
+Milton Under Wychwood<br />
+<br />
+CHIPPING NORTON<br />
+Oxon<br />
+OX7 6LE<br />
+GB<br />
+1993831623";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00C4PEBWM";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:1;a:24:{s:4:"time";s:12:"14-0323-1488";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:9:"宠物类";s:8:"order_id";s:19:"205-3338389-6049968";s:12:"product_name";s:89:"Sanlise New Pet Cat Dog Puppy Cotton Clothes Costumes Superman Suit size XS/S/M/L/XL (XL)";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£9.96";s:6:"s_time";s:5:"41727";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:132:"Mrs Sharon Malyon<br />
+50 The Shearers<br />
+<br />
+<br />
+Bishops Stortford<br />
+Herts<br />
+CM23 4AZ<br />
+GB<br />
+07831 205782";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00C4PEBWM";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}}s:13:"result_object";a:2:{i:0;O:8:"stdClass":24:{s:4:"time";s:12:"14-0323-1294";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:9:"宠物类";s:8:"order_id";s:19:"205-0004971-7790736";s:12:"product_name";s:89:"Sanlise New Pet Cat Dog Puppy Cotton Clothes Costumes Superman Suit size XS/S/M/L/XL (XL)";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£9.96";s:6:"s_time";s:5:"41727";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:154:"Nathan Richard stephenson<br />
+22 High Street<br />
+Milton Under Wychwood<br />
+<br />
+CHIPPING NORTON<br />
+Oxon<br />
+OX7 6LE<br />
+GB<br />
+1993831623";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00C4PEBWM";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:1;O:8:"stdClass":24:{s:4:"time";s:12:"14-0323-1488";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:9:"宠物类";s:8:"order_id";s:19:"205-3338389-6049968";s:12:"product_name";s:89:"Sanlise New Pet Cat Dog Puppy Cotton Clothes Costumes Superman Suit size XS/S/M/L/XL (XL)";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£9.96";s:6:"s_time";s:5:"41727";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:132:"Mrs Sharon Malyon<br />
+50 The Shearers<br />
+<br />
+<br />
+Bishops Stortford<br />
+Herts<br />
+CM23 4AZ<br />
+GB<br />
+07831 205782";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00C4PEBWM";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}}s:20:"custom_result_object";a:0:{}s:11:"current_row";i:0;s:8:"num_rows";i:2;s:8:"row_data";N;}

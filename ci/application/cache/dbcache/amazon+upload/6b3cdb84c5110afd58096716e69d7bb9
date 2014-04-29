@@ -1,0 +1,961 @@
+O:12:"CI_DB_result":8:{s:7:"conn_id";N;s:9:"result_id";N;s:12:"result_array";a:60:{i:0;a:24:{s:4:"time";s:12:"14-0323-1754";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:6:"其他";s:8:"order_id";s:19:"205-6142523-1004310";s:12:"product_name";s:36:"Naughty Cows Salt and Pepper Shakers";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£4.39";s:6:"s_time";s:5:"41729";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:124:"Amanda Biggs<br />
+43 Glaisdale Avenue<br />
+<br />
+<br />
+COVENTRY<br />
+W Midlands<br />
+CV6 4LQ<br />
+GB<br />
+7752921742";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B004D0B6O2";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:1;a:24:{s:4:"time";s:12:"14-0323-1755";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:4:"U盘";s:8:"order_id";s:19:"203-0407616-4697162";s:12:"product_name";s:94:"iGloo 8GB Novelty Cute Baby Owl USB 2.0 Flash Drive Data Memory Stick Device - Brown and White";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£6.50";s:6:"s_time";s:5:"41726";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:146:"Mrs Elizabeth Logan<br />
+8 West Park Place<br />
+Inverbervie<br />
+<br />
+Montrose<br />
+Aberdeenshire<br />
+DD10 0XA<br />
+GB<br />
+01561 362900";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B0089Y7W5K";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:2;a:24:{s:4:"time";s:14:"14-0323-1756-1";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:6:"其他";s:8:"order_id";s:19:"203-1100952-2885930";s:12:"product_name";s:31:"Kitchen Craft Strawberry Slicer";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£9.24";s:6:"s_time";s:5:"41729";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:133:"Emma Janine Nyria Young<br />
+24 Paget Drive<br />
+<br />
+<br />
+Maidenhead<br />
+Berkshire<br />
+SL6 3PT<br />
+GB<br />
+01628 826511";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B004VQXIBC";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:3;a:24:{s:4:"time";s:14:"14-0323-1756-2";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:6:"其他";s:8:"order_id";s:19:"203-1100952-2885930";s:12:"product_name";s:31:"Kitchen Craft Strawberry Slicer";s:4:"ANSI";s:0:"";s:4:"jine";s:0:"";s:6:"s_time";s:5:"41729";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:133:"Emma Janine Nyria Young<br />
+24 Paget Drive<br />
+<br />
+<br />
+Maidenhead<br />
+Berkshire<br />
+SL6 3PT<br />
+GB<br />
+01628 826511";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B004VQXIBC";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:4;a:24:{s:4:"time";s:12:"14-0323-1757";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:6:"其他";s:8:"order_id";s:19:"203-0075202-8921171";s:12:"product_name";s:82:"STUDIO GHIBLI MY NEIGHBOR TOTORO CAT BUS STUFFED PLUSH DOLL 12\" 310MM - FREE GIFT";s:4:"ANSI";s:0:"";s:4:"jine";s:7:"£10.20";s:6:"s_time";s:5:"41729";s:8:"s_number";s:13:"RC885924399HK";s:5:"s_way";s:0:"";s:7:"message";s:0:"";s:9:"s_address";s:139:"Andrew Murray<br />
+23 Wolsingham Drive<br />
+Newton Hall<br />
+<br />
+Durham<br />
+County Durham<br />
+DH1 5XH<br />
+GB<br />
+0191 3860311";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00AWUDRAS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:5;a:24:{s:4:"time";s:14:"14-0323-1758-1";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"202-4275244-0411519";s:12:"product_name";s:135:"USB TO MAINS WALL ADAPTOR CHARGER FOR HTC, BLACKBERRY, SAMSUNG, MP3,TOMTOM, APPLE IPHONE 4S 5 4G 3G 3GS IPOD UK #08i UNIVERSAL 5V 1A CE";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£6.24";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:118:"David Glover<br />
+6 Kent Walk<br />
+<br />
+<br />
+NORTHAMPTON<br />
+Northants<br />
+NN5 4UW<br />
+GB<br />
+7764407705";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00CLQXT4A";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:6;a:24:{s:4:"time";s:14:"14-0323-1758-2";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"202-4275244-0411519";s:12:"product_name";s:135:"USB TO MAINS WALL ADAPTOR CHARGER FOR HTC, BLACKBERRY, SAMSUNG, MP3,TOMTOM, APPLE IPHONE 4S 5 4G 3G 3GS IPOD UK #08i UNIVERSAL 5V 1A CE";s:4:"ANSI";s:0:"";s:4:"jine";s:0:"";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:118:"David Glover<br />
+6 Kent Walk<br />
+<br />
+<br />
+NORTHAMPTON<br />
+Northants<br />
+NN5 4UW<br />
+GB<br />
+7764407705";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00CLQXT4A";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:7;a:24:{s:4:"time";s:14:"14-0323-1758-3";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"202-4275244-0411519";s:12:"product_name";s:135:"USB TO MAINS WALL ADAPTOR CHARGER FOR HTC, BLACKBERRY, SAMSUNG, MP3,TOMTOM, APPLE IPHONE 4S 5 4G 3G 3GS IPOD UK #08i UNIVERSAL 5V 1A CE";s:4:"ANSI";s:0:"";s:4:"jine";s:0:"";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:118:"David Glover<br />
+6 Kent Walk<br />
+<br />
+<br />
+NORTHAMPTON<br />
+Northants<br />
+NN5 4UW<br />
+GB<br />
+7764407705";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00CLQXT4A";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:8;a:24:{s:4:"time";s:12:"14-0323-1759";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:9:"宠物类";s:8:"order_id";s:19:"202-2188754-1165148";s:12:"product_name";s:34:"Dog / Pet Travel Water Bottle Bowl";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£3.59";s:6:"s_time";s:5:"41727";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:113:"sheena reed<br />
+28 forest drive<br />
+<br />
+<br />
+fyfield<br />
+essex<br />
+cm5 0tp<br />
+GB<br />
+1277899757";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B004WFCG6U";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:9;a:24:{s:4:"time";s:12:"14-0323-1760";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"202-5472065-6411527";s:12:"product_name";s:135:"USB TO MAINS WALL ADAPTOR CHARGER FOR HTC, BLACKBERRY, SAMSUNG, MP3,TOMTOM, APPLE IPHONE 4S 5 4G 3G 3GS IPOD UK #08i UNIVERSAL 5V 1A CE";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£2.08";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:133:"MRS FIONA CARROLL<br />
+42 EYEBROOK ROAD<br />
+BOWDON<br />
+<br />
+ALTRINCHAM<br />
+CHESHIRE<br />
+WA14 3LP<br />
+GB<br />
+1619417147";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00CLQXT4A";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:10;a:24:{s:4:"time";s:14:"14-0323-1761-1";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:6:"墙贴";s:8:"order_id";s:19:"204-2265239-4677906";s:12:"product_name";s:86:"Animal Lion Giraffe Monkey Wall Stickers With Decor Decal Art For Kids Nursery Bedroom";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£8.49";s:6:"s_time";s:5:"41735";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:135:"Catherine Loveridge<br />
+1 The Cottage<br />
+Meeting Hill<br />
+<br />
+Worstead<br />
+Norfolk<br />
+NR28 9LR<br />
+GB<br />
+1692218413";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B0091FS96C";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:11;a:24:{s:4:"time";s:14:"14-0323-1761-2";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:6:"墙贴";s:8:"order_id";s:19:"204-2265239-4677906";s:12:"product_name";s:86:"Animal Lion Giraffe Monkey Wall Stickers With Decor Decal Art For Kids Nursery Bedroom";s:4:"ANSI";s:0:"";s:4:"jine";s:0:"";s:6:"s_time";s:5:"41735";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:135:"Catherine Loveridge<br />
+1 The Cottage<br />
+Meeting Hill<br />
+<br />
+Worstead<br />
+Norfolk<br />
+NR28 9LR<br />
+GB<br />
+1692218413";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B0091FS96C";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:12;a:24:{s:4:"time";s:14:"14-0323-1761-3";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:6:"墙贴";s:8:"order_id";s:19:"204-2265239-4677906";s:12:"product_name";s:86:"Animal Lion Giraffe Monkey Wall Stickers With Decor Decal Art For Kids Nursery Bedroom";s:4:"ANSI";s:0:"";s:4:"jine";s:0:"";s:6:"s_time";s:5:"41735";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:135:"Catherine Loveridge<br />
+1 The Cottage<br />
+Meeting Hill<br />
+<br />
+Worstead<br />
+Norfolk<br />
+NR28 9LR<br />
+GB<br />
+1692218413";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B0091FS96C";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:13;a:24:{s:4:"time";s:14:"14-0323-1761-4";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:6:"墙贴";s:8:"order_id";s:19:"204-2265239-4677906";s:12:"product_name";s:151:"Naughty Monkey and Yellow Giraffe wall sticker for kid\'s bedroom cartoon animals Height Chart (60cm-180cm) Nursery Wall Decal Decor Removable wallpape";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£2.89";s:6:"s_time";s:5:"41735";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:135:"Catherine Loveridge<br />
+1 The Cottage<br />
+Meeting Hill<br />
+<br />
+Worstead<br />
+Norfolk<br />
+NR28 9LR<br />
+GB<br />
+1692218413";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B0091FS96C";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:14;a:24:{s:4:"time";s:12:"14-0323-1762";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:6:"其他";s:8:"order_id";s:19:"205-0425874-4830720";s:12:"product_name";s:81:"niceEshop(TM) Bun HAIR Former Donut Doughnut Shaper RING Style Hairdressing-Black";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£1.58";s:6:"s_time";s:5:"41733";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:123:"joanna bradley<br />
+79 hamilton road<br />
+<br />
+<br />
+high wycombe<br />
+bucks<br />
+HP13 5BQ<br />
+GB<br />
+1494534974";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00EOQI96S";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:15;a:24:{s:4:"time";s:14:"14-0323-1763-1";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:4:"U盘";s:8:"order_id";s:19:"026-2213772-8936343";s:12:"product_name";s:87:"Despicable Me 2 minions 8GB USB Flash Drive (Dave/Kevin) 8G Memory Stick U Disk -Yellow";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£5.47";s:6:"s_time";s:5:"41737";s:8:"s_number";s:13:"RC882406642HK";s:5:"s_way";s:0:"";s:7:"message";s:0:"";s:9:"s_address";s:142:"Mr John Bedford<br />
+Willis And Co<br />
+55 59 Donegall Street<br />
+<br />
+BELFAST<br />
+Co Antrim<br />
+BT1 2FH<br />
+GB<br />
+07799 473444";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00G21WR3E";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:16;a:24:{s:4:"time";s:14:"14-0323-1763-2";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:4:"U盘";s:8:"order_id";s:19:"026-2213772-8936343";s:12:"product_name";s:56:"8GB Minion (One-Eyed) USB Flash Drive from Despicable Me";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£5.50";s:6:"s_time";s:5:"41737";s:8:"s_number";s:13:"RC882406642HK";s:5:"s_way";s:0:"";s:7:"message";s:0:"";s:9:"s_address";s:142:"Mr John Bedford<br />
+Willis And Co<br />
+55 59 Donegall Street<br />
+<br />
+BELFAST<br />
+Co Antrim<br />
+BT1 2FH<br />
+GB<br />
+07799 473444";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00FOMJA0K";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:17;a:24:{s:4:"time";s:12:"14-0323-1764";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:9:"手机壳";s:8:"order_id";s:19:"205-3430981-8508348";s:12:"product_name";s:42:"Armband Case for Apple iPhone 5 5S (black)";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£3.36";s:6:"s_time";s:5:"41727";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:126:"Jackie Edwards<br />
+60 North Street<br />
+<br />
+<br />
+ATHERSTONE<br />
+WARWICKSHIRE<br />
+CV9 1JW<br />
+GB<br />
+1827790495";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00CKIS0WA";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:18;a:24:{s:4:"time";s:12:"14-0323-1765";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:6:"其他";s:8:"order_id";s:19:"205-4960630-9101109";s:12:"product_name";s:36:"Naughty Cows Salt and Pepper Shakers";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£4.39";s:6:"s_time";s:5:"41729";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:145:"Max Glenister<br />
+2degrees<br />
+228-240 Banbury Road, Summertown<br />
+<br />
+Oxford<br />
+Oxfordshire<br />
+OX2 7BY<br />
+GB<br />
+7535509095";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B004D0B6O2";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:19;a:24:{s:4:"time";s:12:"14-0323-1766";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"203-4012310-7607515";s:12:"product_name";s:135:"USB TO MAINS WALL ADAPTOR CHARGER FOR HTC, BLACKBERRY, SAMSUNG, MP3,TOMTOM, APPLE IPHONE 4S 5 4G 3G 3GS IPOD UK #08i UNIVERSAL 5V 1A CE";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£2.08";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:140:"Norma Luke<br />
+4 Kirkside<br />
+New Herrington<br />
+<br />
+HOUGHTON LE SPRING<br />
+Tyne And Wear<br />
+DH4 4NX<br />
+GB<br />
+7802181629";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00CLQXT4A";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:20;a:24:{s:4:"time";s:12:"14-0323-1767";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"204-0077837-1228363";s:12:"product_name";s:135:"USB TO MAINS WALL ADAPTOR CHARGER FOR HTC, BLACKBERRY, SAMSUNG, MP3,TOMTOM, APPLE IPHONE 4S 5 4G 3G 3GS IPOD UK #08i UNIVERSAL 5V 1A CE";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£2.08";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:133:"Lysanne Dunn<br />
+Priory House<br />
+21 Hopetoun Road<br />
+<br />
+South Queensferry<br />
+<br />
+EH30 9RB<br />
+GB<br />
+7557906822";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00CLQXT4A";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:21;a:24:{s:4:"time";s:12:"14-0323-1768";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:9:"车载类";s:8:"order_id";s:19:"202-6615905-8033136";s:12:"product_name";s:118:"Premium In Car Holder Windscreen Suction Mount for Apple iPhone 4 4S, iPhone 5 5S 5C - Mobile Accessories By Sunwire®";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£5.78";s:6:"s_time";s:5:"41731";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:121:"Gavin Taylor<br />
+48<br />
+Mornington Avenue<br />
+<br />
+Rochford<br />
+ESSEX<br />
+SS4 1DN<br />
+GB<br />
+01702 533930";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:38:"www.amazon.co.uk/gp/product/B004GTBIO8";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:22;a:24:{s:4:"time";s:12:"14-0323-1769";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:6:"墙贴";s:8:"order_id";s:19:"205-8108232-9865930";s:12:"product_name";s:133:"Orien Winnie The Pooh PVC Removable Reusable Wall Sticker Home Decor For Kids /Nursery /Boys /Girls /Children Room Bedroom Art Decals";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£5.35";s:6:"s_time";s:5:"41735";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:133:"Kelsey segasby<br />
+6 The Oaklands<br />
+Wragby<br />
+<br />
+Market Rasen<br />
+lincolnshire<br />
+LN8 5UT<br />
+GB<br />
+7715595347";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00EOLLY7O";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:23;a:24:{s:4:"time";s:12:"14-0323-1770";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:12:"游戏周边";s:8:"order_id";s:19:"203-9541467-5164355";s:12:"product_name";s:16:"Bananagrams Game";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£6.99";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:139:"Mrs T Bowen<br />
+Shirley Parish Office<br />
+133 Church Street<br />
+<br />
+Southampton<br />
+<br />
+SO15 5LW<br />
+GB<br />
+023 8077 1755";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/1932188126";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:24;a:24:{s:4:"time";s:12:"14-0323-1771";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:9:"手机壳";s:8:"order_id";s:19:"205-6712208-1522747";s:12:"product_name";s:42:"Armband Case for Apple iPhone 5 5S (white)";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£3.69";s:6:"s_time";s:5:"41727";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:125:"Catherine Chow<br />
+14 Autumn Court<br />
+Spring Gardens<br />
+<br />
+Romford<br />
+<br />
+RM7 9BN<br />
+GB<br />
+7950257780";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00CKIS0VQ";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:25;a:24:{s:4:"time";s:12:"14-0323-1772";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:6:"LED灯";s:8:"order_id";s:19:"202-9863266-2390759";s:12:"product_name";s:107:"coolshiny®Snail charge small table lamp led energy saving night light wall bedside desk baby sleeping lamp";s:4:"ANSI";s:0:"";s:4:"jine";s:7:"£16.98";s:6:"s_time";s:5:"41726";s:8:"s_number";s:13:"RC882406656HK";s:5:"s_way";s:0:"";s:7:"message";s:0:"";s:9:"s_address";s:167:"Miss Joanne Savident<br />
+Jolee, Clos De La Cache Sous Les Courtils<br />
+Castel<br />
+<br />
+GUERNSEY<br />
+Channel Islands<br />
+GY5 7JA<br />
+GB<br />
+07781 107677";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F1T0TF6";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:26;a:24:{s:4:"time";s:12:"14-0323-1773";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"205-2779273-4181138";s:12:"product_name";s:135:"USB TO MAINS WALL ADAPTOR CHARGER FOR HTC, BLACKBERRY, SAMSUNG, MP3,TOMTOM, APPLE IPHONE 4S 5 4G 3G 3GS IPOD UK #08i UNIVERSAL 5V 1A CE";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£2.08";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:112:"K Reid<br />
+11 Elder way<br />
+Erdington<br />
+<br />
+Birmingham<br />
+<br />
+B23 7LZ<br />
+GB<br />
+7949813026";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00CLQXT4A";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:27;a:24:{s:4:"time";s:12:"14-0323-1774";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:6:"墙贴";s:8:"order_id";s:19:"202-0210116-4094751";s:12:"product_name";s:78:"Huge Large Spiderman Wall Stickers Children Boys Bedroom Decal art Mural Decor";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£4.04";s:6:"s_time";s:5:"41735";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:123:"Darrell Latimer<br />
+10 Dundonnell Way<br />
+<br />
+<br />
+Dunfermline<br />
+Fife<br />
+KY11 8FS<br />
+GB<br />
+7817662853";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00E3GN662";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:28;a:24:{s:4:"time";s:12:"14-0323-1775";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:12:"游戏周边";s:8:"order_id";s:19:"026-3691439-2696342";s:12:"product_name";s:16:"Bananagrams Game";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£6.99";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:125:"Angela Butler<br />
+Amber House<br />
+Lincombe Drive<br />
+<br />
+Torquay<br />
+Devon<br />
+TQ1 2LP<br />
+GB<br />
+1803211014";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/1932188126";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:29;a:24:{s:4:"time";s:12:"14-0323-1776";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"202-6253302-7977926";s:12:"product_name";s:135:"USB TO MAINS WALL ADAPTOR CHARGER FOR HTC, BLACKBERRY, SAMSUNG, MP3,TOMTOM, APPLE IPHONE 4S 5 4G 3G 3GS IPOD UK #08i UNIVERSAL 5V 1A CE";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£2.08";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:124:"Mrs L Ratcliffe<br />
+20 Enfield Walk<br />
+<br />
+<br />
+BRADFORD<br />
+W Yorkshire<br />
+BD6 3HY<br />
+GB<br />
+7773175724";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00CLQXT4A";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:30;a:24:{s:4:"time";s:14:"14-0323-1777-1";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:12:"游戏周边";s:8:"order_id";s:19:"202-1188299-8922716";s:12:"product_name";s:82:"STUDIO GHIBLI MY NEIGHBOR TOTORO CAT BUS STUFFED PLUSH DOLL 12\" 310MM - FREE GIFT";s:4:"ANSI";s:0:"";s:4:"jine";s:7:"£10.20";s:6:"s_time";s:5:"41729";s:8:"s_number";s:13:"RC882406660HK";s:5:"s_way";s:0:"";s:7:"message";s:0:"";s:9:"s_address";s:129:"Craig Colgan<br />
+the Nook<br />
+Tanyard Lane<br />
+<br />
+Winchelsea<br />
+East Sussex<br />
+TN36 4JT<br />
+GB<br />
+7825662043";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00AWUDRAS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:31;a:24:{s:4:"time";s:14:"14-0323-1777-2";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:6:"其他";s:8:"order_id";s:19:"202-1188299-8922716";s:12:"product_name";s:58:"My Neighbor Totoro 9\" tall gray Totoro Plush By Tiny Deal";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£8.40";s:6:"s_time";s:5:"41729";s:8:"s_number";s:13:"RC882406660HK";s:5:"s_way";s:0:"";s:7:"message";s:0:"";s:9:"s_address";s:129:"Craig Colgan<br />
+the Nook<br />
+Tanyard Lane<br />
+<br />
+Winchelsea<br />
+East Sussex<br />
+TN36 4JT<br />
+GB<br />
+7825662043";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00C86K7S4";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:32;a:24:{s:4:"time";s:12:"14-0323-1778";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"204-7217700-5156338";s:12:"product_name";s:150:"Ama-Pro\'s own iPhone 5 2 Meter extra long 2m Lighting to USB Data Sync Cable Adaptor USB Charger Wire Lead for iPhone5 iPhone 5, iPad Mini, Mini iPad";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£1.84";s:6:"s_time";s:5:"41725";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:130:"Emma Holliwell<br />
+4 Flands Cottages<br />
+Berners Roding<br />
+<br />
+Ongar<br />
+Essex<br />
+CM5 0TD<br />
+GB<br />
+7791679035";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B0064NMER4";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:33;a:24:{s:4:"time";s:14:"14-0323-1779-1";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:12:"游戏周边";s:8:"order_id";s:19:"026-2103998-1875551";s:12:"product_name";s:16:"Bananagrams Game";s:4:"ANSI";s:0:"";s:4:"jine";s:7:"£13.98";s:6:"s_time";s:5:"41724";s:8:"s_number";s:13:"RC882406673HK";s:5:"s_way";s:0:"";s:7:"message";s:0:"";s:9:"s_address";s:121:"J Humphreys<br />
+59 Trafalgar Road<br />
+<br />
+<br />
+Kettering<br />
+Northants<br />
+NN168DD<br />
+GB<br />
+7733240141";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/1932188126";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:34;a:24:{s:4:"time";s:14:"14-0323-1779-2";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:12:"游戏周边";s:8:"order_id";s:19:"026-2103998-1875551";s:12:"product_name";s:16:"Bananagrams Game";s:4:"ANSI";s:0:"";s:4:"jine";s:0:"";s:6:"s_time";s:5:"41724";s:8:"s_number";s:13:"RC882406673HK";s:5:"s_way";s:0:"";s:7:"message";s:0:"";s:9:"s_address";s:121:"J Humphreys<br />
+59 Trafalgar Road<br />
+<br />
+<br />
+Kettering<br />
+Northants<br />
+NN168DD<br />
+GB<br />
+7733240141";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/1932188126";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:35;a:24:{s:4:"time";s:12:"14-0323-1780";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:4:"U盘";s:8:"order_id";s:19:"205-1163905-1609945";s:12:"product_name";s:94:"iGloo 8GB Novelty Cute Baby Owl USB 2.0 Flash Drive Data Memory Stick Device - Brown and White";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£6.50";s:6:"s_time";s:5:"41734";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:120:"Janine Millar<br />
+14 Smieton Street<br />
+<br />
+<br />
+Carnoustie<br />
+Angus<br />
+DD7 7NE<br />
+GB<br />
+7871276304";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B0089Y7W5K";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:36;a:24:{s:4:"time";s:12:"14-0323-1781";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"205-5663250-7857904";s:12:"product_name";s:70:"worldwide usb Travel Adaptor/charger plug -works in over 175 countries";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£3.00";s:6:"s_time";s:5:"41738";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:12:"取消发货";s:9:"s_address";s:135:"Paul Charman<br />
+24 Smugglers Way<br />
+Barns Green<br />
+<br />
+Horsham<br />
+West Sussex<br />
+RH13 0PP<br />
+GB<br />
+01403 733678";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B001I7QAYE";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:37;a:24:{s:4:"time";s:12:"14-0323-1782";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:9:"手机壳";s:8:"order_id";s:19:"202-0032314-1764363";s:12:"product_name";s:42:"Armband Case for Apple iPhone 5 5S (black)";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£3.36";s:6:"s_time";s:5:"41727";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:135:"Miss Jessica Ibbotson<br />
+106 Hartopp Road<br />
+<br />
+<br />
+Leicester<br />
+Leicestershire<br />
+LE2 1WF<br />
+GB<br />
+7871933772";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00CKIS0WA";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:38;a:24:{s:4:"time";s:12:"14-0323-1783";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:6:"其他";s:8:"order_id";s:19:"203-9790264-5360338";s:12:"product_name";s:37:"Labels For Luggage Luggage Tags (2pk)";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£4.89";s:6:"s_time";s:5:"41733";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:135:"Rhiannon Coultate<br />
+76 St. Barnabas Road<br />
+<br />
+<br />
+Cambridge<br />
+Cambridgeshire<br />
+CB1 2DE<br />
+GB<br />
+7854903312";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B000KLSUU6";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:39;a:24:{s:4:"time";s:12:"14-0323-1784";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:9:"化妆品";s:8:"order_id";s:19:"204-4398385-4919562";s:12:"product_name";s:82:"Black Zipper Cosmetic Bag Toiletry Bag Make-up Bag Hand Case Bag with Dot Patterns";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£3.97";s:6:"s_time";s:5:"41727";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:114:"katie chatfield<br />
+82 Western Road<br />
+<br />
+<br />
+DEAL<br />
+Kent<br />
+CT14 6PL<br />
+GB<br />
+7957410262";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00BAO2T40";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:40;a:24:{s:4:"time";s:12:"14-0323-1785";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"202-0076725-8779558";s:12:"product_name";s:58:"30 pin to 8pin Audio Adapter for iPhone 5 5S 5C iPod touch";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£1.98";s:6:"s_time";s:5:"41733";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:143:"Matt Micheal Moss<br />
+50 Winchcombe Meadows<br />
+Stantonbury<br />
+<br />
+MILTON KEYNES<br />
+Bucks<br />
+MK14 6GA<br />
+GB<br />
+7791781170";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00ESY528Y";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:41;a:24:{s:4:"time";s:12:"14-0323-1786";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"026-7091522-2406718";s:12:"product_name";s:70:"worldwide usb Travel Adaptor/charger plug -works in over 175 countries";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£3.00";s:6:"s_time";s:5:"41738";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:12:"取消发货";s:9:"s_address";s:119:"Chirag Mehta<br />
+69 Highmead Crescent<br />
+<br />
+<br />
+WEMBLEY<br />
+Middx<br />
+HA0 4ED<br />
+GB<br />
+7877121434";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B001I7QAYE";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:42;a:24:{s:4:"time";s:12:"14-0323-1787";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:12:"游戏周边";s:8:"order_id";s:19:"202-9513978-9896336";s:12:"product_name";s:16:"Bananagrams Game";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£6.99";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:121:"lesley monk<br />
+18 brookside<br />
+walton<br />
+<br />
+peterborough<br />
+cambs<br />
+pe4 6gl<br />
+GB<br />
+1733573956";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/1932188126";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:43;a:24:{s:4:"time";s:12:"14-0323-1788";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:12:"游戏周边";s:8:"order_id";s:19:"202-2562923-4597120";s:12:"product_name";s:16:"Bananagrams Game";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£6.99";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:137:"Angus Stuart Mackenzie<br />
+The Cottage<br />
+Howey<br />
+<br />
+Llandrindod Wells<br />
+Powys<br />
+LD1 5PS<br />
+GB<br />
+441598000000";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/1932188126";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:44;a:24:{s:4:"time";s:12:"14-0323-1789";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:4:"U盘";s:8:"order_id";s:19:"203-8902642-1851511";s:12:"product_name";s:71:"4GB Novelty Cute Brown Owl USB 2.0 Flash Drive Data Memory Stick Device";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£3.98";s:6:"s_time";s:5:"41726";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:121:"margaret o\'brien<br />
+4 Kittiwake Close<br />
+<br />
+<br />
+BLYTH<br />
+Northd<br />
+NE24 3RG<br />
+GB<br />
+1670361108";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:38:"www.amazon.co.uk/gp/product/B00GAW94SG";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:45;a:24:{s:4:"time";s:12:"14-0323-1790";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:12:"电子配件";s:8:"order_id";s:19:"205-5550305-3685958";s:12:"product_name";s:61:"USB Electronic Rechargeable Flameless Cigarette Lighter White";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£3.28";s:6:"s_time";s:5:"41727";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:125:"Austin Osborne<br />
+98 Keresley Road<br />
+<br />
+<br />
+COVENTRY<br />
+W Midlands<br />
+CV6 2JE<br />
+GB<br />
+447722000000";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00D84RJAE";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:46;a:24:{s:4:"time";s:12:"14-0323-1791";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:6:"墙贴";s:8:"order_id";s:19:"204-2497792-8701124";s:12:"product_name";s:71:"PVC LIVE LAUGH LOVE Letters Removable Room Art Mural Wall Sticker Decal";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£1.19";s:6:"s_time";s:5:"41735";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:124:"Nicola Arnold<br />
+1 Renfrew Avenue<br />
+<br />
+<br />
+ST HELENS<br />
+Merseyside<br />
+WA11 9RW<br />
+GB<br />
+7853000206";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00B702TVA";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:47;a:24:{s:4:"time";s:12:"14-0323-1792";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"203-7007175-4269929";s:12:"product_name";s:91:"BRAND NEW RETRO APPLE IPHONE 5 5G CASSETTE TAPE CASE / COVER / SILICONE / GEL / SKIN (Pink)";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£1.48";s:6:"s_time";s:5:"41725";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:148:"Kimberley Whitaker<br />
+Aurelius Investments Limited<br />
+60 St James\' Street<br />
+<br />
+London<br />
+<br />
+SW1A 1LE<br />
+GB<br />
+7903191336";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00BJMG4VM";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:48;a:24:{s:4:"time";s:12:"14-0323-1793";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:6:"墙贴";s:8:"order_id";s:19:"204-8797393-1653156";s:12:"product_name";s:66:"Winnie the Pooh and Tigger on Tree - Removable Wall Sticker Decals";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£4.86";s:6:"s_time";s:5:"41735";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:127:"Kam Gandham<br />
+20 Gingells Farm Road<br />
+Charvil<br />
+<br />
+READING<br />
+Berks<br />
+RG10 9DJ<br />
+GB<br />
+7813612333";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:38:"www.amazon.co.uk/gp/product/B006GPKPEO";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:49;a:24:{s:4:"time";s:12:"14-0323-1794";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:6:"墙贴";s:8:"order_id";s:19:"204-6133884-0169148";s:12:"product_name";s:146:"Lovely Panda & plum blossom Wall Sticker Decal for nursery Bedroom Removable Kids room wallpaper girls and boys birthday party decor Home Wall Art";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£6.99";s:6:"s_time";s:5:"41735";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:135:"Miss gemma gretton<br />
+46 Parsley Hay Gardens<br />
+<br />
+<br />
+SHEFFIELD<br />
+S Yorkshire<br />
+S13 8NN<br />
+GB<br />
+7722512402";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00CEZWW6E";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:50;a:24:{s:4:"time";s:12:"14-0323-1795";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"205-0055027-6838715";s:12:"product_name";s:150:"Two Port 2.1A USB Car Charger - Charge 2 USB devices at once, no more arguments over the car charger! Compatible with all Apple iPad iPhone and iPod m";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£1.60";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:119:"denise el-sadat<br />
+13 moore road<br />
+<br />
+<br />
+ipswich<br />
+suffolk<br />
+ip1 6np<br />
+GB<br />
+01473 424025";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B005JCPZ22";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:51;a:24:{s:4:"time";s:12:"14-0323-1796";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:6:"墙贴";s:8:"order_id";s:19:"204-2772105-1217927";s:12:"product_name";s:78:"HOUSE RULES QUOTE VINYL WALL ART DECAL STICKER IN BLACK - 120CM (H) X 55CM (W)";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£5.40";s:6:"s_time";s:5:"41701";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:147:"Grace Heath<br />
+O A M P S Uk Ltd<br />
+Bancroft Place, 10 Bancroft Road<br />
+<br />
+REIGATE<br />
+Surrey<br />
+RH2 7RP<br />
+GB<br />
+7843236392";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B005XCXET4";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:52;a:24:{s:4:"time";s:12:"14-0323-1797";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"026-3664804-0667547";s:12:"product_name";s:150:"Two Port 2.1A USB Car Charger - Charge 2 USB devices at once, no more arguments over the car charger! Compatible with all Apple iPad iPhone and iPod m";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£1.60";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:130:"Mrs A M Jones<br />
+nursery cottage<br />
+pantperthog<br />
+<br />
+machynlleth<br />
+powys<br />
+SY209AT<br />
+GB<br />
+7784894670";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B005JCPZ22";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:53;a:24:{s:4:"time";s:12:"14-0323-1798";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:6:"墙贴";s:8:"order_id";s:19:"203-0698094-0189112";s:12:"product_name";s:78:"HOUSE RULES QUOTE VINYL WALL ART DECAL STICKER IN BLACK - 120CM (H) X 55CM (W)";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£5.40";s:6:"s_time";s:5:"41701";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:124:"Spencer Taylor<br />
+44 Duxbury Gardens<br />
+<br />
+<br />
+Chorley<br />
+Lancashire<br />
+PR7 3JZ<br />
+GB<br />
+7540845504";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B005XCXET4";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:54;a:24:{s:4:"time";s:12:"14-0323-1799";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:6:"墙贴";s:8:"order_id";s:19:"026-1970886-5951560";s:12:"product_name";s:82:"Removable Vinyl Wall Sticker Mural Decal Art - Dancing Butterflies and Tree Branch";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£2.60";s:6:"s_time";s:5:"41735";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:135:"kirsty ann smith<br />
+trelanvean cottage<br />
+st.keverne<br />
+<br />
+helston<br />
+cornwall<br />
+TR12 6RN<br />
+GB<br />
+1326280356";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B005MDV1NK";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:55;a:24:{s:4:"time";s:12:"14-0323-1800";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:6:"墙贴";s:8:"order_id";s:19:"203-3744270-5332333";s:12:"product_name";s:78:"TC2021 WINNIE THE POOH & FRIENDS CHILDREN\'S ROOM DECOR WALL STICKER 70 x 50cm";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£6.43";s:6:"s_time";s:5:"41701";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:122:"SONIA DALE<br />
+2 McLean Road<br />
+<br />
+<br />
+WOLVERHAMPTON<br />
+W Midlands<br />
+WV10 6RS<br />
+GB<br />
+7896492027";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B005D09PM6";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:56;a:24:{s:4:"time";s:12:"14-0323-1801";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"205-6649733-8379509";s:12:"product_name";s:95:"GaoHuiHong 3Ft 1M Usb3.0 40Pin Sync Data Charge Cable 4 Asus Eee Pad Tf300T Tf201 Tf101/G Sl101";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£2.57";s:6:"s_time";s:5:"41730";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:130:"sajid goreja<br />
+27, westminster place<br />
+<br />
+<br />
+bradford<br />
+west yorkshire<br />
+BD3 0HH<br />
+GB<br />
+7877303898";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00B5T4B3M";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:57;a:24:{s:4:"time";s:12:"14-0323-1802";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:6:"墙贴";s:8:"order_id";s:19:"203-6859777-8862714";s:12:"product_name";s:99:"Nintendo New Super Mario Wii Peel & Stick Wall Decals -Removable Vinyl Wall Sticker Mural Decal Art";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£3.58";s:6:"s_time";s:5:"41735";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:129:"Wilma Jones<br />
+school house<br />
+ffordd dewi sant<br />
+<br />
+pwllheli<br />
+gwynedd<br />
+LL536EA<br />
+GB<br />
+1758720085";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:38:"www.amazon.co.uk/gp/product/B006YX0TGW";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:58;a:24:{s:4:"time";s:12:"14-0323-1803";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:12:"游戏周边";s:8:"order_id";s:19:"202-7906982-9292363";s:12:"product_name";s:16:"Bananagrams Game";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£6.99";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:129:"Anji   Rennie<br />
+Scottish Gas<br />
+1 Waterfront Avenue<br />
+<br />
+Midlothian<br />
+<br />
+EH5 1SG<br />
+GB<br />
+7595293965";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/1932188126";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:59;a:24:{s:4:"time";s:12:"14-0323-1804";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:6:"墙贴";s:8:"order_id";s:19:"026-5912482-6125915";s:12:"product_name";s:78:"HOUSE RULES QUOTE VINYL WALL ART DECAL STICKER IN BLACK - 120CM (H) X 55CM (W)";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£5.40";s:6:"s_time";s:5:"41701";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:115:"Elaine Rea<br />
+45 Jubilee Road<br />
+<br />
+<br />
+retford<br />
+Notts<br />
+DN22 7PG<br />
+GB<br />
+01777 710362";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B005XCXET4";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}}s:13:"result_object";a:60:{i:0;O:8:"stdClass":24:{s:4:"time";s:12:"14-0323-1754";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:6:"其他";s:8:"order_id";s:19:"205-6142523-1004310";s:12:"product_name";s:36:"Naughty Cows Salt and Pepper Shakers";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£4.39";s:6:"s_time";s:5:"41729";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:124:"Amanda Biggs<br />
+43 Glaisdale Avenue<br />
+<br />
+<br />
+COVENTRY<br />
+W Midlands<br />
+CV6 4LQ<br />
+GB<br />
+7752921742";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B004D0B6O2";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:1;O:8:"stdClass":24:{s:4:"time";s:12:"14-0323-1755";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:4:"U盘";s:8:"order_id";s:19:"203-0407616-4697162";s:12:"product_name";s:94:"iGloo 8GB Novelty Cute Baby Owl USB 2.0 Flash Drive Data Memory Stick Device - Brown and White";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£6.50";s:6:"s_time";s:5:"41726";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:146:"Mrs Elizabeth Logan<br />
+8 West Park Place<br />
+Inverbervie<br />
+<br />
+Montrose<br />
+Aberdeenshire<br />
+DD10 0XA<br />
+GB<br />
+01561 362900";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B0089Y7W5K";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:2;O:8:"stdClass":24:{s:4:"time";s:14:"14-0323-1756-1";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:6:"其他";s:8:"order_id";s:19:"203-1100952-2885930";s:12:"product_name";s:31:"Kitchen Craft Strawberry Slicer";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£9.24";s:6:"s_time";s:5:"41729";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:133:"Emma Janine Nyria Young<br />
+24 Paget Drive<br />
+<br />
+<br />
+Maidenhead<br />
+Berkshire<br />
+SL6 3PT<br />
+GB<br />
+01628 826511";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B004VQXIBC";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:3;O:8:"stdClass":24:{s:4:"time";s:14:"14-0323-1756-2";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:6:"其他";s:8:"order_id";s:19:"203-1100952-2885930";s:12:"product_name";s:31:"Kitchen Craft Strawberry Slicer";s:4:"ANSI";s:0:"";s:4:"jine";s:0:"";s:6:"s_time";s:5:"41729";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:133:"Emma Janine Nyria Young<br />
+24 Paget Drive<br />
+<br />
+<br />
+Maidenhead<br />
+Berkshire<br />
+SL6 3PT<br />
+GB<br />
+01628 826511";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B004VQXIBC";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:4;O:8:"stdClass":24:{s:4:"time";s:12:"14-0323-1757";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:6:"其他";s:8:"order_id";s:19:"203-0075202-8921171";s:12:"product_name";s:82:"STUDIO GHIBLI MY NEIGHBOR TOTORO CAT BUS STUFFED PLUSH DOLL 12\" 310MM - FREE GIFT";s:4:"ANSI";s:0:"";s:4:"jine";s:7:"£10.20";s:6:"s_time";s:5:"41729";s:8:"s_number";s:13:"RC885924399HK";s:5:"s_way";s:0:"";s:7:"message";s:0:"";s:9:"s_address";s:139:"Andrew Murray<br />
+23 Wolsingham Drive<br />
+Newton Hall<br />
+<br />
+Durham<br />
+County Durham<br />
+DH1 5XH<br />
+GB<br />
+0191 3860311";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00AWUDRAS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:5;O:8:"stdClass":24:{s:4:"time";s:14:"14-0323-1758-1";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"202-4275244-0411519";s:12:"product_name";s:135:"USB TO MAINS WALL ADAPTOR CHARGER FOR HTC, BLACKBERRY, SAMSUNG, MP3,TOMTOM, APPLE IPHONE 4S 5 4G 3G 3GS IPOD UK #08i UNIVERSAL 5V 1A CE";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£6.24";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:118:"David Glover<br />
+6 Kent Walk<br />
+<br />
+<br />
+NORTHAMPTON<br />
+Northants<br />
+NN5 4UW<br />
+GB<br />
+7764407705";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00CLQXT4A";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:6;O:8:"stdClass":24:{s:4:"time";s:14:"14-0323-1758-2";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"202-4275244-0411519";s:12:"product_name";s:135:"USB TO MAINS WALL ADAPTOR CHARGER FOR HTC, BLACKBERRY, SAMSUNG, MP3,TOMTOM, APPLE IPHONE 4S 5 4G 3G 3GS IPOD UK #08i UNIVERSAL 5V 1A CE";s:4:"ANSI";s:0:"";s:4:"jine";s:0:"";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:118:"David Glover<br />
+6 Kent Walk<br />
+<br />
+<br />
+NORTHAMPTON<br />
+Northants<br />
+NN5 4UW<br />
+GB<br />
+7764407705";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00CLQXT4A";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:7;O:8:"stdClass":24:{s:4:"time";s:14:"14-0323-1758-3";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"202-4275244-0411519";s:12:"product_name";s:135:"USB TO MAINS WALL ADAPTOR CHARGER FOR HTC, BLACKBERRY, SAMSUNG, MP3,TOMTOM, APPLE IPHONE 4S 5 4G 3G 3GS IPOD UK #08i UNIVERSAL 5V 1A CE";s:4:"ANSI";s:0:"";s:4:"jine";s:0:"";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:118:"David Glover<br />
+6 Kent Walk<br />
+<br />
+<br />
+NORTHAMPTON<br />
+Northants<br />
+NN5 4UW<br />
+GB<br />
+7764407705";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00CLQXT4A";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:8;O:8:"stdClass":24:{s:4:"time";s:12:"14-0323-1759";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:9:"宠物类";s:8:"order_id";s:19:"202-2188754-1165148";s:12:"product_name";s:34:"Dog / Pet Travel Water Bottle Bowl";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£3.59";s:6:"s_time";s:5:"41727";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:113:"sheena reed<br />
+28 forest drive<br />
+<br />
+<br />
+fyfield<br />
+essex<br />
+cm5 0tp<br />
+GB<br />
+1277899757";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B004WFCG6U";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:9;O:8:"stdClass":24:{s:4:"time";s:12:"14-0323-1760";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"202-5472065-6411527";s:12:"product_name";s:135:"USB TO MAINS WALL ADAPTOR CHARGER FOR HTC, BLACKBERRY, SAMSUNG, MP3,TOMTOM, APPLE IPHONE 4S 5 4G 3G 3GS IPOD UK #08i UNIVERSAL 5V 1A CE";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£2.08";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:133:"MRS FIONA CARROLL<br />
+42 EYEBROOK ROAD<br />
+BOWDON<br />
+<br />
+ALTRINCHAM<br />
+CHESHIRE<br />
+WA14 3LP<br />
+GB<br />
+1619417147";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00CLQXT4A";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:10;O:8:"stdClass":24:{s:4:"time";s:14:"14-0323-1761-1";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:6:"墙贴";s:8:"order_id";s:19:"204-2265239-4677906";s:12:"product_name";s:86:"Animal Lion Giraffe Monkey Wall Stickers With Decor Decal Art For Kids Nursery Bedroom";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£8.49";s:6:"s_time";s:5:"41735";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:135:"Catherine Loveridge<br />
+1 The Cottage<br />
+Meeting Hill<br />
+<br />
+Worstead<br />
+Norfolk<br />
+NR28 9LR<br />
+GB<br />
+1692218413";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B0091FS96C";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:11;O:8:"stdClass":24:{s:4:"time";s:14:"14-0323-1761-2";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:6:"墙贴";s:8:"order_id";s:19:"204-2265239-4677906";s:12:"product_name";s:86:"Animal Lion Giraffe Monkey Wall Stickers With Decor Decal Art For Kids Nursery Bedroom";s:4:"ANSI";s:0:"";s:4:"jine";s:0:"";s:6:"s_time";s:5:"41735";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:135:"Catherine Loveridge<br />
+1 The Cottage<br />
+Meeting Hill<br />
+<br />
+Worstead<br />
+Norfolk<br />
+NR28 9LR<br />
+GB<br />
+1692218413";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B0091FS96C";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:12;O:8:"stdClass":24:{s:4:"time";s:14:"14-0323-1761-3";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:6:"墙贴";s:8:"order_id";s:19:"204-2265239-4677906";s:12:"product_name";s:86:"Animal Lion Giraffe Monkey Wall Stickers With Decor Decal Art For Kids Nursery Bedroom";s:4:"ANSI";s:0:"";s:4:"jine";s:0:"";s:6:"s_time";s:5:"41735";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:135:"Catherine Loveridge<br />
+1 The Cottage<br />
+Meeting Hill<br />
+<br />
+Worstead<br />
+Norfolk<br />
+NR28 9LR<br />
+GB<br />
+1692218413";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B0091FS96C";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:13;O:8:"stdClass":24:{s:4:"time";s:14:"14-0323-1761-4";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:6:"墙贴";s:8:"order_id";s:19:"204-2265239-4677906";s:12:"product_name";s:151:"Naughty Monkey and Yellow Giraffe wall sticker for kid\'s bedroom cartoon animals Height Chart (60cm-180cm) Nursery Wall Decal Decor Removable wallpape";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£2.89";s:6:"s_time";s:5:"41735";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:135:"Catherine Loveridge<br />
+1 The Cottage<br />
+Meeting Hill<br />
+<br />
+Worstead<br />
+Norfolk<br />
+NR28 9LR<br />
+GB<br />
+1692218413";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B0091FS96C";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:14;O:8:"stdClass":24:{s:4:"time";s:12:"14-0323-1762";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:6:"其他";s:8:"order_id";s:19:"205-0425874-4830720";s:12:"product_name";s:81:"niceEshop(TM) Bun HAIR Former Donut Doughnut Shaper RING Style Hairdressing-Black";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£1.58";s:6:"s_time";s:5:"41733";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:123:"joanna bradley<br />
+79 hamilton road<br />
+<br />
+<br />
+high wycombe<br />
+bucks<br />
+HP13 5BQ<br />
+GB<br />
+1494534974";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00EOQI96S";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:15;O:8:"stdClass":24:{s:4:"time";s:14:"14-0323-1763-1";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:4:"U盘";s:8:"order_id";s:19:"026-2213772-8936343";s:12:"product_name";s:87:"Despicable Me 2 minions 8GB USB Flash Drive (Dave/Kevin) 8G Memory Stick U Disk -Yellow";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£5.47";s:6:"s_time";s:5:"41737";s:8:"s_number";s:13:"RC882406642HK";s:5:"s_way";s:0:"";s:7:"message";s:0:"";s:9:"s_address";s:142:"Mr John Bedford<br />
+Willis And Co<br />
+55 59 Donegall Street<br />
+<br />
+BELFAST<br />
+Co Antrim<br />
+BT1 2FH<br />
+GB<br />
+07799 473444";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00G21WR3E";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:16;O:8:"stdClass":24:{s:4:"time";s:14:"14-0323-1763-2";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:4:"U盘";s:8:"order_id";s:19:"026-2213772-8936343";s:12:"product_name";s:56:"8GB Minion (One-Eyed) USB Flash Drive from Despicable Me";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£5.50";s:6:"s_time";s:5:"41737";s:8:"s_number";s:13:"RC882406642HK";s:5:"s_way";s:0:"";s:7:"message";s:0:"";s:9:"s_address";s:142:"Mr John Bedford<br />
+Willis And Co<br />
+55 59 Donegall Street<br />
+<br />
+BELFAST<br />
+Co Antrim<br />
+BT1 2FH<br />
+GB<br />
+07799 473444";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00FOMJA0K";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:17;O:8:"stdClass":24:{s:4:"time";s:12:"14-0323-1764";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:9:"手机壳";s:8:"order_id";s:19:"205-3430981-8508348";s:12:"product_name";s:42:"Armband Case for Apple iPhone 5 5S (black)";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£3.36";s:6:"s_time";s:5:"41727";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:126:"Jackie Edwards<br />
+60 North Street<br />
+<br />
+<br />
+ATHERSTONE<br />
+WARWICKSHIRE<br />
+CV9 1JW<br />
+GB<br />
+1827790495";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00CKIS0WA";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:18;O:8:"stdClass":24:{s:4:"time";s:12:"14-0323-1765";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:6:"其他";s:8:"order_id";s:19:"205-4960630-9101109";s:12:"product_name";s:36:"Naughty Cows Salt and Pepper Shakers";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£4.39";s:6:"s_time";s:5:"41729";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:145:"Max Glenister<br />
+2degrees<br />
+228-240 Banbury Road, Summertown<br />
+<br />
+Oxford<br />
+Oxfordshire<br />
+OX2 7BY<br />
+GB<br />
+7535509095";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B004D0B6O2";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:19;O:8:"stdClass":24:{s:4:"time";s:12:"14-0323-1766";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"203-4012310-7607515";s:12:"product_name";s:135:"USB TO MAINS WALL ADAPTOR CHARGER FOR HTC, BLACKBERRY, SAMSUNG, MP3,TOMTOM, APPLE IPHONE 4S 5 4G 3G 3GS IPOD UK #08i UNIVERSAL 5V 1A CE";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£2.08";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:140:"Norma Luke<br />
+4 Kirkside<br />
+New Herrington<br />
+<br />
+HOUGHTON LE SPRING<br />
+Tyne And Wear<br />
+DH4 4NX<br />
+GB<br />
+7802181629";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00CLQXT4A";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:20;O:8:"stdClass":24:{s:4:"time";s:12:"14-0323-1767";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"204-0077837-1228363";s:12:"product_name";s:135:"USB TO MAINS WALL ADAPTOR CHARGER FOR HTC, BLACKBERRY, SAMSUNG, MP3,TOMTOM, APPLE IPHONE 4S 5 4G 3G 3GS IPOD UK #08i UNIVERSAL 5V 1A CE";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£2.08";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:133:"Lysanne Dunn<br />
+Priory House<br />
+21 Hopetoun Road<br />
+<br />
+South Queensferry<br />
+<br />
+EH30 9RB<br />
+GB<br />
+7557906822";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00CLQXT4A";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:21;O:8:"stdClass":24:{s:4:"time";s:12:"14-0323-1768";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:9:"车载类";s:8:"order_id";s:19:"202-6615905-8033136";s:12:"product_name";s:118:"Premium In Car Holder Windscreen Suction Mount for Apple iPhone 4 4S, iPhone 5 5S 5C - Mobile Accessories By Sunwire®";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£5.78";s:6:"s_time";s:5:"41731";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:121:"Gavin Taylor<br />
+48<br />
+Mornington Avenue<br />
+<br />
+Rochford<br />
+ESSEX<br />
+SS4 1DN<br />
+GB<br />
+01702 533930";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:38:"www.amazon.co.uk/gp/product/B004GTBIO8";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:22;O:8:"stdClass":24:{s:4:"time";s:12:"14-0323-1769";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:6:"墙贴";s:8:"order_id";s:19:"205-8108232-9865930";s:12:"product_name";s:133:"Orien Winnie The Pooh PVC Removable Reusable Wall Sticker Home Decor For Kids /Nursery /Boys /Girls /Children Room Bedroom Art Decals";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£5.35";s:6:"s_time";s:5:"41735";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:133:"Kelsey segasby<br />
+6 The Oaklands<br />
+Wragby<br />
+<br />
+Market Rasen<br />
+lincolnshire<br />
+LN8 5UT<br />
+GB<br />
+7715595347";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00EOLLY7O";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:23;O:8:"stdClass":24:{s:4:"time";s:12:"14-0323-1770";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:12:"游戏周边";s:8:"order_id";s:19:"203-9541467-5164355";s:12:"product_name";s:16:"Bananagrams Game";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£6.99";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:139:"Mrs T Bowen<br />
+Shirley Parish Office<br />
+133 Church Street<br />
+<br />
+Southampton<br />
+<br />
+SO15 5LW<br />
+GB<br />
+023 8077 1755";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/1932188126";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:24;O:8:"stdClass":24:{s:4:"time";s:12:"14-0323-1771";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:9:"手机壳";s:8:"order_id";s:19:"205-6712208-1522747";s:12:"product_name";s:42:"Armband Case for Apple iPhone 5 5S (white)";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£3.69";s:6:"s_time";s:5:"41727";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:125:"Catherine Chow<br />
+14 Autumn Court<br />
+Spring Gardens<br />
+<br />
+Romford<br />
+<br />
+RM7 9BN<br />
+GB<br />
+7950257780";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00CKIS0VQ";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:25;O:8:"stdClass":24:{s:4:"time";s:12:"14-0323-1772";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:6:"LED灯";s:8:"order_id";s:19:"202-9863266-2390759";s:12:"product_name";s:107:"coolshiny®Snail charge small table lamp led energy saving night light wall bedside desk baby sleeping lamp";s:4:"ANSI";s:0:"";s:4:"jine";s:7:"£16.98";s:6:"s_time";s:5:"41726";s:8:"s_number";s:13:"RC882406656HK";s:5:"s_way";s:0:"";s:7:"message";s:0:"";s:9:"s_address";s:167:"Miss Joanne Savident<br />
+Jolee, Clos De La Cache Sous Les Courtils<br />
+Castel<br />
+<br />
+GUERNSEY<br />
+Channel Islands<br />
+GY5 7JA<br />
+GB<br />
+07781 107677";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F1T0TF6";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:26;O:8:"stdClass":24:{s:4:"time";s:12:"14-0323-1773";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"205-2779273-4181138";s:12:"product_name";s:135:"USB TO MAINS WALL ADAPTOR CHARGER FOR HTC, BLACKBERRY, SAMSUNG, MP3,TOMTOM, APPLE IPHONE 4S 5 4G 3G 3GS IPOD UK #08i UNIVERSAL 5V 1A CE";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£2.08";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:112:"K Reid<br />
+11 Elder way<br />
+Erdington<br />
+<br />
+Birmingham<br />
+<br />
+B23 7LZ<br />
+GB<br />
+7949813026";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00CLQXT4A";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:27;O:8:"stdClass":24:{s:4:"time";s:12:"14-0323-1774";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:6:"墙贴";s:8:"order_id";s:19:"202-0210116-4094751";s:12:"product_name";s:78:"Huge Large Spiderman Wall Stickers Children Boys Bedroom Decal art Mural Decor";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£4.04";s:6:"s_time";s:5:"41735";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:123:"Darrell Latimer<br />
+10 Dundonnell Way<br />
+<br />
+<br />
+Dunfermline<br />
+Fife<br />
+KY11 8FS<br />
+GB<br />
+7817662853";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00E3GN662";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:28;O:8:"stdClass":24:{s:4:"time";s:12:"14-0323-1775";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:12:"游戏周边";s:8:"order_id";s:19:"026-3691439-2696342";s:12:"product_name";s:16:"Bananagrams Game";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£6.99";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:125:"Angela Butler<br />
+Amber House<br />
+Lincombe Drive<br />
+<br />
+Torquay<br />
+Devon<br />
+TQ1 2LP<br />
+GB<br />
+1803211014";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/1932188126";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:29;O:8:"stdClass":24:{s:4:"time";s:12:"14-0323-1776";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"202-6253302-7977926";s:12:"product_name";s:135:"USB TO MAINS WALL ADAPTOR CHARGER FOR HTC, BLACKBERRY, SAMSUNG, MP3,TOMTOM, APPLE IPHONE 4S 5 4G 3G 3GS IPOD UK #08i UNIVERSAL 5V 1A CE";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£2.08";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:124:"Mrs L Ratcliffe<br />
+20 Enfield Walk<br />
+<br />
+<br />
+BRADFORD<br />
+W Yorkshire<br />
+BD6 3HY<br />
+GB<br />
+7773175724";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00CLQXT4A";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:30;O:8:"stdClass":24:{s:4:"time";s:14:"14-0323-1777-1";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:12:"游戏周边";s:8:"order_id";s:19:"202-1188299-8922716";s:12:"product_name";s:82:"STUDIO GHIBLI MY NEIGHBOR TOTORO CAT BUS STUFFED PLUSH DOLL 12\" 310MM - FREE GIFT";s:4:"ANSI";s:0:"";s:4:"jine";s:7:"£10.20";s:6:"s_time";s:5:"41729";s:8:"s_number";s:13:"RC882406660HK";s:5:"s_way";s:0:"";s:7:"message";s:0:"";s:9:"s_address";s:129:"Craig Colgan<br />
+the Nook<br />
+Tanyard Lane<br />
+<br />
+Winchelsea<br />
+East Sussex<br />
+TN36 4JT<br />
+GB<br />
+7825662043";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00AWUDRAS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:31;O:8:"stdClass":24:{s:4:"time";s:14:"14-0323-1777-2";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:6:"其他";s:8:"order_id";s:19:"202-1188299-8922716";s:12:"product_name";s:58:"My Neighbor Totoro 9\" tall gray Totoro Plush By Tiny Deal";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£8.40";s:6:"s_time";s:5:"41729";s:8:"s_number";s:13:"RC882406660HK";s:5:"s_way";s:0:"";s:7:"message";s:0:"";s:9:"s_address";s:129:"Craig Colgan<br />
+the Nook<br />
+Tanyard Lane<br />
+<br />
+Winchelsea<br />
+East Sussex<br />
+TN36 4JT<br />
+GB<br />
+7825662043";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00C86K7S4";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:32;O:8:"stdClass":24:{s:4:"time";s:12:"14-0323-1778";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"204-7217700-5156338";s:12:"product_name";s:150:"Ama-Pro\'s own iPhone 5 2 Meter extra long 2m Lighting to USB Data Sync Cable Adaptor USB Charger Wire Lead for iPhone5 iPhone 5, iPad Mini, Mini iPad";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£1.84";s:6:"s_time";s:5:"41725";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:130:"Emma Holliwell<br />
+4 Flands Cottages<br />
+Berners Roding<br />
+<br />
+Ongar<br />
+Essex<br />
+CM5 0TD<br />
+GB<br />
+7791679035";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B0064NMER4";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:33;O:8:"stdClass":24:{s:4:"time";s:14:"14-0323-1779-1";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:12:"游戏周边";s:8:"order_id";s:19:"026-2103998-1875551";s:12:"product_name";s:16:"Bananagrams Game";s:4:"ANSI";s:0:"";s:4:"jine";s:7:"£13.98";s:6:"s_time";s:5:"41724";s:8:"s_number";s:13:"RC882406673HK";s:5:"s_way";s:0:"";s:7:"message";s:0:"";s:9:"s_address";s:121:"J Humphreys<br />
+59 Trafalgar Road<br />
+<br />
+<br />
+Kettering<br />
+Northants<br />
+NN168DD<br />
+GB<br />
+7733240141";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/1932188126";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:34;O:8:"stdClass":24:{s:4:"time";s:14:"14-0323-1779-2";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:12:"游戏周边";s:8:"order_id";s:19:"026-2103998-1875551";s:12:"product_name";s:16:"Bananagrams Game";s:4:"ANSI";s:0:"";s:4:"jine";s:0:"";s:6:"s_time";s:5:"41724";s:8:"s_number";s:13:"RC882406673HK";s:5:"s_way";s:0:"";s:7:"message";s:0:"";s:9:"s_address";s:121:"J Humphreys<br />
+59 Trafalgar Road<br />
+<br />
+<br />
+Kettering<br />
+Northants<br />
+NN168DD<br />
+GB<br />
+7733240141";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/1932188126";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:35;O:8:"stdClass":24:{s:4:"time";s:12:"14-0323-1780";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:4:"U盘";s:8:"order_id";s:19:"205-1163905-1609945";s:12:"product_name";s:94:"iGloo 8GB Novelty Cute Baby Owl USB 2.0 Flash Drive Data Memory Stick Device - Brown and White";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£6.50";s:6:"s_time";s:5:"41734";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:120:"Janine Millar<br />
+14 Smieton Street<br />
+<br />
+<br />
+Carnoustie<br />
+Angus<br />
+DD7 7NE<br />
+GB<br />
+7871276304";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B0089Y7W5K";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:36;O:8:"stdClass":24:{s:4:"time";s:12:"14-0323-1781";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"205-5663250-7857904";s:12:"product_name";s:70:"worldwide usb Travel Adaptor/charger plug -works in over 175 countries";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£3.00";s:6:"s_time";s:5:"41738";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:12:"取消发货";s:9:"s_address";s:135:"Paul Charman<br />
+24 Smugglers Way<br />
+Barns Green<br />
+<br />
+Horsham<br />
+West Sussex<br />
+RH13 0PP<br />
+GB<br />
+01403 733678";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B001I7QAYE";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:37;O:8:"stdClass":24:{s:4:"time";s:12:"14-0323-1782";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:9:"手机壳";s:8:"order_id";s:19:"202-0032314-1764363";s:12:"product_name";s:42:"Armband Case for Apple iPhone 5 5S (black)";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£3.36";s:6:"s_time";s:5:"41727";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:135:"Miss Jessica Ibbotson<br />
+106 Hartopp Road<br />
+<br />
+<br />
+Leicester<br />
+Leicestershire<br />
+LE2 1WF<br />
+GB<br />
+7871933772";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00CKIS0WA";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:38;O:8:"stdClass":24:{s:4:"time";s:12:"14-0323-1783";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:6:"其他";s:8:"order_id";s:19:"203-9790264-5360338";s:12:"product_name";s:37:"Labels For Luggage Luggage Tags (2pk)";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£4.89";s:6:"s_time";s:5:"41733";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:135:"Rhiannon Coultate<br />
+76 St. Barnabas Road<br />
+<br />
+<br />
+Cambridge<br />
+Cambridgeshire<br />
+CB1 2DE<br />
+GB<br />
+7854903312";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B000KLSUU6";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:39;O:8:"stdClass":24:{s:4:"time";s:12:"14-0323-1784";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:9:"化妆品";s:8:"order_id";s:19:"204-4398385-4919562";s:12:"product_name";s:82:"Black Zipper Cosmetic Bag Toiletry Bag Make-up Bag Hand Case Bag with Dot Patterns";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£3.97";s:6:"s_time";s:5:"41727";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:114:"katie chatfield<br />
+82 Western Road<br />
+<br />
+<br />
+DEAL<br />
+Kent<br />
+CT14 6PL<br />
+GB<br />
+7957410262";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00BAO2T40";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:40;O:8:"stdClass":24:{s:4:"time";s:12:"14-0323-1785";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"202-0076725-8779558";s:12:"product_name";s:58:"30 pin to 8pin Audio Adapter for iPhone 5 5S 5C iPod touch";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£1.98";s:6:"s_time";s:5:"41733";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:143:"Matt Micheal Moss<br />
+50 Winchcombe Meadows<br />
+Stantonbury<br />
+<br />
+MILTON KEYNES<br />
+Bucks<br />
+MK14 6GA<br />
+GB<br />
+7791781170";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00ESY528Y";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:41;O:8:"stdClass":24:{s:4:"time";s:12:"14-0323-1786";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"026-7091522-2406718";s:12:"product_name";s:70:"worldwide usb Travel Adaptor/charger plug -works in over 175 countries";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£3.00";s:6:"s_time";s:5:"41738";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:12:"取消发货";s:9:"s_address";s:119:"Chirag Mehta<br />
+69 Highmead Crescent<br />
+<br />
+<br />
+WEMBLEY<br />
+Middx<br />
+HA0 4ED<br />
+GB<br />
+7877121434";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B001I7QAYE";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:42;O:8:"stdClass":24:{s:4:"time";s:12:"14-0323-1787";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:12:"游戏周边";s:8:"order_id";s:19:"202-9513978-9896336";s:12:"product_name";s:16:"Bananagrams Game";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£6.99";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:121:"lesley monk<br />
+18 brookside<br />
+walton<br />
+<br />
+peterborough<br />
+cambs<br />
+pe4 6gl<br />
+GB<br />
+1733573956";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/1932188126";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:43;O:8:"stdClass":24:{s:4:"time";s:12:"14-0323-1788";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:12:"游戏周边";s:8:"order_id";s:19:"202-2562923-4597120";s:12:"product_name";s:16:"Bananagrams Game";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£6.99";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:137:"Angus Stuart Mackenzie<br />
+The Cottage<br />
+Howey<br />
+<br />
+Llandrindod Wells<br />
+Powys<br />
+LD1 5PS<br />
+GB<br />
+441598000000";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/1932188126";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:44;O:8:"stdClass":24:{s:4:"time";s:12:"14-0323-1789";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:4:"U盘";s:8:"order_id";s:19:"203-8902642-1851511";s:12:"product_name";s:71:"4GB Novelty Cute Brown Owl USB 2.0 Flash Drive Data Memory Stick Device";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£3.98";s:6:"s_time";s:5:"41726";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:121:"margaret o\'brien<br />
+4 Kittiwake Close<br />
+<br />
+<br />
+BLYTH<br />
+Northd<br />
+NE24 3RG<br />
+GB<br />
+1670361108";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:38:"www.amazon.co.uk/gp/product/B00GAW94SG";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:45;O:8:"stdClass":24:{s:4:"time";s:12:"14-0323-1790";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:12:"电子配件";s:8:"order_id";s:19:"205-5550305-3685958";s:12:"product_name";s:61:"USB Electronic Rechargeable Flameless Cigarette Lighter White";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£3.28";s:6:"s_time";s:5:"41727";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:125:"Austin Osborne<br />
+98 Keresley Road<br />
+<br />
+<br />
+COVENTRY<br />
+W Midlands<br />
+CV6 2JE<br />
+GB<br />
+447722000000";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00D84RJAE";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:46;O:8:"stdClass":24:{s:4:"time";s:12:"14-0323-1791";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:6:"墙贴";s:8:"order_id";s:19:"204-2497792-8701124";s:12:"product_name";s:71:"PVC LIVE LAUGH LOVE Letters Removable Room Art Mural Wall Sticker Decal";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£1.19";s:6:"s_time";s:5:"41735";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:124:"Nicola Arnold<br />
+1 Renfrew Avenue<br />
+<br />
+<br />
+ST HELENS<br />
+Merseyside<br />
+WA11 9RW<br />
+GB<br />
+7853000206";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00B702TVA";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:47;O:8:"stdClass":24:{s:4:"time";s:12:"14-0323-1792";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"203-7007175-4269929";s:12:"product_name";s:91:"BRAND NEW RETRO APPLE IPHONE 5 5G CASSETTE TAPE CASE / COVER / SILICONE / GEL / SKIN (Pink)";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£1.48";s:6:"s_time";s:5:"41725";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:148:"Kimberley Whitaker<br />
+Aurelius Investments Limited<br />
+60 St James\' Street<br />
+<br />
+London<br />
+<br />
+SW1A 1LE<br />
+GB<br />
+7903191336";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00BJMG4VM";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:48;O:8:"stdClass":24:{s:4:"time";s:12:"14-0323-1793";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:6:"墙贴";s:8:"order_id";s:19:"204-8797393-1653156";s:12:"product_name";s:66:"Winnie the Pooh and Tigger on Tree - Removable Wall Sticker Decals";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£4.86";s:6:"s_time";s:5:"41735";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:127:"Kam Gandham<br />
+20 Gingells Farm Road<br />
+Charvil<br />
+<br />
+READING<br />
+Berks<br />
+RG10 9DJ<br />
+GB<br />
+7813612333";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:38:"www.amazon.co.uk/gp/product/B006GPKPEO";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:49;O:8:"stdClass":24:{s:4:"time";s:12:"14-0323-1794";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:6:"墙贴";s:8:"order_id";s:19:"204-6133884-0169148";s:12:"product_name";s:146:"Lovely Panda & plum blossom Wall Sticker Decal for nursery Bedroom Removable Kids room wallpaper girls and boys birthday party decor Home Wall Art";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£6.99";s:6:"s_time";s:5:"41735";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:135:"Miss gemma gretton<br />
+46 Parsley Hay Gardens<br />
+<br />
+<br />
+SHEFFIELD<br />
+S Yorkshire<br />
+S13 8NN<br />
+GB<br />
+7722512402";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00CEZWW6E";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:50;O:8:"stdClass":24:{s:4:"time";s:12:"14-0323-1795";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"205-0055027-6838715";s:12:"product_name";s:150:"Two Port 2.1A USB Car Charger - Charge 2 USB devices at once, no more arguments over the car charger! Compatible with all Apple iPad iPhone and iPod m";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£1.60";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:119:"denise el-sadat<br />
+13 moore road<br />
+<br />
+<br />
+ipswich<br />
+suffolk<br />
+ip1 6np<br />
+GB<br />
+01473 424025";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B005JCPZ22";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:51;O:8:"stdClass":24:{s:4:"time";s:12:"14-0323-1796";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:6:"墙贴";s:8:"order_id";s:19:"204-2772105-1217927";s:12:"product_name";s:78:"HOUSE RULES QUOTE VINYL WALL ART DECAL STICKER IN BLACK - 120CM (H) X 55CM (W)";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£5.40";s:6:"s_time";s:5:"41701";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:147:"Grace Heath<br />
+O A M P S Uk Ltd<br />
+Bancroft Place, 10 Bancroft Road<br />
+<br />
+REIGATE<br />
+Surrey<br />
+RH2 7RP<br />
+GB<br />
+7843236392";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B005XCXET4";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:52;O:8:"stdClass":24:{s:4:"time";s:12:"14-0323-1797";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"026-3664804-0667547";s:12:"product_name";s:150:"Two Port 2.1A USB Car Charger - Charge 2 USB devices at once, no more arguments over the car charger! Compatible with all Apple iPad iPhone and iPod m";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£1.60";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:130:"Mrs A M Jones<br />
+nursery cottage<br />
+pantperthog<br />
+<br />
+machynlleth<br />
+powys<br />
+SY209AT<br />
+GB<br />
+7784894670";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B005JCPZ22";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:53;O:8:"stdClass":24:{s:4:"time";s:12:"14-0323-1798";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:6:"墙贴";s:8:"order_id";s:19:"203-0698094-0189112";s:12:"product_name";s:78:"HOUSE RULES QUOTE VINYL WALL ART DECAL STICKER IN BLACK - 120CM (H) X 55CM (W)";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£5.40";s:6:"s_time";s:5:"41701";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:124:"Spencer Taylor<br />
+44 Duxbury Gardens<br />
+<br />
+<br />
+Chorley<br />
+Lancashire<br />
+PR7 3JZ<br />
+GB<br />
+7540845504";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B005XCXET4";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:54;O:8:"stdClass":24:{s:4:"time";s:12:"14-0323-1799";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:6:"墙贴";s:8:"order_id";s:19:"026-1970886-5951560";s:12:"product_name";s:82:"Removable Vinyl Wall Sticker Mural Decal Art - Dancing Butterflies and Tree Branch";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£2.60";s:6:"s_time";s:5:"41735";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:135:"kirsty ann smith<br />
+trelanvean cottage<br />
+st.keverne<br />
+<br />
+helston<br />
+cornwall<br />
+TR12 6RN<br />
+GB<br />
+1326280356";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B005MDV1NK";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:55;O:8:"stdClass":24:{s:4:"time";s:12:"14-0323-1800";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:6:"墙贴";s:8:"order_id";s:19:"203-3744270-5332333";s:12:"product_name";s:78:"TC2021 WINNIE THE POOH & FRIENDS CHILDREN\'S ROOM DECOR WALL STICKER 70 x 50cm";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£6.43";s:6:"s_time";s:5:"41701";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:122:"SONIA DALE<br />
+2 McLean Road<br />
+<br />
+<br />
+WOLVERHAMPTON<br />
+W Midlands<br />
+WV10 6RS<br />
+GB<br />
+7896492027";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B005D09PM6";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:56;O:8:"stdClass":24:{s:4:"time";s:12:"14-0323-1801";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"205-6649733-8379509";s:12:"product_name";s:95:"GaoHuiHong 3Ft 1M Usb3.0 40Pin Sync Data Charge Cable 4 Asus Eee Pad Tf300T Tf201 Tf101/G Sl101";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£2.57";s:6:"s_time";s:5:"41730";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:130:"sajid goreja<br />
+27, westminster place<br />
+<br />
+<br />
+bradford<br />
+west yorkshire<br />
+BD3 0HH<br />
+GB<br />
+7877303898";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00B5T4B3M";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:57;O:8:"stdClass":24:{s:4:"time";s:12:"14-0323-1802";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:6:"墙贴";s:8:"order_id";s:19:"203-6859777-8862714";s:12:"product_name";s:99:"Nintendo New Super Mario Wii Peel & Stick Wall Decals -Removable Vinyl Wall Sticker Mural Decal Art";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£3.58";s:6:"s_time";s:5:"41735";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:129:"Wilma Jones<br />
+school house<br />
+ffordd dewi sant<br />
+<br />
+pwllheli<br />
+gwynedd<br />
+LL536EA<br />
+GB<br />
+1758720085";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:38:"www.amazon.co.uk/gp/product/B006YX0TGW";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:58;O:8:"stdClass":24:{s:4:"time";s:12:"14-0323-1803";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:12:"游戏周边";s:8:"order_id";s:19:"202-7906982-9292363";s:12:"product_name";s:16:"Bananagrams Game";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£6.99";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:129:"Anji   Rennie<br />
+Scottish Gas<br />
+1 Waterfront Avenue<br />
+<br />
+Midlothian<br />
+<br />
+EH5 1SG<br />
+GB<br />
+7595293965";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/1932188126";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:59;O:8:"stdClass":24:{s:4:"time";s:12:"14-0323-1804";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:6:"墙贴";s:8:"order_id";s:19:"026-5912482-6125915";s:12:"product_name";s:78:"HOUSE RULES QUOTE VINYL WALL ART DECAL STICKER IN BLACK - 120CM (H) X 55CM (W)";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£5.40";s:6:"s_time";s:5:"41701";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:115:"Elaine Rea<br />
+45 Jubilee Road<br />
+<br />
+<br />
+retford<br />
+Notts<br />
+DN22 7PG<br />
+GB<br />
+01777 710362";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B005XCXET4";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}}s:20:"custom_result_object";a:0:{}s:11:"current_row";i:0;s:8:"num_rows";i:60;s:8:"row_data";N;}

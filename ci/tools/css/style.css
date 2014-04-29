@@ -1,0 +1,107 @@
+/* 表格的样式 */
+@charset "utf-8";
+body {font: normal 13px auto "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;color: #4f6b72;background: #E6EAE9;}
+a {color: #f00;margin: 0 2px;}
+#mytable {width: 700px;padding: 0;margin: 0;}
+caption {padding: 0 0 5px 0;width: 700px;font: italic 13px "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;text-align: right;}
+table{width:100%;margin: 5px 0 0;}
+th {font: bold 13px "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;color: #4f6b72;border-right: 1px solid #C1DAD7;border-bottom: 1px solid #C1DAD7;border-top: 1px solid #C1DAD7;letter-spacing: 2px;text-transform: uppercase;text-align: center;padding: 6px 6px 6px 12px;background: #CAE8EA  no-repeat;}
+/*power by www.winshell.cn*/
+th.nobg {border-top: 0;border-left: 0;border-right: 1px solid #C1DAD7;background: none;}
+td {border: 1px solid #C1DAD7;background: #fff;color: #4f6b72;}
+
+.button01{width:142px;height:25px;background:url(img/box_button01.gif) no-repeat;border:none;cursor:hand}
+.button01 span{width:142px;height:25px;display:block;line-height:25px;font-size:14px;color:#000000;text-align:center;font-weight:bold;}
+td.alt {background: #F5FAFA;color: #797268;}
+
+th.spec {border-left: 1px solid #C1DAD7;border-top: 0;background: #fff no-repeat;font: bold 13px "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;}
+th.specalt {border-left: 1px solid #C1DAD7;border-top: 0;background: #f5fafa no-repeat;font: bold 13px "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;color: #797268;}
+/*---------for IE 5.x bug*/
+body td{ font-size:13px;text-align: left; padding-left: 5px; word-break:break-all;}
+body,td,th { cursor: default;padding:5px;}
+.server{color:red;font-weight:bold;}
+.puserver{color:#FF66FF;font-weight:bold;}
+.zhongserver{color:#99FF33;font-weight:bold;}
+.tuiserver{color:blue;font-weight:bold;font-size:15px;text-decoration: blink;}
+
+/* 弹出层的样式*/
+html,body {height:100%; margin:0px; font-size:12px;}
+
+.mydiv {
+background-color:#E6EAE9;
+border: none;
+/*
+text-align: center;
+line-height: 40px;
+font-size: 12px;
+font-weight: bold;*/
+z-index:9;
+/*
+width: 300px;
+height: 120px;
+*/
+left:50%;/*FF IE7*/
+/*top: 50%;FF IE7*/
+top:33%;
+margin-left:-150px!important;/*FF IE7 该值为本身宽的一半 */
+margin-top:-60px!important;/*FF IE7 该值为本身高的一半*/
+
+margin-top:0px;
+
+position:fixed!important;/*FF IE7*/
+position:absolute;/*IE6*/
+
+_top:       expression(eval(document.compatMode &&
+            document.compatMode=='CSS1Compat') ?
+            documentElement.scrollTop + (document.documentElement.clientHeight-this.offsetHeight)/2 :/*IE6*/
+            document.body.scrollTop + (document.body.clientHeight - this.clientHeight)/2);/*IE5 IE5.5*/
+
+}
+ 
+.bg {
+background-color: #ccc;
+width: 100%;
+height: 100%;
+left:0;
+top:0;/*FF IE7*/
+filter:alpha(opacity=50);/*IE*/
+opacity:0.5;/*FF*/
+z-index:1;
+
+position:fixed!important;/*FF IE7*/
+position:absolute;/*IE6*/
+
+_top:       expression(eval(document.compatMode &&
+            document.compatMode=='CSS1Compat') ?
+            documentElement.scrollTop + (document.documentElement.clientHeight-this.offsetHeight)/2 :/*IE6*/
+            document.body.scrollTop + (document.body.clientHeight - this.clientHeight)/2);/*IE5 IE5.5*/
+
+}
+/*The END*/
+
+
+.buy_image_sys{cursor:pointer}
+.shaixuan{float:right;padding-right:20px;}
+.shaixuan li{list-style:none;line-height:24px; }
+.edit_info{float:left;margin-left:150px;}
+.edit_pic{float:left;margin-top:578px;margin-left:60px;}
+#next_info li{float:left;padding-left:25px;list-style:none;}
+	.log_success{float:left;}
+	.add_user{float:left;}
+	#adduser{cursor:pointer;}
+	#addzhanghu{cursor:pointer;}
+	#upload_form{width:300px;margin:0 auto;}
+	/*#submit{width:100px;margin-top:46px;margin-left:500px;;}
+	*/#updatepass{cursor:pointer}
+	#zuzhang_info_table{width:33%}
+	#operator{float:right}
+	#clssli{margin:0;background-color: #ffffff}
+	#shaixuan{float:right;list-style:none;padding-right:15px;background-color: #ffffff}
+	#shaixuan li{float:left;list-style:none;padding-left:25px}
+	#manager{cursor:pointer;}
+	#logout{float:right;padding-right:25px;}
+	.Wdate{width:91px}
+	#shaixuan_zhanghu{width:78px;}
+	#shaixuan_status{width:30px}
+	#shaixuan_status{width:52px}
+	#search{border-color: #5C7989;}

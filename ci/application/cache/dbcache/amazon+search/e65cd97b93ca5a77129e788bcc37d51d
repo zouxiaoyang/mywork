@@ -1,0 +1,961 @@
+O:12:"CI_DB_result":8:{s:7:"conn_id";N;s:9:"result_id";N;s:12:"result_array";a:60:{i:0;a:24:{s:4:"time";s:12:"14-0323-1283";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:3:"111";s:8:"order_id";s:19:"202-7006686-6987567";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:13:"shop-0012-css";s:4:"jine";s:6:"£1.99";s:6:"s_time";s:10:"2014-04-22";s:8:"s_number";s:9:"xxx345671";s:5:"s_way";s:3:"XXX";s:7:"message";s:5:"fdfdg";s:9:"s_address";s:120:"Abbie Gray<br />
+29 Copse Road<br />
+Burley<br />
+<br />
+RINGWOOD<br />
+Hants<br />
+BH24 4EG<br />
+GB<br />
+01425 402513";s:12:"sale_history";s:9:"已出单";s:14:"country_beizhu";s:0:"";s:8:"am_links";s:4:"sfdg";s:8:"ck_links";s:5:"sdsgd";s:8:"sj_links";s:3:"sdg";s:5:"price";s:2:"11";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:5:"dfgdf";s:8:"buy_time";s:10:"2014-04-23";s:3:"pic";s:27:"||202-0963577-4585945_2.jpg";s:6:"status";s:9:"已采购";s:8:"buy_name";s:3:"333";}i:1;a:24:{s:4:"time";s:12:"14-0323-1286";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"203-7771722-9927522";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£1.99";s:6:"s_time";s:5:"41724";s:8:"s_number";s:15:"send_0014-apple";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:117:"jennifer ward<br />
+8 Chancery Lane<br />
+<br />
+<br />
+NUNEATON<br />
+Warks<br />
+CV10 0PB<br />
+GB<br />
+7830742134";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:2;a:24:{s:4:"time";s:14:"14-0323-1287-1";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"202-2666008-4696347";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£7.96";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:117:"Timothy Goodman<br />
+1 King Edwards Road<br />
+<br />
+<br />
+LONDON<br />
+<br />
+N9 7RN<br />
+GB<br />
+0208 292 2838";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:3;a:24:{s:4:"time";s:14:"14-0323-1287-2";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"202-2666008-4696347";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:0:"";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:117:"Timothy Goodman<br />
+1 King Edwards Road<br />
+<br />
+<br />
+LONDON<br />
+<br />
+N9 7RN<br />
+GB<br />
+0208 292 2838";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:4;a:24:{s:4:"time";s:14:"14-0323-1287-3";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"202-2666008-4696347";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:0:"";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:117:"Timothy Goodman<br />
+1 King Edwards Road<br />
+<br />
+<br />
+LONDON<br />
+<br />
+N9 7RN<br />
+GB<br />
+0208 292 2838";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:5;a:24:{s:4:"time";s:14:"14-0323-1287-4";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"202-2666008-4696347";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:0:"";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:117:"Timothy Goodman<br />
+1 King Edwards Road<br />
+<br />
+<br />
+LONDON<br />
+<br />
+N9 7RN<br />
+GB<br />
+0208 292 2838";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:6;a:24:{s:4:"time";s:12:"14-0323-1288";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"203-0733777-6398700";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£1.99";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:124:"Robert Oates<br />
+Linwood, The Ridges<br />
+<br />
+<br />
+Wokingham<br />
+Berkshire<br />
+RG403SY<br />
+GB<br />
+7703855495";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:7;a:24:{s:4:"time";s:12:"14-0323-1291";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"203-1385136-9454763";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£1.99";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:122:"Teresa Stone<br />
+45 Loeless Road<br />
+<br />
+<br />
+BIRMINGHAM<br />
+W Midlands<br />
+B33 9RH<br />
+GB<br />
+7977173771";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:8;a:24:{s:4:"time";s:14:"14-0323-1292-1";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"203-1672620-9465907";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£3.98";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:147:"jan austin<br />
+deepwell cottage<br />
+horsey road west somerton<br />
+<br />
+great yarmouth<br />
+norfolk<br />
+NR294AB<br />
+GB<br />
+1493393783";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:9;a:24:{s:4:"time";s:14:"14-0323-1292-2";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"203-1672620-9465907";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:0:"";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:147:"jan austin<br />
+deepwell cottage<br />
+horsey road west somerton<br />
+<br />
+great yarmouth<br />
+norfolk<br />
+NR294AB<br />
+GB<br />
+1493393783";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:10;a:24:{s:4:"time";s:12:"14-0323-1299";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"203-7013388-2499526";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£1.99";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:125:"Kate Hannah Morgan<br />
+26 Tyn Y PWLL Road<br />
+<br />
+<br />
+CARDIFF<br />
+S Glam<br />
+CF14 1AS<br />
+GB<br />
+7901860477";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:11;a:24:{s:4:"time";s:12:"14-0323-1303";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"026-2019525-9383526";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£1.99";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:150:"Simon Barber<br />
+Gemini Blinds And Curtains<br />
+732 Borough Road<br />
+<br />
+BIRKENHEAD<br />
+Merseyside<br />
+CH42 9JF<br />
+GB<br />
+1516087100";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:12;a:24:{s:4:"time";s:14:"14-0323-1305-1";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"202-0376818-8161952";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£5.97";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:128:"Phil Mitchell<br />
+343 Alexandra Road<br />
+<br />
+<br />
+Gateshead<br />
+Tyne and Wear<br />
+NE8 4HX<br />
+GB<br />
+1914773949";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:13;a:24:{s:4:"time";s:14:"14-0323-1305-2";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"202-0376818-8161952";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:0:"";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:128:"Phil Mitchell<br />
+343 Alexandra Road<br />
+<br />
+<br />
+Gateshead<br />
+Tyne and Wear<br />
+NE8 4HX<br />
+GB<br />
+1914773949";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:14;a:24:{s:4:"time";s:14:"14-0323-1305-3";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"202-0376818-8161952";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:0:"";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:128:"Phil Mitchell<br />
+343 Alexandra Road<br />
+<br />
+<br />
+Gateshead<br />
+Tyne and Wear<br />
+NE8 4HX<br />
+GB<br />
+1914773949";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:15;a:24:{s:4:"time";s:12:"14-0323-1307";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"203-4168255-4181155";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£1.99";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:135:"Jonathan Bulford<br />
+Roselyn, Newquay Road<br />
+Goonhavern<br />
+<br />
+Truro<br />
+Cornwall<br />
+TR4 9QD<br />
+GB<br />
+7817830291";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:16;a:24:{s:4:"time";s:12:"14-0323-1315";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"202-1096760-2935561";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£1.99";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:136:"Melissa Joyce<br />
+63 Murroch Crescent<br />
+<br />
+<br />
+Alexandria<br />
+West Dunbartonshire<br />
+G83 9QG<br />
+GB<br />
+7427671051";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:17;a:24:{s:4:"time";s:12:"14-0323-1316";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"202-9319397-0294744";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£1.99";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:135:"Chris Gale<br />
+19 Whittington Hill<br />
+Stoke Ferry<br />
+<br />
+Kings Lynn<br />
+Norfolk<br />
+PE33 9TE<br />
+GB<br />
+01366 500714";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:18;a:24:{s:4:"time";s:14:"14-0323-1318-1";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"202-0863495-9385914";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£9.95";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:115:"owen strike<br />
+11 teal close<br />
+<br />
+<br />
+ipswich<br />
+suffolk<br />
+ip2 0th<br />
+GB<br />
+01473 687098";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:19;a:24:{s:4:"time";s:14:"14-0323-1318-2";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"202-0863495-9385914";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:0:"";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:115:"owen strike<br />
+11 teal close<br />
+<br />
+<br />
+ipswich<br />
+suffolk<br />
+ip2 0th<br />
+GB<br />
+01473 687098";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:20;a:24:{s:4:"time";s:14:"14-0323-1318-3";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"202-0863495-9385914";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:0:"";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:115:"owen strike<br />
+11 teal close<br />
+<br />
+<br />
+ipswich<br />
+suffolk<br />
+ip2 0th<br />
+GB<br />
+01473 687098";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:21;a:24:{s:4:"time";s:14:"14-0323-1318-4";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"202-0863495-9385914";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:0:"";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:115:"owen strike<br />
+11 teal close<br />
+<br />
+<br />
+ipswich<br />
+suffolk<br />
+ip2 0th<br />
+GB<br />
+01473 687098";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:22;a:24:{s:4:"time";s:14:"14-0323-1318-5";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"202-0863495-9385914";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:0:"";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:115:"owen strike<br />
+11 teal close<br />
+<br />
+<br />
+ipswich<br />
+suffolk<br />
+ip2 0th<br />
+GB<br />
+01473 687098";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:23;a:24:{s:4:"time";s:12:"14-0323-1320";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"203-3051882-5107516";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£1.99";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:128:"Mr Kevin Coslett<br />
+97 King John Avenue<br />
+<br />
+<br />
+BOURNEMOUTH<br />
+Dorset<br />
+BH11 9RZ<br />
+GB<br />
+7952683201";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:24;a:24:{s:4:"time";s:12:"14-0323-1321";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"202-0905391-6581164";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£1.99";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:134:"mr michael taylor<br />
+Flat 9 Rosebery House<br />
+Sewardstone Road<br />
+<br />
+London<br />
+<br />
+E2 9JH<br />
+GB<br />
+2089809495";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:25;a:24:{s:4:"time";s:12:"14-0323-1323";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"026-1696374-9904311";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£1.99";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:134:"Ian D Livesey<br />
+Chestnut Cottage<br />
+29 Enterpen<br />
+<br />
+Hutton Rudby<br />
+Yarm<br />
+TS15 0EL<br />
+GB<br />
+01642 701089";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:26;a:24:{s:4:"time";s:12:"14-0323-1324";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"203-6696337-5507500";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£1.99";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:180:"Miss Beverley Honeysett<br />
+Hailsham Roadway Construction Co Ltd<br />
+Woodside Depot, Polegate Road<br />
+<br />
+HAILSHAM<br />
+E Sussex<br />
+BN27 3PG<br />
+GB<br />
+7721521805";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:27;a:24:{s:4:"time";s:12:"14-0323-1325";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"202-0073330-0489129";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£1.99";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:137:"Nigel harvey<br />
+High Folly, Hewelsfield Lane<br />
+St Briavels<br />
+<br />
+LYDNEY<br />
+Glos<br />
+GL15 6TR<br />
+GB<br />
+1594531268";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:28;a:24:{s:4:"time";s:14:"14-0323-1328-1";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"026-8840661-5421916";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£9.95";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:134:"Sophie Andell<br />
+Flat 18, Stoneleigh Court<br />
+Lansdown Road<br />
+<br />
+BATH<br />
+Avon<br />
+BA1 5TL<br />
+GB<br />
+1225336844";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:29;a:24:{s:4:"time";s:14:"14-0323-1328-2";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"026-8840661-5421916";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:0:"";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:134:"Sophie Andell<br />
+Flat 18, Stoneleigh Court<br />
+Lansdown Road<br />
+<br />
+BATH<br />
+Avon<br />
+BA1 5TL<br />
+GB<br />
+1225336844";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:30;a:24:{s:4:"time";s:14:"14-0323-1328-3";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"026-8840661-5421916";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:0:"";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:134:"Sophie Andell<br />
+Flat 18, Stoneleigh Court<br />
+Lansdown Road<br />
+<br />
+BATH<br />
+Avon<br />
+BA1 5TL<br />
+GB<br />
+1225336844";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:31;a:24:{s:4:"time";s:14:"14-0323-1328-4";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"026-8840661-5421916";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:0:"";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:134:"Sophie Andell<br />
+Flat 18, Stoneleigh Court<br />
+Lansdown Road<br />
+<br />
+BATH<br />
+Avon<br />
+BA1 5TL<br />
+GB<br />
+1225336844";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:32;a:24:{s:4:"time";s:14:"14-0323-1328-5";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"026-8840661-5421916";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:0:"";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:134:"Sophie Andell<br />
+Flat 18, Stoneleigh Court<br />
+Lansdown Road<br />
+<br />
+BATH<br />
+Avon<br />
+BA1 5TL<br />
+GB<br />
+1225336844";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:33;a:24:{s:4:"time";s:12:"14-0323-1330";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"202-5115894-0835504";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£1.99";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:119:"Jonathan Pugh<br />
+41 Ganners Way<br />
+<br />
+<br />
+LEEDS<br />
+W Yorkshire<br />
+LS13 2PQ<br />
+GB<br />
+7769334545";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:34;a:24:{s:4:"time";s:12:"14-0323-1333";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"202-5728762-3759531";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£1.99";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:116:"Karen Baker<br />
+4 Tatham Way<br />
+<br />
+<br />
+LEEDS<br />
+W Yorkshire<br />
+LS8 2PR<br />
+GB<br />
+0113 2493253";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:35;a:24:{s:4:"time";s:14:"14-0323-1334-1";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"203-9991987-9696336";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£3.98";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:124:"Mark Marshall<br />
+89 Raploch Street<br />
+<br />
+<br />
+Larkhall<br />
+Lanarkshire<br />
+ML9 1AJ<br />
+GB<br />
+7920178776";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:36;a:24:{s:4:"time";s:14:"14-0323-1334-2";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"203-9991987-9696336";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:0:"";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:124:"Mark Marshall<br />
+89 Raploch Street<br />
+<br />
+<br />
+Larkhall<br />
+Lanarkshire<br />
+ML9 1AJ<br />
+GB<br />
+7920178776";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:37;a:24:{s:4:"time";s:12:"14-0323-1336";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"202-4132218-8342736";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£1.99";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:133:"Eoghan Doherty<br />
+9 Aughrim Lane<br />
+Creach<br />
+<br />
+Toomebridge<br />
+Co Antrim<br />
+BT41 3ST<br />
+GB<br />
+075 118 47695";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:38;a:24:{s:4:"time";s:12:"14-0323-1337";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"202-6973927-1534747";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£1.99";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:151:"Duncan Toms<br />
+Krishnamurti Foundation Trust<br />
+Brockwood Park<br />
+<br />
+Bramdean<br />
+Hampshire<br />
+SO24 0LQ<br />
+GB<br />
+01962 77 11 94";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:39;a:24:{s:4:"time";s:14:"14-0323-1341-1";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"203-0195403-5538720";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£3.98";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:131:"Greig Dargue<br />
+38 Fernslea Avenue<br />
+Blantyre<br />
+<br />
+GLASGOW<br />
+Lanarkshire<br />
+G72 9PW<br />
+GB<br />
+7791405460";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:40;a:24:{s:4:"time";s:14:"14-0323-1341-2";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"203-0195403-5538720";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:0:"";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:131:"Greig Dargue<br />
+38 Fernslea Avenue<br />
+Blantyre<br />
+<br />
+GLASGOW<br />
+Lanarkshire<br />
+G72 9PW<br />
+GB<br />
+7791405460";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:41;a:24:{s:4:"time";s:12:"14-0323-1344";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"202-0401622-7082722";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£1.99";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:144:"mrs tina lesley blackwell<br />
+34, sandy lane<br />
+<br />
+<br />
+doncaster<br />
+south yorkshire<br />
+dn4 5es<br />
+GB<br />
+01302 344559 fax";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:42;a:24:{s:4:"time";s:12:"14-0323-1345";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"203-6943193-7089161";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£1.99";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:128:"stephen paul evans<br />
+6 new street<br />
+<br />
+<br />
+abercynon<br />
+mid glamorgan<br />
+cf45 4nr<br />
+GB<br />
+7882270012";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:43;a:24:{s:4:"time";s:12:"14-0323-1350";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"026-4534544-2557902";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£1.99";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:130:"Connie Harris<br />
+6A Victoria Road<br />
+Fallowfield<br />
+<br />
+MANCHESTER<br />
+Lancs<br />
+M14 6AP<br />
+GB<br />
+7914695911";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:44;a:24:{s:4:"time";s:12:"14-0323-1353";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"202-4431963-7738725";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£1.99";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:130:"Emma Whittle<br />
+Sunshine Hotel<br />
+84 Osborne Road<br />
+<br />
+BLACKPOOL<br />
+Lancs<br />
+FY4 1HQ<br />
+GB<br />
+7964731535";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:45;a:24:{s:4:"time";s:12:"14-0323-1359";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"202-3858665-8219565";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£1.99";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:136:"Andrew Field<br />
+Ash Tree Cottage<br />
+Eddies Lane, Elford<br />
+<br />
+TAMWORTH<br />
+Staffs<br />
+B79 9BW<br />
+GB<br />
+1827383796";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:46;a:24:{s:4:"time";s:12:"14-0323-1365";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"026-1840876-3503537";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£1.99";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:142:"Elizabeth Bellingham<br />
+45 Linden Road<br />
+West Cornforth<br />
+<br />
+FERRYHILL<br />
+Co Durham<br />
+DL17 9NR<br />
+GB<br />
+1740650486";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:47;a:24:{s:4:"time";s:12:"14-0323-1366";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"026-9315251-7233968";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£1.99";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:142:"Kristine Greaves<br />
+6 Stirling House<br />
+Surrey Research Park<br />
+<br />
+Guildford<br />
+Surrey<br />
+GU2 7RF<br />
+GB<br />
+1483484950";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:48;a:24:{s:4:"time";s:12:"14-0323-1369";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"203-2953229-6736349";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£1.99";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:136:"Matthew Tombs<br />
+25 Repton Road<br />
+Hartshorne<br />
+<br />
+SWADLINCOTE<br />
+Derbyshire<br />
+DE11 7AF<br />
+GB<br />
+07739 874952";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:49;a:24:{s:4:"time";s:12:"14-0323-1373";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"026-8551457-4135557";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£1.99";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:143:"Jacqueline Anne holmes<br />
+125 Sarehole Road<br />
+Hall Green<br />
+<br />
+Birmingham<br />
+West Mids<br />
+B28 8ED<br />
+GB<br />
+7943161585";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:50;a:24:{s:4:"time";s:12:"14-0323-1376";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"203-9533140-9317956";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£1.99";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:130:"Helen Castell<br />
+35 Willowdene Court<br />
+Warley<br />
+<br />
+Brentwood<br />
+Essex<br />
+CM14 5ET<br />
+GB<br />
+01277-232951";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:51;a:24:{s:4:"time";s:12:"14-0323-1378";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"026-0856501-8375515";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£1.99";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:136:"Mrs Susan Parry<br />
+24 Rhondda Fechan Farm Estate<br />
+<br />
+<br />
+FERNDALE<br />
+M Glam<br />
+CF43 4LX<br />
+GB<br />
+01443 757346";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:52;a:24:{s:4:"time";s:14:"14-0323-1387-1";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"202-9912351-2608365";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£3.98";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:122:"austin beech<br />
+36 Norman Avenue<br />
+<br />
+<br />
+BRADFORD<br />
+W Yorkshire<br />
+BD2 2NA<br />
+GB<br />
+7717174039";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:53;a:24:{s:4:"time";s:14:"14-0323-1387-2";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"202-9912351-2608365";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:0:"";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:122:"austin beech<br />
+36 Norman Avenue<br />
+<br />
+<br />
+BRADFORD<br />
+W Yorkshire<br />
+BD2 2NA<br />
+GB<br />
+7717174039";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:54;a:24:{s:4:"time";s:12:"14-0323-1388";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"202-3465233-2748367";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£1.99";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:125:"Jill Haskell<br />
+8D Breach Close<br />
+Bourton<br />
+<br />
+GILLINGHAM<br />
+Dorset<br />
+SP8 5BB<br />
+GB<br />
+1747840645";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:55;a:24:{s:4:"time";s:12:"14-0323-1392";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"026-2264969-2447548";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£1.99";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:114:"wayne francis<br />
+239A New Cross Road<br />
+<br />
+<br />
+LONDON<br />
+<br />
+SE14 5UH<br />
+GB<br />
+7925983596";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:56;a:24:{s:4:"time";s:12:"14-0323-1393";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"203-7174555-4303510";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£1.99";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:123:"Keith Grumbridge<br />
+3 Shore Lea<br />
+<br />
+<br />
+LITTLEBOROUGH<br />
+Lancs<br />
+OL15 8EY<br />
+GB<br />
+01706 372836";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:57;a:24:{s:4:"time";s:12:"14-0323-1394";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"026-8643970-1092344";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£1.99";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:127:"Holly Keen<br />
+Three Maples<br />
+Snows Paddock<br />
+<br />
+Windlesham<br />
+Surrey<br />
+GU20 6LH<br />
+GB<br />
+7943807035";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:58;a:24:{s:4:"time";s:12:"14-0323-1400";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"203-7188058-4013901";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£1.99";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:119:"selma salih<br />
+30 Woodgrange Gardens<br />
+<br />
+<br />
+ENFIELD<br />
+Middx<br />
+EN1 1ES<br />
+GB<br />
+7949799368";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:59;a:24:{s:4:"time";s:12:"14-0323-1402";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"202-3581065-8849944";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£1.99";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:157:"Thomas Rogers Woollett<br />
+Bruern Abbey School<br />
+Chesterton House, Chesterton<br />
+<br />
+BICESTER<br />
+Oxon<br />
+OX26 1UY<br />
+GB<br />
+7513694960";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}}s:13:"result_object";a:60:{i:0;O:8:"stdClass":24:{s:4:"time";s:12:"14-0323-1283";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:3:"111";s:8:"order_id";s:19:"202-7006686-6987567";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:13:"shop-0012-css";s:4:"jine";s:6:"£1.99";s:6:"s_time";s:10:"2014-04-22";s:8:"s_number";s:9:"xxx345671";s:5:"s_way";s:3:"XXX";s:7:"message";s:5:"fdfdg";s:9:"s_address";s:120:"Abbie Gray<br />
+29 Copse Road<br />
+Burley<br />
+<br />
+RINGWOOD<br />
+Hants<br />
+BH24 4EG<br />
+GB<br />
+01425 402513";s:12:"sale_history";s:9:"已出单";s:14:"country_beizhu";s:0:"";s:8:"am_links";s:4:"sfdg";s:8:"ck_links";s:5:"sdsgd";s:8:"sj_links";s:3:"sdg";s:5:"price";s:2:"11";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:5:"dfgdf";s:8:"buy_time";s:10:"2014-04-23";s:3:"pic";s:27:"||202-0963577-4585945_2.jpg";s:6:"status";s:9:"已采购";s:8:"buy_name";s:3:"333";}i:1;O:8:"stdClass":24:{s:4:"time";s:12:"14-0323-1286";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"203-7771722-9927522";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£1.99";s:6:"s_time";s:5:"41724";s:8:"s_number";s:15:"send_0014-apple";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:117:"jennifer ward<br />
+8 Chancery Lane<br />
+<br />
+<br />
+NUNEATON<br />
+Warks<br />
+CV10 0PB<br />
+GB<br />
+7830742134";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:2;O:8:"stdClass":24:{s:4:"time";s:14:"14-0323-1287-1";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"202-2666008-4696347";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£7.96";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:117:"Timothy Goodman<br />
+1 King Edwards Road<br />
+<br />
+<br />
+LONDON<br />
+<br />
+N9 7RN<br />
+GB<br />
+0208 292 2838";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:3;O:8:"stdClass":24:{s:4:"time";s:14:"14-0323-1287-2";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"202-2666008-4696347";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:0:"";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:117:"Timothy Goodman<br />
+1 King Edwards Road<br />
+<br />
+<br />
+LONDON<br />
+<br />
+N9 7RN<br />
+GB<br />
+0208 292 2838";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:4;O:8:"stdClass":24:{s:4:"time";s:14:"14-0323-1287-3";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"202-2666008-4696347";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:0:"";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:117:"Timothy Goodman<br />
+1 King Edwards Road<br />
+<br />
+<br />
+LONDON<br />
+<br />
+N9 7RN<br />
+GB<br />
+0208 292 2838";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:5;O:8:"stdClass":24:{s:4:"time";s:14:"14-0323-1287-4";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"202-2666008-4696347";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:0:"";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:117:"Timothy Goodman<br />
+1 King Edwards Road<br />
+<br />
+<br />
+LONDON<br />
+<br />
+N9 7RN<br />
+GB<br />
+0208 292 2838";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:6;O:8:"stdClass":24:{s:4:"time";s:12:"14-0323-1288";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"203-0733777-6398700";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£1.99";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:124:"Robert Oates<br />
+Linwood, The Ridges<br />
+<br />
+<br />
+Wokingham<br />
+Berkshire<br />
+RG403SY<br />
+GB<br />
+7703855495";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:7;O:8:"stdClass":24:{s:4:"time";s:12:"14-0323-1291";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"203-1385136-9454763";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£1.99";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:122:"Teresa Stone<br />
+45 Loeless Road<br />
+<br />
+<br />
+BIRMINGHAM<br />
+W Midlands<br />
+B33 9RH<br />
+GB<br />
+7977173771";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:8;O:8:"stdClass":24:{s:4:"time";s:14:"14-0323-1292-1";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"203-1672620-9465907";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£3.98";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:147:"jan austin<br />
+deepwell cottage<br />
+horsey road west somerton<br />
+<br />
+great yarmouth<br />
+norfolk<br />
+NR294AB<br />
+GB<br />
+1493393783";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:9;O:8:"stdClass":24:{s:4:"time";s:14:"14-0323-1292-2";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"203-1672620-9465907";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:0:"";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:147:"jan austin<br />
+deepwell cottage<br />
+horsey road west somerton<br />
+<br />
+great yarmouth<br />
+norfolk<br />
+NR294AB<br />
+GB<br />
+1493393783";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:10;O:8:"stdClass":24:{s:4:"time";s:12:"14-0323-1299";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"203-7013388-2499526";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£1.99";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:125:"Kate Hannah Morgan<br />
+26 Tyn Y PWLL Road<br />
+<br />
+<br />
+CARDIFF<br />
+S Glam<br />
+CF14 1AS<br />
+GB<br />
+7901860477";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:11;O:8:"stdClass":24:{s:4:"time";s:12:"14-0323-1303";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"026-2019525-9383526";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£1.99";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:150:"Simon Barber<br />
+Gemini Blinds And Curtains<br />
+732 Borough Road<br />
+<br />
+BIRKENHEAD<br />
+Merseyside<br />
+CH42 9JF<br />
+GB<br />
+1516087100";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:12;O:8:"stdClass":24:{s:4:"time";s:14:"14-0323-1305-1";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"202-0376818-8161952";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£5.97";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:128:"Phil Mitchell<br />
+343 Alexandra Road<br />
+<br />
+<br />
+Gateshead<br />
+Tyne and Wear<br />
+NE8 4HX<br />
+GB<br />
+1914773949";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:13;O:8:"stdClass":24:{s:4:"time";s:14:"14-0323-1305-2";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"202-0376818-8161952";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:0:"";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:128:"Phil Mitchell<br />
+343 Alexandra Road<br />
+<br />
+<br />
+Gateshead<br />
+Tyne and Wear<br />
+NE8 4HX<br />
+GB<br />
+1914773949";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:14;O:8:"stdClass":24:{s:4:"time";s:14:"14-0323-1305-3";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"202-0376818-8161952";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:0:"";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:128:"Phil Mitchell<br />
+343 Alexandra Road<br />
+<br />
+<br />
+Gateshead<br />
+Tyne and Wear<br />
+NE8 4HX<br />
+GB<br />
+1914773949";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:15;O:8:"stdClass":24:{s:4:"time";s:12:"14-0323-1307";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"203-4168255-4181155";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£1.99";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:135:"Jonathan Bulford<br />
+Roselyn, Newquay Road<br />
+Goonhavern<br />
+<br />
+Truro<br />
+Cornwall<br />
+TR4 9QD<br />
+GB<br />
+7817830291";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:16;O:8:"stdClass":24:{s:4:"time";s:12:"14-0323-1315";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"202-1096760-2935561";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£1.99";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:136:"Melissa Joyce<br />
+63 Murroch Crescent<br />
+<br />
+<br />
+Alexandria<br />
+West Dunbartonshire<br />
+G83 9QG<br />
+GB<br />
+7427671051";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:17;O:8:"stdClass":24:{s:4:"time";s:12:"14-0323-1316";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"202-9319397-0294744";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£1.99";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:135:"Chris Gale<br />
+19 Whittington Hill<br />
+Stoke Ferry<br />
+<br />
+Kings Lynn<br />
+Norfolk<br />
+PE33 9TE<br />
+GB<br />
+01366 500714";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:18;O:8:"stdClass":24:{s:4:"time";s:14:"14-0323-1318-1";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"202-0863495-9385914";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£9.95";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:115:"owen strike<br />
+11 teal close<br />
+<br />
+<br />
+ipswich<br />
+suffolk<br />
+ip2 0th<br />
+GB<br />
+01473 687098";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:19;O:8:"stdClass":24:{s:4:"time";s:14:"14-0323-1318-2";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"202-0863495-9385914";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:0:"";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:115:"owen strike<br />
+11 teal close<br />
+<br />
+<br />
+ipswich<br />
+suffolk<br />
+ip2 0th<br />
+GB<br />
+01473 687098";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:20;O:8:"stdClass":24:{s:4:"time";s:14:"14-0323-1318-3";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"202-0863495-9385914";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:0:"";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:115:"owen strike<br />
+11 teal close<br />
+<br />
+<br />
+ipswich<br />
+suffolk<br />
+ip2 0th<br />
+GB<br />
+01473 687098";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:21;O:8:"stdClass":24:{s:4:"time";s:14:"14-0323-1318-4";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"202-0863495-9385914";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:0:"";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:115:"owen strike<br />
+11 teal close<br />
+<br />
+<br />
+ipswich<br />
+suffolk<br />
+ip2 0th<br />
+GB<br />
+01473 687098";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:22;O:8:"stdClass":24:{s:4:"time";s:14:"14-0323-1318-5";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"202-0863495-9385914";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:0:"";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:115:"owen strike<br />
+11 teal close<br />
+<br />
+<br />
+ipswich<br />
+suffolk<br />
+ip2 0th<br />
+GB<br />
+01473 687098";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:23;O:8:"stdClass":24:{s:4:"time";s:12:"14-0323-1320";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"203-3051882-5107516";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£1.99";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:128:"Mr Kevin Coslett<br />
+97 King John Avenue<br />
+<br />
+<br />
+BOURNEMOUTH<br />
+Dorset<br />
+BH11 9RZ<br />
+GB<br />
+7952683201";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:24;O:8:"stdClass":24:{s:4:"time";s:12:"14-0323-1321";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"202-0905391-6581164";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£1.99";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:134:"mr michael taylor<br />
+Flat 9 Rosebery House<br />
+Sewardstone Road<br />
+<br />
+London<br />
+<br />
+E2 9JH<br />
+GB<br />
+2089809495";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:25;O:8:"stdClass":24:{s:4:"time";s:12:"14-0323-1323";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"026-1696374-9904311";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£1.99";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:134:"Ian D Livesey<br />
+Chestnut Cottage<br />
+29 Enterpen<br />
+<br />
+Hutton Rudby<br />
+Yarm<br />
+TS15 0EL<br />
+GB<br />
+01642 701089";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:26;O:8:"stdClass":24:{s:4:"time";s:12:"14-0323-1324";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"203-6696337-5507500";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£1.99";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:180:"Miss Beverley Honeysett<br />
+Hailsham Roadway Construction Co Ltd<br />
+Woodside Depot, Polegate Road<br />
+<br />
+HAILSHAM<br />
+E Sussex<br />
+BN27 3PG<br />
+GB<br />
+7721521805";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:27;O:8:"stdClass":24:{s:4:"time";s:12:"14-0323-1325";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"202-0073330-0489129";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£1.99";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:137:"Nigel harvey<br />
+High Folly, Hewelsfield Lane<br />
+St Briavels<br />
+<br />
+LYDNEY<br />
+Glos<br />
+GL15 6TR<br />
+GB<br />
+1594531268";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:28;O:8:"stdClass":24:{s:4:"time";s:14:"14-0323-1328-1";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"026-8840661-5421916";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£9.95";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:134:"Sophie Andell<br />
+Flat 18, Stoneleigh Court<br />
+Lansdown Road<br />
+<br />
+BATH<br />
+Avon<br />
+BA1 5TL<br />
+GB<br />
+1225336844";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:29;O:8:"stdClass":24:{s:4:"time";s:14:"14-0323-1328-2";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"026-8840661-5421916";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:0:"";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:134:"Sophie Andell<br />
+Flat 18, Stoneleigh Court<br />
+Lansdown Road<br />
+<br />
+BATH<br />
+Avon<br />
+BA1 5TL<br />
+GB<br />
+1225336844";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:30;O:8:"stdClass":24:{s:4:"time";s:14:"14-0323-1328-3";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"026-8840661-5421916";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:0:"";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:134:"Sophie Andell<br />
+Flat 18, Stoneleigh Court<br />
+Lansdown Road<br />
+<br />
+BATH<br />
+Avon<br />
+BA1 5TL<br />
+GB<br />
+1225336844";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:31;O:8:"stdClass":24:{s:4:"time";s:14:"14-0323-1328-4";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"026-8840661-5421916";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:0:"";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:134:"Sophie Andell<br />
+Flat 18, Stoneleigh Court<br />
+Lansdown Road<br />
+<br />
+BATH<br />
+Avon<br />
+BA1 5TL<br />
+GB<br />
+1225336844";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:32;O:8:"stdClass":24:{s:4:"time";s:14:"14-0323-1328-5";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"026-8840661-5421916";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:0:"";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:134:"Sophie Andell<br />
+Flat 18, Stoneleigh Court<br />
+Lansdown Road<br />
+<br />
+BATH<br />
+Avon<br />
+BA1 5TL<br />
+GB<br />
+1225336844";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:33;O:8:"stdClass":24:{s:4:"time";s:12:"14-0323-1330";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"202-5115894-0835504";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£1.99";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:119:"Jonathan Pugh<br />
+41 Ganners Way<br />
+<br />
+<br />
+LEEDS<br />
+W Yorkshire<br />
+LS13 2PQ<br />
+GB<br />
+7769334545";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:34;O:8:"stdClass":24:{s:4:"time";s:12:"14-0323-1333";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"202-5728762-3759531";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£1.99";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:116:"Karen Baker<br />
+4 Tatham Way<br />
+<br />
+<br />
+LEEDS<br />
+W Yorkshire<br />
+LS8 2PR<br />
+GB<br />
+0113 2493253";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:35;O:8:"stdClass":24:{s:4:"time";s:14:"14-0323-1334-1";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"203-9991987-9696336";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£3.98";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:124:"Mark Marshall<br />
+89 Raploch Street<br />
+<br />
+<br />
+Larkhall<br />
+Lanarkshire<br />
+ML9 1AJ<br />
+GB<br />
+7920178776";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:36;O:8:"stdClass":24:{s:4:"time";s:14:"14-0323-1334-2";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"203-9991987-9696336";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:0:"";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:124:"Mark Marshall<br />
+89 Raploch Street<br />
+<br />
+<br />
+Larkhall<br />
+Lanarkshire<br />
+ML9 1AJ<br />
+GB<br />
+7920178776";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:37;O:8:"stdClass":24:{s:4:"time";s:12:"14-0323-1336";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"202-4132218-8342736";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£1.99";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:133:"Eoghan Doherty<br />
+9 Aughrim Lane<br />
+Creach<br />
+<br />
+Toomebridge<br />
+Co Antrim<br />
+BT41 3ST<br />
+GB<br />
+075 118 47695";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:38;O:8:"stdClass":24:{s:4:"time";s:12:"14-0323-1337";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"202-6973927-1534747";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£1.99";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:151:"Duncan Toms<br />
+Krishnamurti Foundation Trust<br />
+Brockwood Park<br />
+<br />
+Bramdean<br />
+Hampshire<br />
+SO24 0LQ<br />
+GB<br />
+01962 77 11 94";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:39;O:8:"stdClass":24:{s:4:"time";s:14:"14-0323-1341-1";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"203-0195403-5538720";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£3.98";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:131:"Greig Dargue<br />
+38 Fernslea Avenue<br />
+Blantyre<br />
+<br />
+GLASGOW<br />
+Lanarkshire<br />
+G72 9PW<br />
+GB<br />
+7791405460";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:40;O:8:"stdClass":24:{s:4:"time";s:14:"14-0323-1341-2";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"203-0195403-5538720";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:0:"";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:131:"Greig Dargue<br />
+38 Fernslea Avenue<br />
+Blantyre<br />
+<br />
+GLASGOW<br />
+Lanarkshire<br />
+G72 9PW<br />
+GB<br />
+7791405460";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:41;O:8:"stdClass":24:{s:4:"time";s:12:"14-0323-1344";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"202-0401622-7082722";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£1.99";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:144:"mrs tina lesley blackwell<br />
+34, sandy lane<br />
+<br />
+<br />
+doncaster<br />
+south yorkshire<br />
+dn4 5es<br />
+GB<br />
+01302 344559 fax";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:42;O:8:"stdClass":24:{s:4:"time";s:12:"14-0323-1345";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"203-6943193-7089161";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£1.99";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:128:"stephen paul evans<br />
+6 new street<br />
+<br />
+<br />
+abercynon<br />
+mid glamorgan<br />
+cf45 4nr<br />
+GB<br />
+7882270012";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:43;O:8:"stdClass":24:{s:4:"time";s:12:"14-0323-1350";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"026-4534544-2557902";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£1.99";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:130:"Connie Harris<br />
+6A Victoria Road<br />
+Fallowfield<br />
+<br />
+MANCHESTER<br />
+Lancs<br />
+M14 6AP<br />
+GB<br />
+7914695911";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:44;O:8:"stdClass":24:{s:4:"time";s:12:"14-0323-1353";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"202-4431963-7738725";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£1.99";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:130:"Emma Whittle<br />
+Sunshine Hotel<br />
+84 Osborne Road<br />
+<br />
+BLACKPOOL<br />
+Lancs<br />
+FY4 1HQ<br />
+GB<br />
+7964731535";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:45;O:8:"stdClass":24:{s:4:"time";s:12:"14-0323-1359";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"202-3858665-8219565";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£1.99";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:136:"Andrew Field<br />
+Ash Tree Cottage<br />
+Eddies Lane, Elford<br />
+<br />
+TAMWORTH<br />
+Staffs<br />
+B79 9BW<br />
+GB<br />
+1827383796";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:46;O:8:"stdClass":24:{s:4:"time";s:12:"14-0323-1365";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"026-1840876-3503537";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£1.99";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:142:"Elizabeth Bellingham<br />
+45 Linden Road<br />
+West Cornforth<br />
+<br />
+FERRYHILL<br />
+Co Durham<br />
+DL17 9NR<br />
+GB<br />
+1740650486";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:47;O:8:"stdClass":24:{s:4:"time";s:12:"14-0323-1366";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"026-9315251-7233968";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£1.99";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:142:"Kristine Greaves<br />
+6 Stirling House<br />
+Surrey Research Park<br />
+<br />
+Guildford<br />
+Surrey<br />
+GU2 7RF<br />
+GB<br />
+1483484950";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:48;O:8:"stdClass":24:{s:4:"time";s:12:"14-0323-1369";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"203-2953229-6736349";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£1.99";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:136:"Matthew Tombs<br />
+25 Repton Road<br />
+Hartshorne<br />
+<br />
+SWADLINCOTE<br />
+Derbyshire<br />
+DE11 7AF<br />
+GB<br />
+07739 874952";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:49;O:8:"stdClass":24:{s:4:"time";s:12:"14-0323-1373";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"026-8551457-4135557";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£1.99";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:143:"Jacqueline Anne holmes<br />
+125 Sarehole Road<br />
+Hall Green<br />
+<br />
+Birmingham<br />
+West Mids<br />
+B28 8ED<br />
+GB<br />
+7943161585";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:50;O:8:"stdClass":24:{s:4:"time";s:12:"14-0323-1376";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"203-9533140-9317956";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£1.99";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:130:"Helen Castell<br />
+35 Willowdene Court<br />
+Warley<br />
+<br />
+Brentwood<br />
+Essex<br />
+CM14 5ET<br />
+GB<br />
+01277-232951";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:51;O:8:"stdClass":24:{s:4:"time";s:12:"14-0323-1378";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"026-0856501-8375515";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£1.99";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:136:"Mrs Susan Parry<br />
+24 Rhondda Fechan Farm Estate<br />
+<br />
+<br />
+FERNDALE<br />
+M Glam<br />
+CF43 4LX<br />
+GB<br />
+01443 757346";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:52;O:8:"stdClass":24:{s:4:"time";s:14:"14-0323-1387-1";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"202-9912351-2608365";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£3.98";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:122:"austin beech<br />
+36 Norman Avenue<br />
+<br />
+<br />
+BRADFORD<br />
+W Yorkshire<br />
+BD2 2NA<br />
+GB<br />
+7717174039";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:53;O:8:"stdClass":24:{s:4:"time";s:14:"14-0323-1387-2";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"202-9912351-2608365";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:0:"";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:122:"austin beech<br />
+36 Norman Avenue<br />
+<br />
+<br />
+BRADFORD<br />
+W Yorkshire<br />
+BD2 2NA<br />
+GB<br />
+7717174039";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:54;O:8:"stdClass":24:{s:4:"time";s:12:"14-0323-1388";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"202-3465233-2748367";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£1.99";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:125:"Jill Haskell<br />
+8D Breach Close<br />
+Bourton<br />
+<br />
+GILLINGHAM<br />
+Dorset<br />
+SP8 5BB<br />
+GB<br />
+1747840645";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:55;O:8:"stdClass":24:{s:4:"time";s:12:"14-0323-1392";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"026-2264969-2447548";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£1.99";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:114:"wayne francis<br />
+239A New Cross Road<br />
+<br />
+<br />
+LONDON<br />
+<br />
+SE14 5UH<br />
+GB<br />
+7925983596";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:56;O:8:"stdClass":24:{s:4:"time";s:12:"14-0323-1393";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"203-7174555-4303510";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£1.99";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:123:"Keith Grumbridge<br />
+3 Shore Lea<br />
+<br />
+<br />
+LITTLEBOROUGH<br />
+Lancs<br />
+OL15 8EY<br />
+GB<br />
+01706 372836";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:57;O:8:"stdClass":24:{s:4:"time";s:12:"14-0323-1394";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"026-8643970-1092344";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£1.99";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:127:"Holly Keen<br />
+Three Maples<br />
+Snows Paddock<br />
+<br />
+Windlesham<br />
+Surrey<br />
+GU20 6LH<br />
+GB<br />
+7943807035";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:58;O:8:"stdClass":24:{s:4:"time";s:12:"14-0323-1400";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"203-7188058-4013901";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£1.99";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:119:"selma salih<br />
+30 Woodgrange Gardens<br />
+<br />
+<br />
+ENFIELD<br />
+Middx<br />
+EN1 1ES<br />
+GB<br />
+7949799368";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:59;O:8:"stdClass":24:{s:4:"time";s:12:"14-0323-1402";s:7:"zhanghu";s:17:"亢荣荣英国16";s:7:"catalog";s:14:"apple数据线";s:8:"order_id";s:19:"202-3581065-8849944";s:12:"product_name";s:151:"SHOP AROUND®UK Premium WHITE USB Port Wall Mains Charger High Quality Adapter Plug For ALL iPad iPhone 3G 3GS 4 4S 5 iPod iTouch 5 Nano Shuffle Samsun";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£1.99";s:6:"s_time";s:5:"41724";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:157:"Thomas Rogers Woollett<br />
+Bruern Abbey School<br />
+Chesterton House, Chesterton<br />
+<br />
+BICESTER<br />
+Oxon<br />
+OX26 1UY<br />
+GB<br />
+7513694960";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00F8IJMZS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}}s:20:"custom_result_object";a:0:{}s:11:"current_row";i:0;s:8:"num_rows";i:60;s:8:"row_data";N;}

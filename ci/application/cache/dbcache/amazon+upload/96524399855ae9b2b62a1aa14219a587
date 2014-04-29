@@ -1,0 +1,771 @@
+O:12:"CI_DB_result":8:{s:7:"conn_id";N;s:9:"result_id";N;s:12:"result_array";a:60:{i:0;a:24:{s:4:"time";s:11:"14-0324-216";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:12:"游戏周边";s:8:"order_id";s:19:"204-7172413-2049165";s:12:"product_name";s:63:"My Neighbor Totoro pillow,lovely Detachable and washable pillow";s:4:"ANSI";s:0:"";s:4:"jine";s:7:"£11.09";s:6:"s_time";s:5:"41736";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:102:"Petri Nieminen<br />
+Mahlamäenpolku 2<br />
+Vihti<br />
+03400<br />
+Finland<br />
+Phone:+358445774123";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"芬兰地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00B1NEOOI";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:1;a:24:{s:4:"time";s:11:"14-0324-217";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:6:"其他";s:8:"order_id";s:19:"202-4251818-9675555";s:12:"product_name";s:35:"Pack of 100 White Organza Gift Bags";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£2.19";s:6:"s_time";s:5:"41734";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:150:"tracy henderson<br />
+8 isabella walk<br />
+throckley<br />
+newcastle<br />
+tyne aand wear<br />
+NE15 9QG<br />
+United Kingdom<br />
+Phone:07805040596";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B004EHR7KG";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:2;a:24:{s:4:"time";s:11:"14-0324-218";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:6:"其他";s:8:"order_id";s:19:"205-8491778-2376351";s:12:"product_name";s:103:"3 IN 1 Silicone Icing Mould Moulding Cake Cupcake Toppers Flower Rose Sugar Paste Sugarpaste Decoration";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£3.95";s:6:"s_time";s:5:"41731";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:139:"Claire Hunt<br />
+1 Mosscroft Way<br />
+Hatfield Woodhouse<br />
+South Yorkshire<br />
+DN7 6BN<br />
+United Kingdom<br />
+Phone:07871219191";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B008B5HZTK";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:3;a:24:{s:4:"time";s:13:"14-0324-219-1";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:6:"其他";s:8:"order_id";s:19:"205-8367500-2297959";s:12:"product_name";s:55:"Artificial Fake Faux Scindapsus Leaf Vine Plant Garland";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£2.38";s:6:"s_time";s:5:"41731";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:128:"Carolyn Potts<br />
+Commerzbank<br />
+30 Gresham Street<br />
+London<br />
+EC2V 7PG<br />
+United Kingdom<br />
+Phone:07792153858";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B009J751F4";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:4;a:24:{s:4:"time";s:13:"14-0324-219-2";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:6:"其他";s:8:"order_id";s:19:"205-8367500-2297959";s:12:"product_name";s:55:"Artificial Fake Faux Scindapsus Leaf Vine Plant Garland";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£2.38";s:6:"s_time";s:5:"41731";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:128:"Carolyn Potts<br />
+Commerzbank<br />
+30 Gresham Street<br />
+London<br />
+EC2V 7PG<br />
+United Kingdom<br />
+Phone:07792153858";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B009J751F4";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:5;a:24:{s:4:"time";s:13:"14-0324-220-1";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:6:"墙贴";s:8:"order_id";s:19:"205-8249553-9181156";s:12:"product_name";s:99:"Winnie The Pooh Wall Stickers, Bedroom, Nursery, Kids Winnie The Pooh Childrens Wall Paper Stickers";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£3.87";s:6:"s_time";s:5:"41735";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:148:"JANE SOUTHGATE<br />
+12 BALDWIN CLOSE<br />
+MAIDENBOWER<br />
+CRAWLEY<br />
+WEST SUSSEX<br />
+RH10 7JA<br />
+United Kingdom<br />
+Phone:07973 836778";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B005LMB5BA";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:6;a:24:{s:4:"time";s:13:"14-0324-220-2";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:6:"墙贴";s:8:"order_id";s:19:"205-8249553-9181156";s:12:"product_name";s:99:"Winnie The Pooh Wall Stickers, Bedroom, Nursery, Kids Winnie The Pooh Childrens Wall Paper Stickers";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£3.87";s:6:"s_time";s:5:"41735";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:148:"JANE SOUTHGATE<br />
+12 BALDWIN CLOSE<br />
+MAIDENBOWER<br />
+CRAWLEY<br />
+WEST SUSSEX<br />
+RH10 7JA<br />
+United Kingdom<br />
+Phone:07973 836778";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B005LMB5BA";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:7;a:24:{s:4:"time";s:11:"14-0324-221";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:12:"电子配件";s:8:"order_id";s:19:"205-7937340-5833134";s:12:"product_name";s:78:"BeautyLife 6Pcs Cheese Cat Anti Dust Earphone Jack Plug Stopper Cap for Iphone";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£5.08";s:6:"s_time";s:5:"41735";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:131:"Sam Galvin<br />
+51 homestead avenue<br />
+Worcester<br />
+Worcestershire<br />
+WR40DA<br />
+United Kingdom<br />
+Phone:07540102911";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00FDMQNSI";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:8;a:24:{s:4:"time";s:13:"14-0324-222-1";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:12:"游戏周边";s:8:"order_id";s:19:"205-7896991-5629168";s:12:"product_name";s:73:"Big Bargain Cute Crocodile Mouth Dentist Bite Finger Game Funny Toy Green";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£5.77";s:6:"s_time";s:5:"41730";s:8:"s_number";s:13:"RC325565094HK";s:5:"s_way";s:0:"";s:7:"message";s:0:"";s:9:"s_address";s:116:"Emma Goldhawk<br />
+82 Westway<br />
+London<br />
+London<br />
+SW20 9LS<br />
+United Kingdom<br />
+Phone:02085422250";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00AAXNJ2S";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:9;a:24:{s:4:"time";s:13:"14-0324-222-2";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:12:"游戏周边";s:8:"order_id";s:19:"205-7896991-5629168";s:12:"product_name";s:73:"Big Bargain Cute Crocodile Mouth Dentist Bite Finger Game Funny Toy Green";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£5.77";s:6:"s_time";s:5:"41730";s:8:"s_number";s:13:"RC325565094HK";s:5:"s_way";s:0:"";s:7:"message";s:0:"";s:9:"s_address";s:116:"Emma Goldhawk<br />
+82 Westway<br />
+London<br />
+London<br />
+SW20 9LS<br />
+United Kingdom<br />
+Phone:02085422250";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00AAXNJ2S";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:10;a:24:{s:4:"time";s:11:"14-0324-223";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:6:"其他";s:8:"order_id";s:19:"205-7002908-3826732";s:12:"product_name";s:99:"Baby newborn 100% cotton swaddle swaddling blanket wrap pink or blue boy or girl recommended (Blue)";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£7.54";s:6:"s_time";s:5:"41731";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:118:"Zsuzsa Nagy<br />
+55 Juliana Close<br />
+London<br />
+London<br />
+N2 0TJ<br />
+United Kingdom<br />
+Phone:07523826192";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B008QDEXOW";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:11;a:24:{s:4:"time";s:11:"14-0324-224";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:6:"其他";s:8:"order_id";s:19:"205-6830637-5525139";s:12:"product_name";s:55:"Artificial Fake Faux Scindapsus Leaf Vine Plant Garland";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£2.38";s:6:"s_time";s:5:"41731";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:160:"arne schmidt<br />
+Angel Building, 407 St John Street<br />
+4th Floor, Expedia<br />
+LONDON<br />
+UK<br />
+EC1V 4AD<br />
+United Kingdom<br />
+Phone:07840504957";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B009J751F4";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:12;a:24:{s:4:"time";s:11:"14-0324-225";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:6:"其他";s:8:"order_id";s:19:"205-6299265-8256326";s:12:"product_name";s:42:"Dog Seat Belt lead restraint harness Black";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£1.89";s:6:"s_time";s:5:"41730";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:128:"james chapman<br />
+11 Bullwood Drive<br />
+GLASGOW<br />
+Lanarkshire<br />
+G53 7BU<br />
+United Kingdom<br />
+Phone:01418839638";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/9822489242";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:13;a:24:{s:4:"time";s:11:"14-0324-226";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:6:"其他";s:8:"order_id";s:19:"205-5449696-4258731";s:12:"product_name";s:35:"Pack of 100 White Organza Gift Bags";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£2.17";s:6:"s_time";s:5:"41734";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:141:"Jemma McNulty<br />
+DUO, Vallis House<br />
+Vallis Road<br />
+Frome<br />
+Somerset<br />
+BA113EG<br />
+United Kingdom<br />
+Phone:01373468666";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B004EHR7KG";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:14;a:24:{s:4:"time";s:13:"14-0324-227-1";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:6:"其他";s:8:"order_id";s:19:"205-5046144-5289918";s:12:"product_name";s:103:"3 IN 1 Silicone Icing Mould Moulding Cake Cupcake Toppers Flower Rose Sugar Paste Sugarpaste Decoration";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£3.95";s:6:"s_time";s:5:"41731";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:157:"christine robinson<br />
+15 Millfield Road<br />
+Fishburn<br />
+STOCKTON ON TEES<br />
+Cleveland<br />
+TS21 4DW<br />
+United Kingdom<br />
+Phone:01740 238647";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B008B5HZTK";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:15;a:24:{s:4:"time";s:13:"14-0324-227-2";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:6:"其他";s:8:"order_id";s:19:"205-5046144-5289918";s:12:"product_name";s:103:"3 IN 1 Silicone Icing Mould Moulding Cake Cupcake Toppers Flower Rose Sugar Paste Sugarpaste Decoration";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£3.95";s:6:"s_time";s:5:"41731";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:157:"christine robinson<br />
+15 Millfield Road<br />
+Fishburn<br />
+STOCKTON ON TEES<br />
+Cleveland<br />
+TS21 4DW<br />
+United Kingdom<br />
+Phone:01740 238647";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B008B5HZTK";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:16;a:24:{s:4:"time";s:11:"14-0324-228";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:12:"游戏周边";s:8:"order_id";s:19:"205-4685982-6565952";s:12:"product_name";s:31:"My Neighbor Totoro Round pillow";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£7.19";s:6:"s_time";s:5:"41727";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:129:"Neveda Naz<br />
+Flat number 2<br />
+103 King Henrys Road<br />
+LONDON<br />
+NW3 3QX<br />
+United Kingdom<br />
+Phone:07850358065";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00AYEBFXI";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:17;a:24:{s:4:"time";s:11:"14-0324-229";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:6:"其他";s:8:"order_id";s:19:"205-4573315-1011532";s:12:"product_name";s:54:"TDS Digital Water Quality Tester Meter ppm Hydroponics";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£5.53";s:6:"s_time";s:5:"41730";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:138:"Andrew Kippax<br />
+North Mill Dairy<br />
+Membury<br />
+AXMINSTER<br />
+Devon<br />
+EX13 7TN<br />
+United Kingdom<br />
+Phone:07976028706";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B009HMVDNA";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:18;a:24:{s:4:"time";s:11:"14-0324-230";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:6:"其他";s:8:"order_id";s:19:"205-4285144-1318766";s:12:"product_name";s:103:"3 IN 1 Silicone Icing Mould Moulding Cake Cupcake Toppers Flower Rose Sugar Paste Sugarpaste Decoration";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£3.95";s:6:"s_time";s:5:"41731";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:112:"Daria Malich<br />
+15 St Edmunds Square<br />
+LONDON<br />
+SW13 8SB<br />
+United Kingdom<br />
+Phone:07801999451";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B008B5HZTK";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:19;a:24:{s:4:"time";s:11:"14-0324-231";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:4:"U盘";s:8:"order_id";s:19:"205-4020224-0967537";s:12:"product_name";s:56:"8GB Minion (One-Eyed) USB Flash Drive from Despicable Me";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£5.49";s:6:"s_time";s:5:"41726";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:134:"andrew mason<br />
+28 William Coltman Way<br />
+STOKE ON TRENT<br />
+Staffs<br />
+ST6 5XB<br />
+United Kingdom<br />
+Phone:07980859138";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00FOMJA0K";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:20;a:24:{s:4:"time";s:11:"14-0324-232";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:12:"游戏周边";s:8:"order_id";s:19:"205-3416445-3185161";s:12:"product_name";s:105:"Tinxs 10 x Animal Shaped Finger Toy Puppets Animal dolls Game for Children Kids Parties Toy Story Telling";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£2.00";s:6:"s_time";s:5:"41729";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:140:"Sian Bamber<br />
+Flat 9, Westmoreland Lodge<br />
+119 Norwood Road<br />
+LONDON<br />
+SE24 9AE<br />
+United Kingdom<br />
+Phone:07980627235";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B0084Y7ZWK";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:5:"10.63";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:21;a:24:{s:4:"time";s:11:"14-0324-234";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:6:"其他";s:8:"order_id";s:18:"05-3213246-5961926";s:12:"product_name";s:103:"3 IN 1 Silicone Icing Mould Moulding Cake Cupcake Toppers Flower Rose Sugar Paste Sugarpaste Decoration";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£3.95";s:6:"s_time";s:5:"41731";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:154:"KAREN BILBILLINTON<br />
+43 Withy Grove Crescent<br />
+Bamber Bridge<br />
+PRESTON<br />
+Lancs<br />
+PR5 6NX<br />
+United Kingdom<br />
+Phone:441772437796";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B008B5HZTK";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:22;a:24:{s:4:"time";s:13:"14-0324-235-1";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:6:"其他";s:8:"order_id";s:19:"205-3057281-6040348";s:12:"product_name";s:48:"Artificial 36 Cherries in a PVC box - 2.5cm, Red";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£5.09";s:6:"s_time";s:5:"41733";s:8:"s_number";s:13:"RC882407016HK";s:5:"s_way";s:0:"";s:7:"message";s:0:"";s:9:"s_address";s:122:"Amy Wyman<br />
+Half Moon<br />
+Chesterfield Road<br />
+Worksop<br />
+S80 3EE<br />
+United Kingdom<br />
+Phone:07739009979";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B001MG8VJS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:23;a:24:{s:4:"time";s:13:"14-0324-235-2";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:6:"其他";s:8:"order_id";s:19:"205-3057281-6040348";s:12:"product_name";s:137:"Home Life Luxury Style Design Kitchen Decoration - Artificials Fruits LOOKS LIKE FRESH Strawberry (bag of 5) Xmas Gift. SAME DAY DISPATCH";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£3.55";s:6:"s_time";s:5:"41733";s:8:"s_number";s:13:"RC882407016HK";s:5:"s_way";s:0:"";s:7:"message";s:0:"";s:9:"s_address";s:122:"Amy Wyman<br />
+Half Moon<br />
+Chesterfield Road<br />
+Worksop<br />
+S80 3EE<br />
+United Kingdom<br />
+Phone:07739009979";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B009VZOIJE";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:24;a:24:{s:4:"time";s:13:"14-0324-235-3";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:6:"其他";s:8:"order_id";s:19:"205-3057281-6040348";s:12:"product_name";s:137:"Home Life Luxury Style Design Kitchen Decoration - Artificials Fruits LOOKS LIKE FRESH Strawberry (bag of 5) Xmas Gift. SAME DAY DISPATCH";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£3.55";s:6:"s_time";s:5:"41733";s:8:"s_number";s:13:"RC882407016HK";s:5:"s_way";s:0:"";s:7:"message";s:0:"";s:9:"s_address";s:122:"Amy Wyman<br />
+Half Moon<br />
+Chesterfield Road<br />
+Worksop<br />
+S80 3EE<br />
+United Kingdom<br />
+Phone:07739009979";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B009VZOIJE";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:25;a:24:{s:4:"time";s:13:"14-0324-235-4";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:6:"其他";s:8:"order_id";s:19:"205-3057281-6040348";s:12:"product_name";s:137:"Home Life Luxury Style Design Kitchen Decoration - Artificials Fruits LOOKS LIKE FRESH Strawberry (bag of 5) Xmas Gift. SAME DAY DISPATCH";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£3.55";s:6:"s_time";s:5:"41733";s:8:"s_number";s:13:"RC882407016HK";s:5:"s_way";s:0:"";s:7:"message";s:0:"";s:9:"s_address";s:122:"Amy Wyman<br />
+Half Moon<br />
+Chesterfield Road<br />
+Worksop<br />
+S80 3EE<br />
+United Kingdom<br />
+Phone:07739009979";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B009VZOIJE";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:26;a:24:{s:4:"time";s:11:"14-0324-236";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:15:"小黄人玩偶";s:8:"order_id";s:19:"205-2746416-2977907";s:12:"product_name";s:81:"Despicable Me The Movie Minion STEWART ONE-EYE 9 inch Stuffed Plush Doll Soft Toy";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£9.19";s:6:"s_time";s:5:"41732";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:152:"William Woodruff<br />
+9 Skeffington Close<br />
+Geddington<br />
+Kettering<br />
+Northants<br />
+NN14 1BA<br />
+United Kingdom<br />
+Phone:01536 742982";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B0053X65A8";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:27;a:24:{s:4:"time";s:11:"14-0324-237";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:12:"游戏周边";s:8:"order_id";s:19:"205-2356431-4445118";s:12:"product_name";s:71:"15\" How To Train Your Dragon Toothless Night Fury Plush Cushion Pillow";s:4:"ANSI";s:0:"";s:4:"jine";s:7:"£10.59";s:6:"s_time";s:5:"41727";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:143:"wendy tilby<br />
+28 station road<br />
+stoke mandeville<br />
+aylesbury<br />
+bucks<br />
+HP225UL<br />
+United Kingdom<br />
+Phone:01296612979";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00BOSAP48";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:28;a:24:{s:4:"time";s:11:"14-0324-238";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:6:"LED灯";s:8:"order_id";s:19:"205-1653895-8020362";s:12:"product_name";s:83:"NEW highlights LED Star Master Colorful Starry Night Cosmos Projector Bed Side Lamp";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£4.19";s:6:"s_time";s:5:"41727";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:124:"MARIE MARRINAN<br />
+2 Bryony Close<br />
+MANCHESTER<br />
+Lancs<br />
+M22 1GY<br />
+United Kingdom<br />
+Phone:0161 4379660";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B008G6WAV2";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:29;a:24:{s:4:"time";s:11:"14-0324-239";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:6:"其他";s:8:"order_id";s:19:"205-1185027-3313943";s:12:"product_name";s:55:"Artificial Fake Faux Scindapsus Leaf Vine Plant Garland";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£1.99";s:6:"s_time";s:5:"41731";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:146:"Sami A. Habash<br />
+Lady Margaret Hall, Norham Gardens<br />
+Oxford<br />
+Oxfordshire<br />
+OX2 6QA<br />
+United Kingdom<br />
+Phone:01865 274300";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B009J751F4";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:30;a:24:{s:4:"time";s:11:"14-0324-240";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:6:"其他";s:8:"order_id";s:19:"205-1057274-7385126";s:12:"product_name";s:104:"Adjustable Slimming Belt - Unique Zipper Design Slims & Trims Waist to Give Customised Support & Comfort";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£4.98";s:6:"s_time";s:5:"41733";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:108:"Somsu Uddin<br />
+43 Bluebell Avenue<br />
+LONDON<br />
+E12 6UJ<br />
+United Kingdom<br />
+Phone:07545555926";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B005QOTQEQ";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:31;a:24:{s:4:"time";s:13:"14-0324-241-1";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:6:"其他";s:8:"order_id";s:19:"205-0387515-6099539";s:12:"product_name";s:45:"Two Large Artificial Bananas Decorative Fruit";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£4.59";s:6:"s_time";s:5:"41733";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:125:"Mrs MB Bridson<br />
+1 Garey Close<br />
+Foxdale<br />
+ISLE OF MAN<br />
+IM4 3EU<br />
+United Kingdom<br />
+Phone:07624253703";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B004L4JCVY";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:32;a:24:{s:4:"time";s:13:"14-0324-241-2";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:6:"其他";s:8:"order_id";s:19:"205-0387515-6099539";s:12:"product_name";s:37:"3 Artificial Oranges Decorative Fruit";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£7.09";s:6:"s_time";s:5:"41733";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:125:"Mrs MB Bridson<br />
+1 Garey Close<br />
+Foxdale<br />
+ISLE OF MAN<br />
+IM4 3EU<br />
+United Kingdom<br />
+Phone:07624253703";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B004L5DI4U";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:33;a:24:{s:4:"time";s:11:"14-0324-242";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:6:"其他";s:8:"order_id";s:19:"204-9479012-3249912";s:12:"product_name";s:104:"Adjustable Slimming Belt - Unique Zipper Design Slims & Trims Waist to Give Customised Support & Comfort";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£4.98";s:6:"s_time";s:5:"41733";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:131:"kerry-ann nicholson<br />
+13a grangewood street<br />
+eastham<br />
+london<br />
+E61EZ<br />
+United Kingdom<br />
+Phone:07940169302";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B005QOTQEQ";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:34;a:24:{s:4:"time";s:11:"14-0324-243";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:6:"其他";s:8:"order_id";s:19:"204-9268054-1900356";s:12:"product_name";s:42:"Dog Seat Belt lead restraint harness Black";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£1.89";s:6:"s_time";s:5:"41730";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:120:"una mc ginley<br />
+89<br />
+Elmvale<br />
+Derry<br />
+Derry<br />
+BT48 8SJ<br />
+United Kingdom<br />
+Phone:07764308108";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/9822489242";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:35;a:24:{s:4:"time";s:11:"14-0324-244";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:12:"电子配件";s:8:"order_id";s:19:"204-9152745-7732329";s:12:"product_name";s:255:"Poposh Koala Bear 3.5mm Crystal Anti Dust Plug Bling Dog Earphone Jack Glitter Diamond Rhinestone Headphone Port Stopper Caps For iPhone 3 3G 3GS 4 4GS 4S/iPad 1 2 3 /Ipad mini/ Samsung Galaxy Tab 10.1 P7500 P5110 /Samsung Galaxy Note 10.1/ Samsung Galaxy";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£3.98";s:6:"s_time";s:5:"41740";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:125:"Torin Kerr<br />
+32 brookvale rise<br />
+LISBURN<br />
+Co Antrim<br />
+BT28 1DE<br />
+United Kingdom<br />
+Phone:028 92678027";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00ED9NW7W";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:36;a:24:{s:4:"time";s:11:"14-0324-245";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:9:"宠物类";s:8:"order_id";s:19:"204-8182377-1298731";s:12:"product_name";s:101:"Super9COS Pokemon Pikachu Kigurumi Pajamas Adult Anime Cosplay Halloween Costume ,size L (68\" -70\")";s:4:"ANSI";s:0:"";s:4:"jine";s:7:"£14.00";s:6:"s_time";s:5:"41734";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:150:"Carol Ann Riley<br />
+Grove Cottage<br />
+Church Lane<br />
+Tetney<br />
+South Humberside<br />
+DN36 5JX<br />
+United Kingdom<br />
+Phone:01472 451876";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B0091520ZI";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:37;a:24:{s:4:"time";s:11:"14-0324-246";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:12:"游戏周边";s:8:"order_id";s:19:"204-7838974-8522733";s:12:"product_name";s:31:"My Neighbor Totoro Round pillow";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£7.19";s:6:"s_time";s:5:"41727";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:147:"Jenny Archibald<br />
+369 Durham Road<br />
+Low Fell<br />
+Gateshead<br />
+Tyne and Wear<br />
+NE9 5AL<br />
+United Kingdom<br />
+Phone:07795903737";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00AYEBFXI";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:38;a:24:{s:4:"time";s:11:"14-0324-247";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:6:"其他";s:8:"order_id";s:19:"204-7681418-5693119";s:12:"product_name";s:49:"CREE XML-T6 Led 1000 Lumens mini Flashlight Torch";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£4.04";s:6:"s_time";s:5:"41727";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:154:"MR MICHAEL JAMES TREAGUS<br />
+GREEN ACRES<br />
+22 BROCKHAM LANE<br />
+BETCHWORTH<br />
+SURREY<br />
+RH3 7EL<br />
+United Kingdom<br />
+Phone:01737842635";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B007ZYLUEO";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:39;a:24:{s:4:"time";s:11:"14-0324-248";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:12:"游戏周边";s:8:"order_id";s:19:"204-7223506-4371549";s:12:"product_name";s:78:"ZUBER 16GB IRON MAN USB KEYRING- Memory stick/drive for XP/Vista/Windows 7/Mac";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£9.88";s:6:"s_time";s:5:"41730";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:201:"Dr Mark A. Colpus<br />
+School of Science, University of Greenwich<br />
+Grenville Building, Central Avenue<br />
+Chatham Maritime<br />
+Kent<br />
+ME4 4TB<br />
+United Kingdom<br />
+Phone:07767 153382";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00B8PU9VG";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:40;a:24:{s:4:"time";s:11:"14-0324-249";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:6:"其他";s:8:"order_id";s:19:"204-7049403-1051521";s:12:"product_name";s:49:"CREE XML-T6 Led 1000 Lumens mini Flashlight Torch";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£4.04";s:6:"s_time";s:5:"41727";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:143:"TREVOR BATES<br />
+ABERWIEL<br />
+NANTYR Glyn Ceiriog<br />
+LLANGOLLEN<br />
+CLWYD<br />
+LL20 7DL<br />
+United Kingdom<br />
+Phone:01691 718294";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B007ZYLUEO";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:41;a:24:{s:4:"time";s:11:"14-0324-250";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:15:"小黄人玩偶";s:8:"order_id";s:19:"204-6612720-3287521";s:12:"product_name";s:96:"Despicable Me Deluxe 9 Inch 3D Minion DAVE Figure Plush Soft Toy collectible -XTRAFUN ESSENTIALS";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£9.09";s:6:"s_time";s:5:"41732";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:143:"Robert M Metelko<br />
+32 Devonshire Blds<br />
+Wellsway<br />
+Bath<br />
+Somerset<br />
+BA2 4SU<br />
+United Kingdom<br />
+Phone:07785-921-921";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B004W1LBJM";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:42;a:24:{s:4:"time";s:11:"14-0324-251";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:6:"其他";s:8:"order_id";s:19:"204-5867729-4429146";s:12:"product_name";s:54:"LED Rave Gloves- Multi Colour Flashing Fingertips FL14";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£3.00";s:6:"s_time";s:5:"41733";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:136:"Sheila Foster-Hancock<br />
+12<br />
+Worsdell Way<br />
+Colchester<br />
+Essex<br />
+CO45WQ<br />
+United Kingdom<br />
+Phone:01206851461";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B005LGV732";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:43;a:24:{s:4:"time";s:11:"14-0324-252";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:6:"其他";s:8:"order_id";s:19:"204-5768385-6846755";s:12:"product_name";s:114:"niceEshop(TM) Harry Potter Golden Snitch Enchanted Steampunk Double Sided Wings Balls Pocket Watch Necklace-Bronze";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£6.90";s:6:"s_time";s:5:"41729";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:122:"james wanstall<br />
+53 Abbots Road<br />
+FAVERSHAM<br />
+Kent<br />
+ME13 8DE<br />
+United Kingdom<br />
+Phone:07703411679";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00DUUY0DK";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:44;a:24:{s:4:"time";s:11:"14-0324-253";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:6:"其他";s:8:"order_id";s:19:"204-5729498-8070724";s:12:"product_name";s:63:"9 Artificial Fruits- Apple Banana Orange Grape Pear Lemon Peach";s:4:"ANSI";s:0:"";s:4:"jine";s:7:"£15.00";s:6:"s_time";s:5:"41733";s:8:"s_number";s:13:"RC882407020HK";s:5:"s_way";s:0:"";s:7:"message";s:0:"";s:9:"s_address";s:155:"Bex Venables<br />
+Rugby Christian Fellowship<br />
+46 Cambridge Street<br />
+RUGBY<br />
+Warks<br />
+CV21 3NQ<br />
+United Kingdom<br />
+Phone:01788544608";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B008ZP7IZ2";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:45;a:24:{s:4:"time";s:11:"14-0324-254";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:6:"其他";s:8:"order_id";s:19:"204-5696719-2181948";s:12:"product_name";s:49:"CREE XML-T6 Led 1000 Lumens mini Flashlight Torch";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£4.04";s:6:"s_time";s:5:"41727";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:144:"Lukas Sheppard<br />
+2 steel house, callywhite lane<br />
+Dronfield<br />
+Derbyshire<br />
+S18 2XR<br />
+United Kingdom<br />
+Phone:07887 565027";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B007ZYLUEO";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:46;a:24:{s:4:"time";s:11:"14-0324-255";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:6:"其他";s:8:"order_id";s:19:"204-5610276-3057151";s:12:"product_name";s:120:"Bestdeal-uk 2M 6.6 Feet Artificial Ivy Fake Foliage Leaf Flowers Plants Garland Garden Decoration 2M (Sweet potato leaf)";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£1.98";s:6:"s_time";s:5:"41733";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:129:"john drummond<br />
+101 Ridgway Road<br />
+STOKE ON TRENT<br />
+Staffs<br />
+ST4 2BY<br />
+United Kingdom<br />
+Phone:01782213740";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00FVRRWNU";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:47;a:24:{s:4:"time";s:11:"14-0324-256";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:15:"小黄人玩偶";s:8:"order_id";s:19:"204-5532239-6826746";s:12:"product_name";s:77:"NEW Despicable Me \"It\'s So Fluffy\" Agnes\'s Unicorn 24\" Plush Pillow Doll";s:4:"ANSI";s:0:"";s:4:"jine";s:7:"£14.50";s:6:"s_time";s:5:"41701";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:152:"Nicola Knight<br />
+Stage Miracles<br />
+Woodlands, School Road<br />
+POTTERS BAR<br />
+Herts<br />
+EN6 1JW<br />
+United Kingdom<br />
+Phone:07966447104";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00HQF28LQ";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:48;a:24:{s:4:"time";s:11:"14-0324-257";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:6:"LED灯";s:8:"order_id";s:19:"204-5231257-2891505";s:12:"product_name";s:83:"NEW highlights LED Star Master Colorful Starry Night Cosmos Projector Bed Side Lamp";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£4.19";s:6:"s_time";s:5:"41727";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:129:"54 radmore road<br />
+54 Radmore Road<br />
+LIVERPOOL<br />
+Merseyside<br />
+L14 5PQ<br />
+United Kingdom<br />
+Phone:07874092948";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B008G6WAV2";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:49;a:24:{s:4:"time";s:11:"14-0324-258";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:6:"其他";s:8:"order_id";s:19:"204-4862608-1605927";s:12:"product_name";s:114:"niceEshop(TM) Harry Potter Golden Snitch Enchanted Steampunk Double Sided Wings Balls Pocket Watch Necklace-Bronze";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£6.90";s:6:"s_time";s:5:"41729";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:145:"joanne welsby<br />
+24 Grenobank Road<br />
+Grenoside<br />
+SHEFFIELD<br />
+S Yorkshire<br />
+S35 8NW<br />
+United Kingdom<br />
+Phone:0770691202";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00DUUY0DK";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:50;a:24:{s:4:"time";s:11:"14-0324-259";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:12:"游戏周边";s:8:"order_id";s:19:"204-4404609-8431532";s:12:"product_name";s:51:"Naruto Akatsuki full rings set :Cosplay accessories";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£8.98";s:6:"s_time";s:5:"41736";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:186:"Jose Bento da Silva<br />
+Warwick Business School<br />
+Social Studies Building, Office E2.19<br />
+Coventry<br />
+West Midlands<br />
+CV4 7AL<br />
+United Kingdom<br />
+Phone:7891306637";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B002XW4AW2";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:51;a:24:{s:4:"time";s:11:"14-0324-260";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:6:"LED灯";s:8:"order_id";s:19:"204-3945324-0055511";s:12:"product_name";s:83:"NEW highlights LED Star Master Colorful Starry Night Cosmos Projector Bed Side Lamp";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£4.19";s:6:"s_time";s:5:"41727";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:134:"roger tate<br />
+Fernlea<br />
+Gunby Road, Orby<br />
+SKEGNESS<br />
+Lincs<br />
+PE24 5HT<br />
+United Kingdom<br />
+Phone:07984178480";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B008G6WAV2";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:52;a:24:{s:4:"time";s:11:"14-0324-261";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:12:"游戏周边";s:8:"order_id";s:19:"204-3866379-9518712";s:12:"product_name";s:64:"Pokemon Plush Eevee Doll Around 12cm 5\" soft toy pokemon center";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£5.07";s:6:"s_time";s:5:"41727";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:146:"Meggan Walder<br />
+66 Bodycoats Road<br />
+Chandlers Ford<br />
+EASTLEIGH<br />
+Hants<br />
+SO53 2HB<br />
+United Kingdom<br />
+Phone:02380275851";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00911WI2C";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:53;a:24:{s:4:"time";s:11:"14-0324-262";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:9:"宠物类";s:8:"order_id";s:19:"204-3734527-5860367";s:12:"product_name";s:94:"Super9COS Dinosaur Kigurumi Pajamas Adult Anime Cosplay Halloween Costume ,size L (68\" -70\")";s:4:"ANSI";s:0:"";s:4:"jine";s:7:"£13.15";s:6:"s_time";s:5:"41727";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:146:"michael john dewey<br />
+19 Eaton Court<br />
+Eaton Gardens<br />
+HOVE<br />
+E Sussex<br />
+BN3 3PL<br />
+United Kingdom<br />
+Phone:01273 327 038";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B009155G6S";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:54;a:24:{s:4:"time";s:11:"14-0324-263";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:12:"游戏周边";s:8:"order_id";s:19:"204-3015118-4717153";s:12:"product_name";s:71:"15\" How To Train Your Dragon Toothless Night Fury Plush Cushion Pillow";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£8.99";s:6:"s_time";s:5:"41727";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:131:"Urszula paulina kurylek<br />
+19 uxbridge road<br />
+hanwell<br />
+london<br />
+W7 3PX<br />
+United Kingdom<br />
+Phone:07977072225";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00BOSAP48";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:55;a:24:{s:4:"time";s:11:"14-0324-264";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:4:"U盘";s:8:"order_id";s:19:"204-1955473-4433135";s:12:"product_name";s:81:"8GB Novelty Cool Star War Vader USB Flash Key Pen Drive Memory Stick Gift UK [PC]";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£4.49";s:6:"s_time";s:5:"41726";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:147:"Carlie Wilkinson<br />
+30 finchely crescent<br />
+newcastle upon tyne<br />
+tyne and wear<br />
+NE64YJ<br />
+United Kingdom<br />
+Phone:07783214611";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00ABSMQVW";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:56;a:24:{s:4:"time";s:11:"14-0324-265";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:15:"小黄人玩偶";s:8:"order_id";s:19:"204-1796391-4057154";s:12:"product_name";s:77:"NEW Despicable Me \"It\'s So Fluffy\" Agnes\'s Unicorn 24\" Plush Pillow Doll";s:4:"ANSI";s:0:"";s:4:"jine";s:7:"£14.50";s:6:"s_time";s:5:"41701";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:138:"Tinatin Tuskadze<br />
+50 debenham court<br />
+pownall road<br />
+london<br />
+uk<br />
+E8 4PZ<br />
+United Kingdom<br />
+Phone:7931110760";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00HQF28LQ";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:57;a:24:{s:4:"time";s:11:"14-0324-266";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:6:"其他";s:8:"order_id";s:19:"204-1668505-6343551";s:12:"product_name";s:178:"BABY PEA OUTFIT GROWBAG SLEEP SUIT SLEEPING BAG SWADDLE WRAP BLANKET 0 3 6 9 12 MONTHS BOY OR GIRL WINTER COAT BUGGY STROLLER PRAM COSY TOES SNOWSUIT SNOW SUIT GROW BAG SLEEPSUIT";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£6.99";s:6:"s_time";s:5:"41733";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:156:"Ms Linda Hooper<br />
+163 Millersneuk Crescent<br />
+Millerston<br />
+Glasgow<br />
+lanarkshire<br />
+G33 6PW<br />
+United Kingdom<br />
+Phone:0141 770 -170";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B008Q94WV0";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:58;a:24:{s:4:"time";s:11:"14-0324-267";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:12:"游戏周边";s:8:"order_id";s:19:"204-1310003-1841951";s:12:"product_name";s:81:"18pcs Set 1-3\" Super Mario Bros Figure Toy Doll Pvc Figure Collectors By sanlise";s:4:"ANSI";s:0:"";s:4:"jine";s:7:"£11.59";s:6:"s_time";s:5:"41725";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:118:"s ryder<br />
+51 Radcliffe Wat<br />
+notholt<br />
+middlesex<br />
+UB56HQ<br />
+United Kingdom<br />
+Phone:07761963248";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B008OS7V48";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:59;a:24:{s:4:"time";s:11:"14-0324-268";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:6:"其他";s:8:"order_id";s:19:"204-0957058-7347532";s:12:"product_name";s:42:"Dog Seat Belt lead restraint harness Black";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£1.89";s:6:"s_time";s:5:"41730";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:105:"Michalis kourountzis<br />
+Ko 34<br />
+Nicosia<br />
+Nicosia<br />
+2302<br />
+Cyprus<br />
+Phone:99832638";s:12:"sale_history";N;s:14:"country_beizhu";s:18:"塞浦路斯地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/9822489242";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}}s:13:"result_object";a:60:{i:0;O:8:"stdClass":24:{s:4:"time";s:11:"14-0324-216";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:12:"游戏周边";s:8:"order_id";s:19:"204-7172413-2049165";s:12:"product_name";s:63:"My Neighbor Totoro pillow,lovely Detachable and washable pillow";s:4:"ANSI";s:0:"";s:4:"jine";s:7:"£11.09";s:6:"s_time";s:5:"41736";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:102:"Petri Nieminen<br />
+Mahlamäenpolku 2<br />
+Vihti<br />
+03400<br />
+Finland<br />
+Phone:+358445774123";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"芬兰地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00B1NEOOI";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:1;O:8:"stdClass":24:{s:4:"time";s:11:"14-0324-217";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:6:"其他";s:8:"order_id";s:19:"202-4251818-9675555";s:12:"product_name";s:35:"Pack of 100 White Organza Gift Bags";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£2.19";s:6:"s_time";s:5:"41734";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:150:"tracy henderson<br />
+8 isabella walk<br />
+throckley<br />
+newcastle<br />
+tyne aand wear<br />
+NE15 9QG<br />
+United Kingdom<br />
+Phone:07805040596";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B004EHR7KG";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:2;O:8:"stdClass":24:{s:4:"time";s:11:"14-0324-218";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:6:"其他";s:8:"order_id";s:19:"205-8491778-2376351";s:12:"product_name";s:103:"3 IN 1 Silicone Icing Mould Moulding Cake Cupcake Toppers Flower Rose Sugar Paste Sugarpaste Decoration";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£3.95";s:6:"s_time";s:5:"41731";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:139:"Claire Hunt<br />
+1 Mosscroft Way<br />
+Hatfield Woodhouse<br />
+South Yorkshire<br />
+DN7 6BN<br />
+United Kingdom<br />
+Phone:07871219191";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B008B5HZTK";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:3;O:8:"stdClass":24:{s:4:"time";s:13:"14-0324-219-1";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:6:"其他";s:8:"order_id";s:19:"205-8367500-2297959";s:12:"product_name";s:55:"Artificial Fake Faux Scindapsus Leaf Vine Plant Garland";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£2.38";s:6:"s_time";s:5:"41731";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:128:"Carolyn Potts<br />
+Commerzbank<br />
+30 Gresham Street<br />
+London<br />
+EC2V 7PG<br />
+United Kingdom<br />
+Phone:07792153858";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B009J751F4";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:4;O:8:"stdClass":24:{s:4:"time";s:13:"14-0324-219-2";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:6:"其他";s:8:"order_id";s:19:"205-8367500-2297959";s:12:"product_name";s:55:"Artificial Fake Faux Scindapsus Leaf Vine Plant Garland";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£2.38";s:6:"s_time";s:5:"41731";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:128:"Carolyn Potts<br />
+Commerzbank<br />
+30 Gresham Street<br />
+London<br />
+EC2V 7PG<br />
+United Kingdom<br />
+Phone:07792153858";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B009J751F4";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:5;O:8:"stdClass":24:{s:4:"time";s:13:"14-0324-220-1";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:6:"墙贴";s:8:"order_id";s:19:"205-8249553-9181156";s:12:"product_name";s:99:"Winnie The Pooh Wall Stickers, Bedroom, Nursery, Kids Winnie The Pooh Childrens Wall Paper Stickers";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£3.87";s:6:"s_time";s:5:"41735";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:148:"JANE SOUTHGATE<br />
+12 BALDWIN CLOSE<br />
+MAIDENBOWER<br />
+CRAWLEY<br />
+WEST SUSSEX<br />
+RH10 7JA<br />
+United Kingdom<br />
+Phone:07973 836778";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B005LMB5BA";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:6;O:8:"stdClass":24:{s:4:"time";s:13:"14-0324-220-2";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:6:"墙贴";s:8:"order_id";s:19:"205-8249553-9181156";s:12:"product_name";s:99:"Winnie The Pooh Wall Stickers, Bedroom, Nursery, Kids Winnie The Pooh Childrens Wall Paper Stickers";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£3.87";s:6:"s_time";s:5:"41735";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:148:"JANE SOUTHGATE<br />
+12 BALDWIN CLOSE<br />
+MAIDENBOWER<br />
+CRAWLEY<br />
+WEST SUSSEX<br />
+RH10 7JA<br />
+United Kingdom<br />
+Phone:07973 836778";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B005LMB5BA";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:7;O:8:"stdClass":24:{s:4:"time";s:11:"14-0324-221";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:12:"电子配件";s:8:"order_id";s:19:"205-7937340-5833134";s:12:"product_name";s:78:"BeautyLife 6Pcs Cheese Cat Anti Dust Earphone Jack Plug Stopper Cap for Iphone";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£5.08";s:6:"s_time";s:5:"41735";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:131:"Sam Galvin<br />
+51 homestead avenue<br />
+Worcester<br />
+Worcestershire<br />
+WR40DA<br />
+United Kingdom<br />
+Phone:07540102911";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00FDMQNSI";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:8;O:8:"stdClass":24:{s:4:"time";s:13:"14-0324-222-1";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:12:"游戏周边";s:8:"order_id";s:19:"205-7896991-5629168";s:12:"product_name";s:73:"Big Bargain Cute Crocodile Mouth Dentist Bite Finger Game Funny Toy Green";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£5.77";s:6:"s_time";s:5:"41730";s:8:"s_number";s:13:"RC325565094HK";s:5:"s_way";s:0:"";s:7:"message";s:0:"";s:9:"s_address";s:116:"Emma Goldhawk<br />
+82 Westway<br />
+London<br />
+London<br />
+SW20 9LS<br />
+United Kingdom<br />
+Phone:02085422250";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00AAXNJ2S";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:9;O:8:"stdClass":24:{s:4:"time";s:13:"14-0324-222-2";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:12:"游戏周边";s:8:"order_id";s:19:"205-7896991-5629168";s:12:"product_name";s:73:"Big Bargain Cute Crocodile Mouth Dentist Bite Finger Game Funny Toy Green";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£5.77";s:6:"s_time";s:5:"41730";s:8:"s_number";s:13:"RC325565094HK";s:5:"s_way";s:0:"";s:7:"message";s:0:"";s:9:"s_address";s:116:"Emma Goldhawk<br />
+82 Westway<br />
+London<br />
+London<br />
+SW20 9LS<br />
+United Kingdom<br />
+Phone:02085422250";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00AAXNJ2S";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:10;O:8:"stdClass":24:{s:4:"time";s:11:"14-0324-223";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:6:"其他";s:8:"order_id";s:19:"205-7002908-3826732";s:12:"product_name";s:99:"Baby newborn 100% cotton swaddle swaddling blanket wrap pink or blue boy or girl recommended (Blue)";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£7.54";s:6:"s_time";s:5:"41731";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:118:"Zsuzsa Nagy<br />
+55 Juliana Close<br />
+London<br />
+London<br />
+N2 0TJ<br />
+United Kingdom<br />
+Phone:07523826192";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B008QDEXOW";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:11;O:8:"stdClass":24:{s:4:"time";s:11:"14-0324-224";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:6:"其他";s:8:"order_id";s:19:"205-6830637-5525139";s:12:"product_name";s:55:"Artificial Fake Faux Scindapsus Leaf Vine Plant Garland";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£2.38";s:6:"s_time";s:5:"41731";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:160:"arne schmidt<br />
+Angel Building, 407 St John Street<br />
+4th Floor, Expedia<br />
+LONDON<br />
+UK<br />
+EC1V 4AD<br />
+United Kingdom<br />
+Phone:07840504957";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B009J751F4";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:12;O:8:"stdClass":24:{s:4:"time";s:11:"14-0324-225";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:6:"其他";s:8:"order_id";s:19:"205-6299265-8256326";s:12:"product_name";s:42:"Dog Seat Belt lead restraint harness Black";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£1.89";s:6:"s_time";s:5:"41730";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:128:"james chapman<br />
+11 Bullwood Drive<br />
+GLASGOW<br />
+Lanarkshire<br />
+G53 7BU<br />
+United Kingdom<br />
+Phone:01418839638";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/9822489242";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:13;O:8:"stdClass":24:{s:4:"time";s:11:"14-0324-226";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:6:"其他";s:8:"order_id";s:19:"205-5449696-4258731";s:12:"product_name";s:35:"Pack of 100 White Organza Gift Bags";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£2.17";s:6:"s_time";s:5:"41734";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:141:"Jemma McNulty<br />
+DUO, Vallis House<br />
+Vallis Road<br />
+Frome<br />
+Somerset<br />
+BA113EG<br />
+United Kingdom<br />
+Phone:01373468666";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B004EHR7KG";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:14;O:8:"stdClass":24:{s:4:"time";s:13:"14-0324-227-1";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:6:"其他";s:8:"order_id";s:19:"205-5046144-5289918";s:12:"product_name";s:103:"3 IN 1 Silicone Icing Mould Moulding Cake Cupcake Toppers Flower Rose Sugar Paste Sugarpaste Decoration";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£3.95";s:6:"s_time";s:5:"41731";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:157:"christine robinson<br />
+15 Millfield Road<br />
+Fishburn<br />
+STOCKTON ON TEES<br />
+Cleveland<br />
+TS21 4DW<br />
+United Kingdom<br />
+Phone:01740 238647";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B008B5HZTK";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:15;O:8:"stdClass":24:{s:4:"time";s:13:"14-0324-227-2";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:6:"其他";s:8:"order_id";s:19:"205-5046144-5289918";s:12:"product_name";s:103:"3 IN 1 Silicone Icing Mould Moulding Cake Cupcake Toppers Flower Rose Sugar Paste Sugarpaste Decoration";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£3.95";s:6:"s_time";s:5:"41731";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:157:"christine robinson<br />
+15 Millfield Road<br />
+Fishburn<br />
+STOCKTON ON TEES<br />
+Cleveland<br />
+TS21 4DW<br />
+United Kingdom<br />
+Phone:01740 238647";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B008B5HZTK";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:16;O:8:"stdClass":24:{s:4:"time";s:11:"14-0324-228";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:12:"游戏周边";s:8:"order_id";s:19:"205-4685982-6565952";s:12:"product_name";s:31:"My Neighbor Totoro Round pillow";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£7.19";s:6:"s_time";s:5:"41727";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:129:"Neveda Naz<br />
+Flat number 2<br />
+103 King Henrys Road<br />
+LONDON<br />
+NW3 3QX<br />
+United Kingdom<br />
+Phone:07850358065";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00AYEBFXI";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:17;O:8:"stdClass":24:{s:4:"time";s:11:"14-0324-229";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:6:"其他";s:8:"order_id";s:19:"205-4573315-1011532";s:12:"product_name";s:54:"TDS Digital Water Quality Tester Meter ppm Hydroponics";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£5.53";s:6:"s_time";s:5:"41730";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:138:"Andrew Kippax<br />
+North Mill Dairy<br />
+Membury<br />
+AXMINSTER<br />
+Devon<br />
+EX13 7TN<br />
+United Kingdom<br />
+Phone:07976028706";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B009HMVDNA";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:18;O:8:"stdClass":24:{s:4:"time";s:11:"14-0324-230";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:6:"其他";s:8:"order_id";s:19:"205-4285144-1318766";s:12:"product_name";s:103:"3 IN 1 Silicone Icing Mould Moulding Cake Cupcake Toppers Flower Rose Sugar Paste Sugarpaste Decoration";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£3.95";s:6:"s_time";s:5:"41731";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:112:"Daria Malich<br />
+15 St Edmunds Square<br />
+LONDON<br />
+SW13 8SB<br />
+United Kingdom<br />
+Phone:07801999451";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B008B5HZTK";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:19;O:8:"stdClass":24:{s:4:"time";s:11:"14-0324-231";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:4:"U盘";s:8:"order_id";s:19:"205-4020224-0967537";s:12:"product_name";s:56:"8GB Minion (One-Eyed) USB Flash Drive from Despicable Me";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£5.49";s:6:"s_time";s:5:"41726";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:134:"andrew mason<br />
+28 William Coltman Way<br />
+STOKE ON TRENT<br />
+Staffs<br />
+ST6 5XB<br />
+United Kingdom<br />
+Phone:07980859138";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00FOMJA0K";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:20;O:8:"stdClass":24:{s:4:"time";s:11:"14-0324-232";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:12:"游戏周边";s:8:"order_id";s:19:"205-3416445-3185161";s:12:"product_name";s:105:"Tinxs 10 x Animal Shaped Finger Toy Puppets Animal dolls Game for Children Kids Parties Toy Story Telling";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£2.00";s:6:"s_time";s:5:"41729";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:140:"Sian Bamber<br />
+Flat 9, Westmoreland Lodge<br />
+119 Norwood Road<br />
+LONDON<br />
+SE24 9AE<br />
+United Kingdom<br />
+Phone:07980627235";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B0084Y7ZWK";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:5:"10.63";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:21;O:8:"stdClass":24:{s:4:"time";s:11:"14-0324-234";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:6:"其他";s:8:"order_id";s:18:"05-3213246-5961926";s:12:"product_name";s:103:"3 IN 1 Silicone Icing Mould Moulding Cake Cupcake Toppers Flower Rose Sugar Paste Sugarpaste Decoration";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£3.95";s:6:"s_time";s:5:"41731";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:154:"KAREN BILBILLINTON<br />
+43 Withy Grove Crescent<br />
+Bamber Bridge<br />
+PRESTON<br />
+Lancs<br />
+PR5 6NX<br />
+United Kingdom<br />
+Phone:441772437796";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B008B5HZTK";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:22;O:8:"stdClass":24:{s:4:"time";s:13:"14-0324-235-1";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:6:"其他";s:8:"order_id";s:19:"205-3057281-6040348";s:12:"product_name";s:48:"Artificial 36 Cherries in a PVC box - 2.5cm, Red";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£5.09";s:6:"s_time";s:5:"41733";s:8:"s_number";s:13:"RC882407016HK";s:5:"s_way";s:0:"";s:7:"message";s:0:"";s:9:"s_address";s:122:"Amy Wyman<br />
+Half Moon<br />
+Chesterfield Road<br />
+Worksop<br />
+S80 3EE<br />
+United Kingdom<br />
+Phone:07739009979";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B001MG8VJS";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:23;O:8:"stdClass":24:{s:4:"time";s:13:"14-0324-235-2";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:6:"其他";s:8:"order_id";s:19:"205-3057281-6040348";s:12:"product_name";s:137:"Home Life Luxury Style Design Kitchen Decoration - Artificials Fruits LOOKS LIKE FRESH Strawberry (bag of 5) Xmas Gift. SAME DAY DISPATCH";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£3.55";s:6:"s_time";s:5:"41733";s:8:"s_number";s:13:"RC882407016HK";s:5:"s_way";s:0:"";s:7:"message";s:0:"";s:9:"s_address";s:122:"Amy Wyman<br />
+Half Moon<br />
+Chesterfield Road<br />
+Worksop<br />
+S80 3EE<br />
+United Kingdom<br />
+Phone:07739009979";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B009VZOIJE";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:24;O:8:"stdClass":24:{s:4:"time";s:13:"14-0324-235-3";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:6:"其他";s:8:"order_id";s:19:"205-3057281-6040348";s:12:"product_name";s:137:"Home Life Luxury Style Design Kitchen Decoration - Artificials Fruits LOOKS LIKE FRESH Strawberry (bag of 5) Xmas Gift. SAME DAY DISPATCH";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£3.55";s:6:"s_time";s:5:"41733";s:8:"s_number";s:13:"RC882407016HK";s:5:"s_way";s:0:"";s:7:"message";s:0:"";s:9:"s_address";s:122:"Amy Wyman<br />
+Half Moon<br />
+Chesterfield Road<br />
+Worksop<br />
+S80 3EE<br />
+United Kingdom<br />
+Phone:07739009979";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B009VZOIJE";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:25;O:8:"stdClass":24:{s:4:"time";s:13:"14-0324-235-4";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:6:"其他";s:8:"order_id";s:19:"205-3057281-6040348";s:12:"product_name";s:137:"Home Life Luxury Style Design Kitchen Decoration - Artificials Fruits LOOKS LIKE FRESH Strawberry (bag of 5) Xmas Gift. SAME DAY DISPATCH";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£3.55";s:6:"s_time";s:5:"41733";s:8:"s_number";s:13:"RC882407016HK";s:5:"s_way";s:0:"";s:7:"message";s:0:"";s:9:"s_address";s:122:"Amy Wyman<br />
+Half Moon<br />
+Chesterfield Road<br />
+Worksop<br />
+S80 3EE<br />
+United Kingdom<br />
+Phone:07739009979";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B009VZOIJE";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:26;O:8:"stdClass":24:{s:4:"time";s:11:"14-0324-236";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:15:"小黄人玩偶";s:8:"order_id";s:19:"205-2746416-2977907";s:12:"product_name";s:81:"Despicable Me The Movie Minion STEWART ONE-EYE 9 inch Stuffed Plush Doll Soft Toy";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£9.19";s:6:"s_time";s:5:"41732";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:152:"William Woodruff<br />
+9 Skeffington Close<br />
+Geddington<br />
+Kettering<br />
+Northants<br />
+NN14 1BA<br />
+United Kingdom<br />
+Phone:01536 742982";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B0053X65A8";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:27;O:8:"stdClass":24:{s:4:"time";s:11:"14-0324-237";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:12:"游戏周边";s:8:"order_id";s:19:"205-2356431-4445118";s:12:"product_name";s:71:"15\" How To Train Your Dragon Toothless Night Fury Plush Cushion Pillow";s:4:"ANSI";s:0:"";s:4:"jine";s:7:"£10.59";s:6:"s_time";s:5:"41727";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:143:"wendy tilby<br />
+28 station road<br />
+stoke mandeville<br />
+aylesbury<br />
+bucks<br />
+HP225UL<br />
+United Kingdom<br />
+Phone:01296612979";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00BOSAP48";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:28;O:8:"stdClass":24:{s:4:"time";s:11:"14-0324-238";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:6:"LED灯";s:8:"order_id";s:19:"205-1653895-8020362";s:12:"product_name";s:83:"NEW highlights LED Star Master Colorful Starry Night Cosmos Projector Bed Side Lamp";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£4.19";s:6:"s_time";s:5:"41727";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:124:"MARIE MARRINAN<br />
+2 Bryony Close<br />
+MANCHESTER<br />
+Lancs<br />
+M22 1GY<br />
+United Kingdom<br />
+Phone:0161 4379660";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B008G6WAV2";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:29;O:8:"stdClass":24:{s:4:"time";s:11:"14-0324-239";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:6:"其他";s:8:"order_id";s:19:"205-1185027-3313943";s:12:"product_name";s:55:"Artificial Fake Faux Scindapsus Leaf Vine Plant Garland";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£1.99";s:6:"s_time";s:5:"41731";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:146:"Sami A. Habash<br />
+Lady Margaret Hall, Norham Gardens<br />
+Oxford<br />
+Oxfordshire<br />
+OX2 6QA<br />
+United Kingdom<br />
+Phone:01865 274300";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B009J751F4";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:30;O:8:"stdClass":24:{s:4:"time";s:11:"14-0324-240";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:6:"其他";s:8:"order_id";s:19:"205-1057274-7385126";s:12:"product_name";s:104:"Adjustable Slimming Belt - Unique Zipper Design Slims & Trims Waist to Give Customised Support & Comfort";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£4.98";s:6:"s_time";s:5:"41733";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:108:"Somsu Uddin<br />
+43 Bluebell Avenue<br />
+LONDON<br />
+E12 6UJ<br />
+United Kingdom<br />
+Phone:07545555926";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B005QOTQEQ";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:31;O:8:"stdClass":24:{s:4:"time";s:13:"14-0324-241-1";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:6:"其他";s:8:"order_id";s:19:"205-0387515-6099539";s:12:"product_name";s:45:"Two Large Artificial Bananas Decorative Fruit";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£4.59";s:6:"s_time";s:5:"41733";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:125:"Mrs MB Bridson<br />
+1 Garey Close<br />
+Foxdale<br />
+ISLE OF MAN<br />
+IM4 3EU<br />
+United Kingdom<br />
+Phone:07624253703";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B004L4JCVY";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:32;O:8:"stdClass":24:{s:4:"time";s:13:"14-0324-241-2";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:6:"其他";s:8:"order_id";s:19:"205-0387515-6099539";s:12:"product_name";s:37:"3 Artificial Oranges Decorative Fruit";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£7.09";s:6:"s_time";s:5:"41733";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:125:"Mrs MB Bridson<br />
+1 Garey Close<br />
+Foxdale<br />
+ISLE OF MAN<br />
+IM4 3EU<br />
+United Kingdom<br />
+Phone:07624253703";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B004L5DI4U";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:33;O:8:"stdClass":24:{s:4:"time";s:11:"14-0324-242";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:6:"其他";s:8:"order_id";s:19:"204-9479012-3249912";s:12:"product_name";s:104:"Adjustable Slimming Belt - Unique Zipper Design Slims & Trims Waist to Give Customised Support & Comfort";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£4.98";s:6:"s_time";s:5:"41733";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:131:"kerry-ann nicholson<br />
+13a grangewood street<br />
+eastham<br />
+london<br />
+E61EZ<br />
+United Kingdom<br />
+Phone:07940169302";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B005QOTQEQ";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:34;O:8:"stdClass":24:{s:4:"time";s:11:"14-0324-243";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:6:"其他";s:8:"order_id";s:19:"204-9268054-1900356";s:12:"product_name";s:42:"Dog Seat Belt lead restraint harness Black";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£1.89";s:6:"s_time";s:5:"41730";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:120:"una mc ginley<br />
+89<br />
+Elmvale<br />
+Derry<br />
+Derry<br />
+BT48 8SJ<br />
+United Kingdom<br />
+Phone:07764308108";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/9822489242";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:35;O:8:"stdClass":24:{s:4:"time";s:11:"14-0324-244";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:12:"电子配件";s:8:"order_id";s:19:"204-9152745-7732329";s:12:"product_name";s:255:"Poposh Koala Bear 3.5mm Crystal Anti Dust Plug Bling Dog Earphone Jack Glitter Diamond Rhinestone Headphone Port Stopper Caps For iPhone 3 3G 3GS 4 4GS 4S/iPad 1 2 3 /Ipad mini/ Samsung Galaxy Tab 10.1 P7500 P5110 /Samsung Galaxy Note 10.1/ Samsung Galaxy";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£3.98";s:6:"s_time";s:5:"41740";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:125:"Torin Kerr<br />
+32 brookvale rise<br />
+LISBURN<br />
+Co Antrim<br />
+BT28 1DE<br />
+United Kingdom<br />
+Phone:028 92678027";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00ED9NW7W";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:36;O:8:"stdClass":24:{s:4:"time";s:11:"14-0324-245";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:9:"宠物类";s:8:"order_id";s:19:"204-8182377-1298731";s:12:"product_name";s:101:"Super9COS Pokemon Pikachu Kigurumi Pajamas Adult Anime Cosplay Halloween Costume ,size L (68\" -70\")";s:4:"ANSI";s:0:"";s:4:"jine";s:7:"£14.00";s:6:"s_time";s:5:"41734";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:150:"Carol Ann Riley<br />
+Grove Cottage<br />
+Church Lane<br />
+Tetney<br />
+South Humberside<br />
+DN36 5JX<br />
+United Kingdom<br />
+Phone:01472 451876";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B0091520ZI";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:37;O:8:"stdClass":24:{s:4:"time";s:11:"14-0324-246";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:12:"游戏周边";s:8:"order_id";s:19:"204-7838974-8522733";s:12:"product_name";s:31:"My Neighbor Totoro Round pillow";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£7.19";s:6:"s_time";s:5:"41727";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:147:"Jenny Archibald<br />
+369 Durham Road<br />
+Low Fell<br />
+Gateshead<br />
+Tyne and Wear<br />
+NE9 5AL<br />
+United Kingdom<br />
+Phone:07795903737";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00AYEBFXI";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:38;O:8:"stdClass":24:{s:4:"time";s:11:"14-0324-247";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:6:"其他";s:8:"order_id";s:19:"204-7681418-5693119";s:12:"product_name";s:49:"CREE XML-T6 Led 1000 Lumens mini Flashlight Torch";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£4.04";s:6:"s_time";s:5:"41727";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:154:"MR MICHAEL JAMES TREAGUS<br />
+GREEN ACRES<br />
+22 BROCKHAM LANE<br />
+BETCHWORTH<br />
+SURREY<br />
+RH3 7EL<br />
+United Kingdom<br />
+Phone:01737842635";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B007ZYLUEO";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:39;O:8:"stdClass":24:{s:4:"time";s:11:"14-0324-248";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:12:"游戏周边";s:8:"order_id";s:19:"204-7223506-4371549";s:12:"product_name";s:78:"ZUBER 16GB IRON MAN USB KEYRING- Memory stick/drive for XP/Vista/Windows 7/Mac";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£9.88";s:6:"s_time";s:5:"41730";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:201:"Dr Mark A. Colpus<br />
+School of Science, University of Greenwich<br />
+Grenville Building, Central Avenue<br />
+Chatham Maritime<br />
+Kent<br />
+ME4 4TB<br />
+United Kingdom<br />
+Phone:07767 153382";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00B8PU9VG";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:40;O:8:"stdClass":24:{s:4:"time";s:11:"14-0324-249";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:6:"其他";s:8:"order_id";s:19:"204-7049403-1051521";s:12:"product_name";s:49:"CREE XML-T6 Led 1000 Lumens mini Flashlight Torch";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£4.04";s:6:"s_time";s:5:"41727";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:143:"TREVOR BATES<br />
+ABERWIEL<br />
+NANTYR Glyn Ceiriog<br />
+LLANGOLLEN<br />
+CLWYD<br />
+LL20 7DL<br />
+United Kingdom<br />
+Phone:01691 718294";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B007ZYLUEO";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:41;O:8:"stdClass":24:{s:4:"time";s:11:"14-0324-250";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:15:"小黄人玩偶";s:8:"order_id";s:19:"204-6612720-3287521";s:12:"product_name";s:96:"Despicable Me Deluxe 9 Inch 3D Minion DAVE Figure Plush Soft Toy collectible -XTRAFUN ESSENTIALS";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£9.09";s:6:"s_time";s:5:"41732";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:143:"Robert M Metelko<br />
+32 Devonshire Blds<br />
+Wellsway<br />
+Bath<br />
+Somerset<br />
+BA2 4SU<br />
+United Kingdom<br />
+Phone:07785-921-921";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B004W1LBJM";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:42;O:8:"stdClass":24:{s:4:"time";s:11:"14-0324-251";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:6:"其他";s:8:"order_id";s:19:"204-5867729-4429146";s:12:"product_name";s:54:"LED Rave Gloves- Multi Colour Flashing Fingertips FL14";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£3.00";s:6:"s_time";s:5:"41733";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:136:"Sheila Foster-Hancock<br />
+12<br />
+Worsdell Way<br />
+Colchester<br />
+Essex<br />
+CO45WQ<br />
+United Kingdom<br />
+Phone:01206851461";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B005LGV732";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:43;O:8:"stdClass":24:{s:4:"time";s:11:"14-0324-252";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:6:"其他";s:8:"order_id";s:19:"204-5768385-6846755";s:12:"product_name";s:114:"niceEshop(TM) Harry Potter Golden Snitch Enchanted Steampunk Double Sided Wings Balls Pocket Watch Necklace-Bronze";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£6.90";s:6:"s_time";s:5:"41729";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:122:"james wanstall<br />
+53 Abbots Road<br />
+FAVERSHAM<br />
+Kent<br />
+ME13 8DE<br />
+United Kingdom<br />
+Phone:07703411679";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00DUUY0DK";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:44;O:8:"stdClass":24:{s:4:"time";s:11:"14-0324-253";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:6:"其他";s:8:"order_id";s:19:"204-5729498-8070724";s:12:"product_name";s:63:"9 Artificial Fruits- Apple Banana Orange Grape Pear Lemon Peach";s:4:"ANSI";s:0:"";s:4:"jine";s:7:"£15.00";s:6:"s_time";s:5:"41733";s:8:"s_number";s:13:"RC882407020HK";s:5:"s_way";s:0:"";s:7:"message";s:0:"";s:9:"s_address";s:155:"Bex Venables<br />
+Rugby Christian Fellowship<br />
+46 Cambridge Street<br />
+RUGBY<br />
+Warks<br />
+CV21 3NQ<br />
+United Kingdom<br />
+Phone:01788544608";s:12:"sale_history";N;s:14:"country_beizhu";s:0:"";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B008ZP7IZ2";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:45;O:8:"stdClass":24:{s:4:"time";s:11:"14-0324-254";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:6:"其他";s:8:"order_id";s:19:"204-5696719-2181948";s:12:"product_name";s:49:"CREE XML-T6 Led 1000 Lumens mini Flashlight Torch";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£4.04";s:6:"s_time";s:5:"41727";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:144:"Lukas Sheppard<br />
+2 steel house, callywhite lane<br />
+Dronfield<br />
+Derbyshire<br />
+S18 2XR<br />
+United Kingdom<br />
+Phone:07887 565027";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B007ZYLUEO";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:46;O:8:"stdClass":24:{s:4:"time";s:11:"14-0324-255";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:6:"其他";s:8:"order_id";s:19:"204-5610276-3057151";s:12:"product_name";s:120:"Bestdeal-uk 2M 6.6 Feet Artificial Ivy Fake Foliage Leaf Flowers Plants Garland Garden Decoration 2M (Sweet potato leaf)";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£1.98";s:6:"s_time";s:5:"41733";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:129:"john drummond<br />
+101 Ridgway Road<br />
+STOKE ON TRENT<br />
+Staffs<br />
+ST4 2BY<br />
+United Kingdom<br />
+Phone:01782213740";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00FVRRWNU";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:47;O:8:"stdClass":24:{s:4:"time";s:11:"14-0324-256";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:15:"小黄人玩偶";s:8:"order_id";s:19:"204-5532239-6826746";s:12:"product_name";s:77:"NEW Despicable Me \"It\'s So Fluffy\" Agnes\'s Unicorn 24\" Plush Pillow Doll";s:4:"ANSI";s:0:"";s:4:"jine";s:7:"£14.50";s:6:"s_time";s:5:"41701";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:152:"Nicola Knight<br />
+Stage Miracles<br />
+Woodlands, School Road<br />
+POTTERS BAR<br />
+Herts<br />
+EN6 1JW<br />
+United Kingdom<br />
+Phone:07966447104";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00HQF28LQ";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:48;O:8:"stdClass":24:{s:4:"time";s:11:"14-0324-257";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:6:"LED灯";s:8:"order_id";s:19:"204-5231257-2891505";s:12:"product_name";s:83:"NEW highlights LED Star Master Colorful Starry Night Cosmos Projector Bed Side Lamp";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£4.19";s:6:"s_time";s:5:"41727";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:129:"54 radmore road<br />
+54 Radmore Road<br />
+LIVERPOOL<br />
+Merseyside<br />
+L14 5PQ<br />
+United Kingdom<br />
+Phone:07874092948";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B008G6WAV2";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:49;O:8:"stdClass":24:{s:4:"time";s:11:"14-0324-258";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:6:"其他";s:8:"order_id";s:19:"204-4862608-1605927";s:12:"product_name";s:114:"niceEshop(TM) Harry Potter Golden Snitch Enchanted Steampunk Double Sided Wings Balls Pocket Watch Necklace-Bronze";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£6.90";s:6:"s_time";s:5:"41729";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:145:"joanne welsby<br />
+24 Grenobank Road<br />
+Grenoside<br />
+SHEFFIELD<br />
+S Yorkshire<br />
+S35 8NW<br />
+United Kingdom<br />
+Phone:0770691202";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00DUUY0DK";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:50;O:8:"stdClass":24:{s:4:"time";s:11:"14-0324-259";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:12:"游戏周边";s:8:"order_id";s:19:"204-4404609-8431532";s:12:"product_name";s:51:"Naruto Akatsuki full rings set :Cosplay accessories";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£8.98";s:6:"s_time";s:5:"41736";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:186:"Jose Bento da Silva<br />
+Warwick Business School<br />
+Social Studies Building, Office E2.19<br />
+Coventry<br />
+West Midlands<br />
+CV4 7AL<br />
+United Kingdom<br />
+Phone:7891306637";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B002XW4AW2";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:51;O:8:"stdClass":24:{s:4:"time";s:11:"14-0324-260";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:6:"LED灯";s:8:"order_id";s:19:"204-3945324-0055511";s:12:"product_name";s:83:"NEW highlights LED Star Master Colorful Starry Night Cosmos Projector Bed Side Lamp";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£4.19";s:6:"s_time";s:5:"41727";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:134:"roger tate<br />
+Fernlea<br />
+Gunby Road, Orby<br />
+SKEGNESS<br />
+Lincs<br />
+PE24 5HT<br />
+United Kingdom<br />
+Phone:07984178480";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B008G6WAV2";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:52;O:8:"stdClass":24:{s:4:"time";s:11:"14-0324-261";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:12:"游戏周边";s:8:"order_id";s:19:"204-3866379-9518712";s:12:"product_name";s:64:"Pokemon Plush Eevee Doll Around 12cm 5\" soft toy pokemon center";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£5.07";s:6:"s_time";s:5:"41727";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:146:"Meggan Walder<br />
+66 Bodycoats Road<br />
+Chandlers Ford<br />
+EASTLEIGH<br />
+Hants<br />
+SO53 2HB<br />
+United Kingdom<br />
+Phone:02380275851";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00911WI2C";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:53;O:8:"stdClass":24:{s:4:"time";s:11:"14-0324-262";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:9:"宠物类";s:8:"order_id";s:19:"204-3734527-5860367";s:12:"product_name";s:94:"Super9COS Dinosaur Kigurumi Pajamas Adult Anime Cosplay Halloween Costume ,size L (68\" -70\")";s:4:"ANSI";s:0:"";s:4:"jine";s:7:"£13.15";s:6:"s_time";s:5:"41727";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:146:"michael john dewey<br />
+19 Eaton Court<br />
+Eaton Gardens<br />
+HOVE<br />
+E Sussex<br />
+BN3 3PL<br />
+United Kingdom<br />
+Phone:01273 327 038";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B009155G6S";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:54;O:8:"stdClass":24:{s:4:"time";s:11:"14-0324-263";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:12:"游戏周边";s:8:"order_id";s:19:"204-3015118-4717153";s:12:"product_name";s:71:"15\" How To Train Your Dragon Toothless Night Fury Plush Cushion Pillow";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£8.99";s:6:"s_time";s:5:"41727";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:131:"Urszula paulina kurylek<br />
+19 uxbridge road<br />
+hanwell<br />
+london<br />
+W7 3PX<br />
+United Kingdom<br />
+Phone:07977072225";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00BOSAP48";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:55;O:8:"stdClass":24:{s:4:"time";s:11:"14-0324-264";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:4:"U盘";s:8:"order_id";s:19:"204-1955473-4433135";s:12:"product_name";s:81:"8GB Novelty Cool Star War Vader USB Flash Key Pen Drive Memory Stick Gift UK [PC]";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£4.49";s:6:"s_time";s:5:"41726";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:147:"Carlie Wilkinson<br />
+30 finchely crescent<br />
+newcastle upon tyne<br />
+tyne and wear<br />
+NE64YJ<br />
+United Kingdom<br />
+Phone:07783214611";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00ABSMQVW";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:56;O:8:"stdClass":24:{s:4:"time";s:11:"14-0324-265";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:15:"小黄人玩偶";s:8:"order_id";s:19:"204-1796391-4057154";s:12:"product_name";s:77:"NEW Despicable Me \"It\'s So Fluffy\" Agnes\'s Unicorn 24\" Plush Pillow Doll";s:4:"ANSI";s:0:"";s:4:"jine";s:7:"£14.50";s:6:"s_time";s:5:"41701";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:138:"Tinatin Tuskadze<br />
+50 debenham court<br />
+pownall road<br />
+london<br />
+uk<br />
+E8 4PZ<br />
+United Kingdom<br />
+Phone:7931110760";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B00HQF28LQ";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:57;O:8:"stdClass":24:{s:4:"time";s:11:"14-0324-266";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:6:"其他";s:8:"order_id";s:19:"204-1668505-6343551";s:12:"product_name";s:178:"BABY PEA OUTFIT GROWBAG SLEEP SUIT SLEEPING BAG SWADDLE WRAP BLANKET 0 3 6 9 12 MONTHS BOY OR GIRL WINTER COAT BUGGY STROLLER PRAM COSY TOES SNOWSUIT SNOW SUIT GROW BAG SLEEPSUIT";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£6.99";s:6:"s_time";s:5:"41733";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:156:"Ms Linda Hooper<br />
+163 Millersneuk Crescent<br />
+Millerston<br />
+Glasgow<br />
+lanarkshire<br />
+G33 6PW<br />
+United Kingdom<br />
+Phone:0141 770 -170";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B008Q94WV0";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:58;O:8:"stdClass":24:{s:4:"time";s:11:"14-0324-267";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:12:"游戏周边";s:8:"order_id";s:19:"204-1310003-1841951";s:12:"product_name";s:81:"18pcs Set 1-3\" Super Mario Bros Figure Toy Doll Pvc Figure Collectors By sanlise";s:4:"ANSI";s:0:"";s:4:"jine";s:7:"£11.59";s:6:"s_time";s:5:"41725";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:118:"s ryder<br />
+51 Radcliffe Wat<br />
+notholt<br />
+middlesex<br />
+UB56HQ<br />
+United Kingdom<br />
+Phone:07761963248";s:12:"sale_history";N;s:14:"country_beizhu";s:12:"英国地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/B008OS7V48";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}i:59;O:8:"stdClass":24:{s:4:"time";s:11:"14-0324-268";s:7:"zhanghu";s:17:"袁丽萍英国14";s:7:"catalog";s:6:"其他";s:8:"order_id";s:19:"204-0957058-7347532";s:12:"product_name";s:42:"Dog Seat Belt lead restraint harness Black";s:4:"ANSI";s:0:"";s:4:"jine";s:6:"£1.89";s:6:"s_time";s:5:"41730";s:8:"s_number";s:0:"";s:5:"s_way";s:12:"香港平邮";s:7:"message";s:0:"";s:9:"s_address";s:105:"Michalis kourountzis<br />
+Ko 34<br />
+Nicosia<br />
+Nicosia<br />
+2302<br />
+Cyprus<br />
+Phone:99832638";s:12:"sale_history";N;s:14:"country_beizhu";s:18:"塞浦路斯地址";s:8:"am_links";s:45:"http://www.amazon.co.uk/gp/product/9822489242";s:8:"ck_links";s:0:"";s:8:"sj_links";s:0:"";s:5:"price";s:1:"0";s:6:"yunfei";s:1:"0";s:9:"s_problem";s:0:"";s:8:"buy_time";s:0:"";s:3:"pic";s:0:"";s:6:"status";s:0:"";s:8:"buy_name";s:0:"";}}s:20:"custom_result_object";a:0:{}s:11:"current_row";i:0;s:8:"num_rows";i:60;s:8:"row_data";N;}

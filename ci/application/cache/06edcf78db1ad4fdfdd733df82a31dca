@@ -1,0 +1,352 @@
+1398672706TS---><title>订单展示页面</title>
+<link rel="stylesheet" href="http://localhost/tools/css/style.css" type="text/css" />
+<script type="text/javascript" src="http://localhost/tools/js/prototype.js"></script>
+<script type="text/javascript" src="http://localhost/tools/js/plug_date/WdatePicker.js"></script>
+<p><h4 style="text-align:center">订单展示页面</h4></p>
+	<ul id="shaixuan">
+			<li><a href="http://localhost/amazon/choose/showzuyuan/getallorder">显示全部订单</a></li>
+			<li><a href="http://localhost/tools/resource/download_export/contacts_zuyuan.csv">导出订单表格</a></li>
+			<li><a id="logout_left" href="/amazon/user/account/getinfo">个人中心</a></li>
+			<li><a id="logout_showmessage" href="javascript:void(0)">退出系统</a></li>
+
+	</ul>
+<p>
+	<label>Search：</label>
+	<br />
+		<input id="search" type="text" name="search" value='' />
+		<button type="submit" id="submit_search">search</button>
+</p>
+<div id="show_data">
+	&nbsp;<strong>1</strong>&nbsp;<a href="/amazon/choose/showzuyuan/showmessage/60">2</a>&nbsp;<a href="/amazon/choose/showzuyuan/showmessage/60">下一页</a>&nbsp;<br><table style="width:98%;margin:0 auto;"><tr><th style="width:3%">订单导出日期</th><th style="width:1%;">订单生成账户</th><th style="width:3%">产品分类</th><th style="width:3%">订单号</th><th style="width:6%;">商品名称</th><th style="width:3%">SKU</th><th style="width:3%">订单金额</th><th style="width:3%">发货日期</th><th style="width:3%">物流单号</th><th style="width:3%">货运方式</th><th style="width:3%">销售备注</th><th style="width:27%;">发货地址</th><th style="width:3%">销售历史</th><th style="width:3%">备注国籍</th><th style="width:3%">亚马逊链接</th><th style="width:3%">参考采购链接</th><th style="width:3%">实际链接</th><th style="width:3%">商品成本</th><th style="width:3%">运费</th><th style="width:3%">物流问题备注</th><th style="width:3%">采购时间</th><th style="width:3%">采购实物图</th><th style="width:3%">采购状态</th><th style="width:3%">采购负责人</th><th style="width:3%">编辑</th><tr><td>
+							<input id="time" name="time" class="Wdate" type="text" onclick="WdatePicker()">
+							<br><br>
+							<label id="date_title"><button style="cursor:pointer;">提交</button></label>
+						</td><td><select name="shaixuan_zhanghu" id="shaixuan_zhanghu"><option name="title" value="选择账户">选择账户</option><option name="zhanghu">测试账户</option><option name="zhanghu">苏瑞美国17</option></select></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>
+						<select name="shaixuan_status" id="shaixuan_status">
+							<option name="订单状态" value="状态">状态</option>
+							<option name="已出单" value="已出单">已出单</option>
+							<option name="未出单" value="未出单">未出单</option>
+						</select>
+					</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><tr><td id="order_14-0324-01">14-0324-01</td><td>苏瑞美国17</td><td>墙贴</td><td>116-8009048-5362642</td><td>WOW!STickeRs Audrey Hepburn's Eyes Silhouette Wall Sticker Decals Home Decor Removable Black</td><td></td><td>$4.4</td><td>41735</td><td></td><td>香港平邮</td><td></td><td>Natasha Bassett<br />
+12029 CAMELOT DR<br />
+OKLAHOMA CITY, OKLAHOMA 73120-6717<br />
+United States</td><td></td><td>美国地址</td><td><a  target="_blank" href="http://www.amazon.com/gp/product/B00E1WKS50">http://www.amazon.com/gp/product/B00E1WKS50</a></td><td><a  target="_blank" href=""></a></td><td><a  target="_blank" href=""></a></td><td>0</td><td>0</td><td></td><td></td><td></td><td></td><td></td><td><a href="/amazon/edit/edit_table/?&order_id=14-0324-01">编辑</a></td></tr><tr><td id="order_14-0324-02">14-0324-02</td><td>苏瑞美国17</td><td>墙贴</td><td>116-7707104-6563403</td><td>WOW!STickeRs Audrey Hepburn's Eyes Silhouette Wall Sticker Decals Home Decor Removable Black</td><td></td><td>$4.4</td><td>41735</td><td></td><td>香港平邮</td><td></td><td>Lindy Lumbert<br />
+8730 Maplecrest Dr<br />
+Houston, Texas 77099<br />
+United States</td><td></td><td>美国地址</td><td><a  target="_blank" href="http://www.amazon.com/gp/product/B00E1WKS50">http://www.amazon.com/gp/product/B00E1WKS50</a></td><td><a  target="_blank" href=""></a></td><td><a  target="_blank" href=""></a></td><td>0</td><td>0</td><td></td><td></td><td></td><td></td><td></td><td><a href="/amazon/edit/edit_table/?&order_id=14-0324-02">编辑</a></td></tr><tr><td id="order_14-0324-03">14-0324-03</td><td>苏瑞美国17</td><td>墙贴</td><td>116-0330791-4707407</td><td>WOW!STickeRs Audrey Hepburn's Eyes Silhouette Wall Sticker Decals Home Decor Removable Black</td><td></td><td>$4.4</td><td>41735</td><td></td><td>香港平邮</td><td></td><td>Michelle Miranda<br />
+2721 Arvin Street<br />
+Silver Spring, MD 20902<br />
+United States</td><td></td><td>美国地址</td><td><a  target="_blank" href="http://www.amazon.com/gp/product/B00E1WKS50">http://www.amazon.com/gp/product/B00E1WKS50</a></td><td><a  target="_blank" href=""></a></td><td><a  target="_blank" href=""></a></td><td>0</td><td>0</td><td></td><td></td><td></td><td></td><td></td><td><a href="/amazon/edit/edit_table/?&order_id=14-0324-03">编辑</a></td></tr><tr><td id="order_14-0324-04">14-0324-04</td><td>苏瑞美国17</td><td>墙贴</td><td>115-2867421-5481030</td><td>WOW!STickeRs Audrey Hepburn's Eyes Silhouette Wall Sticker Decals Home Decor Removable Black</td><td></td><td>$4.4</td><td>41735</td><td></td><td>香港平邮</td><td></td><td>Maher Qassim<br />
+25 hartsfield ct<br />
+25 hartsfield ct<br />
+Greensboro, Nc 27407<br />
+United States</td><td></td><td>美国地址</td><td><a  target="_blank" href="http://www.amazon.com/gp/product/B00E1WKS50">http://www.amazon.com/gp/product/B00E1WKS50</a></td><td><a  target="_blank" href=""></a></td><td><a  target="_blank" href=""></a></td><td>0</td><td>0</td><td></td><td></td><td></td><td></td><td></td><td><a href="/amazon/edit/edit_table/?&order_id=14-0324-04">编辑</a></td></tr><tr><td id="order_14-0324-05">14-0324-05</td><td>苏瑞美国17</td><td>墙贴</td><td>110-5335303-0888204</td><td>WOW!STickeRs Audrey Hepburn's Eyes Silhouette Wall Sticker Decals Home Decor Removable Black</td><td></td><td>$4.4</td><td>41735</td><td></td><td>香港平邮</td><td></td><td>Lester RodrÃ­guez<br />
+7351 SW 11TH ST<br />
+MIAMI, FLORIDA 33144-4548<br />
+United States</td><td></td><td>美国地址</td><td><a  target="_blank" href="http://www.amazon.com/gp/product/B00E1WKS50">http://www.amazon.com/gp/product/B00E1WKS50</a></td><td><a  target="_blank" href=""></a></td><td><a  target="_blank" href=""></a></td><td>0</td><td>0</td><td></td><td></td><td></td><td></td><td></td><td><a href="/amazon/edit/edit_table/?&order_id=14-0324-05">编辑</a></td></tr><tr><td id="order_14-0324-06">14-0324-06</td><td>苏瑞美国17</td><td>墙贴</td><td>108-9913564-3302620</td><td>WOW!STickeRs Audrey Hepburn's Eyes Silhouette Wall Sticker Decals Home Decor Removable Black</td><td></td><td>$4.4</td><td>41735</td><td></td><td>香港平邮</td><td></td><td>Dameka Torbert<br />
+P.O box 268<br />
+Buffalo, NY 14207<br />
+United States</td><td></td><td>美国地址</td><td><a  target="_blank" href="http://www.amazon.com/gp/product/B00E1WKS50">http://www.amazon.com/gp/product/B00E1WKS50</a></td><td><a  target="_blank" href=""></a></td><td><a  target="_blank" href=""></a></td><td>0</td><td>0</td><td></td><td></td><td></td><td></td><td></td><td><a href="/amazon/edit/edit_table/?&order_id=14-0324-06">编辑</a></td></tr><tr><td id="order_14-0324-07">14-0324-07</td><td>苏瑞美国17</td><td>墙贴</td><td>106-0447244-9443416</td><td>WOW!STickeRs Audrey Hepburn's Eyes Silhouette Wall Sticker Decals Home Decor Removable Black</td><td></td><td>$4.4</td><td>41735</td><td></td><td>香港平邮</td><td></td><td>samantha gambino<br />
+45 blackbird lane<br />
+levittown, ny 11756<br />
+United States</td><td></td><td>美国地址</td><td><a  target="_blank" href="http://www.amazon.com/gp/product/B00E1WKS50">http://www.amazon.com/gp/product/B00E1WKS50</a></td><td><a  target="_blank" href=""></a></td><td><a  target="_blank" href=""></a></td><td>0</td><td>0</td><td></td><td></td><td></td><td></td><td></td><td><a href="/amazon/edit/edit_table/?&order_id=14-0324-07">编辑</a></td></tr><tr><td id="order_14-0324-08">14-0324-08</td><td>苏瑞美国17</td><td>墙贴</td><td>105-7198189-8486650</td><td>WOW!STickeRs Audrey Hepburn's Eyes Silhouette Wall Sticker Decals Home Decor Removable Black</td><td></td><td>$4.4</td><td>41735</td><td></td><td>香港平邮</td><td></td><td>towanda regustus<br />
+9097 FLAMEPOOL WAY<br />
+COLUMBIA, MARYLAND 21045-2902<br />
+United States</td><td></td><td>美国地址</td><td><a  target="_blank" href="http://www.amazon.com/gp/product/B00E1WKS50">http://www.amazon.com/gp/product/B00E1WKS50</a></td><td><a  target="_blank" href=""></a></td><td><a  target="_blank" href=""></a></td><td>0</td><td>0</td><td></td><td></td><td></td><td></td><td></td><td><a href="/amazon/edit/edit_table/?&order_id=14-0324-08">编辑</a></td></tr><tr><td id="order_14-0324-09">14-0324-09</td><td>苏瑞美国17</td><td>墙贴</td><td>104-7486000-3744219</td><td>WOW!STickeRs Audrey Hepburn's Eyes Silhouette Wall Sticker Decals Home Decor Removable Black</td><td></td><td>$4.4</td><td>41735</td><td></td><td>香港平邮</td><td></td><td>chrstopher cole<br />
+130 N BELLAIRE AVE APT B<br />
+LOUISVILLE, KY 40206-2064<br />
+United States</td><td></td><td>美国地址</td><td><a  target="_blank" href="http://www.amazon.com/gp/product/B00E1WKS50">http://www.amazon.com/gp/product/B00E1WKS50</a></td><td><a  target="_blank" href=""></a></td><td><a  target="_blank" href=""></a></td><td>0</td><td>0</td><td></td><td></td><td></td><td></td><td></td><td><a href="/amazon/edit/edit_table/?&order_id=14-0324-09">编辑</a></td></tr><tr><td id="order_14-0324-10">14-0324-10</td><td>苏瑞美国17</td><td>墙贴</td><td>113-3553171-0551450</td><td>WOW!STickeRs Audrey Hepburn's Eyes Silhouette Wall Sticker Decals Home Decor Removable Black</td><td></td><td>$4.4</td><td>41735</td><td></td><td>香港平邮</td><td></td><td>Sheena Kingsley<br />
+7619 COUNTY RD N<br />
+SUN PRAIRIE, WI 53590-9617<br />
+United States</td><td></td><td>美国地址</td><td><a  target="_blank" href="http://www.amazon.com/gp/product/B00E1WKS50">http://www.amazon.com/gp/product/B00E1WKS50</a></td><td><a  target="_blank" href=""></a></td><td><a  target="_blank" href=""></a></td><td>0</td><td>0</td><td></td><td></td><td></td><td></td><td></td><td><a href="/amazon/edit/edit_table/?&order_id=14-0324-10">编辑</a></td></tr><tr><td id="order_14-0324-11">14-0324-11</td><td>苏瑞美国17</td><td>墙贴</td><td>114-4870850-5601841</td><td>WOW!STickeRs Audrey Hepburn's Eyes Silhouette Wall Sticker Decals Home Decor Removable Black</td><td></td><td>$4.4</td><td>41735</td><td></td><td>香港平邮</td><td></td><td>Ivan A Molina Briceno<br />
+9517 SW 146th Place<br />
+Miami, FL 33186<br />
+United States</td><td></td><td>美国地址</td><td><a  target="_blank" href="http://www.amazon.com/gp/product/B00E1WKS50">http://www.amazon.com/gp/product/B00E1WKS50</a></td><td><a  target="_blank" href=""></a></td><td><a  target="_blank" href=""></a></td><td>0</td><td>0</td><td></td><td></td><td></td><td></td><td></td><td><a href="/amazon/edit/edit_table/?&order_id=14-0324-11">编辑</a></td></tr><tr><td id="order_14-0324-12">14-0324-12</td><td>苏瑞美国17</td><td>墙贴</td><td>114-2802380-3656222</td><td>WOW!STickeRs Audrey Hepburn's Eyes Silhouette Wall Sticker Decals Home Decor Removable Black</td><td></td><td>$4.4</td><td>41735</td><td></td><td>香港平邮</td><td></td><td>RICKEYA N MABONE<br />
+23822 VILLAGE HOUSE DR N<br />
+APT 4A<br />
+SOUTHFIELD, MI 48033<br />
+United States</td><td></td><td>美国地址</td><td><a  target="_blank" href="http://www.amazon.com/gp/product/B00E1WKS50">http://www.amazon.com/gp/product/B00E1WKS50</a></td><td><a  target="_blank" href=""></a></td><td><a  target="_blank" href=""></a></td><td>0</td><td>0</td><td></td><td></td><td></td><td></td><td></td><td><a href="/amazon/edit/edit_table/?&order_id=14-0324-12">编辑</a></td></tr><tr><td id="order_14-0324-13">14-0324-13</td><td>苏瑞美国17</td><td>墙贴</td><td>112-4649639-1255439</td><td>WOW!STickeRs Audrey Hepburn's Eyes Silhouette Wall Sticker Decals Home Decor Removable Black</td><td></td><td>$4.4</td><td>41735</td><td></td><td>香港平邮</td><td></td><td>Rashell Recalde<br />
+7221 67TH PL<br />
+RIDGEWOOD, NEW YORK 11385-6956<br />
+United States</td><td></td><td>美国地址</td><td><a  target="_blank" href="http://www.amazon.com/gp/product/B00E1WKS50">http://www.amazon.com/gp/product/B00E1WKS50</a></td><td><a  target="_blank" href=""></a></td><td><a  target="_blank" href=""></a></td><td>0</td><td>0</td><td></td><td></td><td></td><td></td><td></td><td><a href="/amazon/edit/edit_table/?&order_id=14-0324-13">编辑</a></td></tr><tr><td id="order_14-0324-14">14-0324-14</td><td>苏瑞美国17</td><td>墙贴</td><td>108-9340355-5713016</td><td>WOW!STickeRs Audrey Hepburn's Eyes Silhouette Wall Sticker Decals Home Decor Removable Black</td><td></td><td>$4.4</td><td>41735</td><td></td><td>香港平邮</td><td></td><td>Marc Saint Fleur<br />
+1836 ROCKAWAY PKWY<br />
+BROOKLYN, NEW YORK 11236-5006<br />
+United States</td><td></td><td>美国地址</td><td><a  target="_blank" href="http://www.amazon.com/gp/product/B00E1WKS50">http://www.amazon.com/gp/product/B00E1WKS50</a></td><td><a  target="_blank" href=""></a></td><td><a  target="_blank" href=""></a></td><td>0</td><td>0</td><td></td><td></td><td></td><td></td><td></td><td><a href="/amazon/edit/edit_table/?&order_id=14-0324-14">编辑</a></td></tr><tr><td id="order_14-0324-15">14-0324-15</td><td>苏瑞美国17</td><td>墙贴</td><td>002-0379728-2985852</td><td>WOW!STickeRs Audrey Hepburn's Eyes Silhouette Wall Sticker Decals Home Decor Removable Black</td><td></td><td>$4.4</td><td>41735</td><td></td><td>香港平邮</td><td></td><td>Dejanaira Hall<br />
+15 TAFT ST<br />
+ABERDEEN, MD 21001-2579<br />
+United States</td><td></td><td>美国地址</td><td><a  target="_blank" href="http://www.amazon.com/gp/product/B00E1WKS50">http://www.amazon.com/gp/product/B00E1WKS50</a></td><td><a  target="_blank" href=""></a></td><td><a  target="_blank" href=""></a></td><td>0</td><td>0</td><td></td><td></td><td></td><td></td><td></td><td><a href="/amazon/edit/edit_table/?&order_id=14-0324-15">编辑</a></td></tr><tr><td id="order_14-0324-16">14-0324-16</td><td>苏瑞美国17</td><td>墙贴</td><td>106-0336151-2369803</td><td>WOW!STickeRs Audrey Hepburn's Eyes Silhouette Wall Sticker Decals Home Decor Removable Black</td><td></td><td>$4.4</td><td>41735</td><td></td><td>香港平邮</td><td></td><td>DaVon Jones<br />
+4700 GALLATIN ST<br />
+HYATTSVILLE, MD 20781-2333<br />
+United States</td><td></td><td>美国地址</td><td><a  target="_blank" href="http://www.amazon.com/gp/product/B00E1WKS50">http://www.amazon.com/gp/product/B00E1WKS50</a></td><td><a  target="_blank" href=""></a></td><td><a  target="_blank" href=""></a></td><td>0</td><td>0</td><td></td><td></td><td></td><td></td><td></td><td><a href="/amazon/edit/edit_table/?&order_id=14-0324-16">编辑</a></td></tr><tr><td id="order_14-0324-17">14-0324-17</td><td>苏瑞美国17</td><td>墙贴</td><td>105-7685572-1689817</td><td>WOW!STickeRs Audrey Hepburn's Eyes Silhouette Wall Sticker Decals Home Decor Removable Black</td><td></td><td>$4.4</td><td>41735</td><td></td><td>香港平邮</td><td></td><td>Becca Chewins<br />
+4 MOLLY WHITE DR<br />
+COXSACKIE, NEW YORK 12051-1119<br />
+United States</td><td></td><td>美国地址</td><td><a  target="_blank" href="http://www.amazon.com/gp/product/B00E1WKS50">http://www.amazon.com/gp/product/B00E1WKS50</a></td><td><a  target="_blank" href=""></a></td><td><a  target="_blank" href=""></a></td><td>0</td><td>0</td><td></td><td></td><td></td><td></td><td></td><td><a href="/amazon/edit/edit_table/?&order_id=14-0324-17">编辑</a></td></tr><tr><td id="order_14-0324-18">14-0324-18</td><td>苏瑞美国17</td><td>墙贴</td><td>103-8923431-3365024</td><td>WOW!STickeRs Audrey Hepburn's Eyes Silhouette Wall Sticker Decals Home Decor Removable Black</td><td></td><td>$4.4</td><td>41735</td><td></td><td>香港平邮</td><td></td><td>Ticy Davis<br />
+6414 ALMA ST 18<br />
+HOUMA, LA 70364-2549<br />
+United States</td><td></td><td>美国地址</td><td><a  target="_blank" href="http://www.amazon.com/gp/product/B00E1WKS50">http://www.amazon.com/gp/product/B00E1WKS50</a></td><td><a  target="_blank" href=""></a></td><td><a  target="_blank" href=""></a></td><td>0</td><td>0</td><td></td><td></td><td></td><td></td><td></td><td><a href="/amazon/edit/edit_table/?&order_id=14-0324-18">编辑</a></td></tr><tr><td id="order_14-0324-19">14-0324-19</td><td>苏瑞美国17</td><td>墙贴</td><td>103-0673753-2965805</td><td>WOW!STickeRs Audrey Hepburn's Eyes Silhouette Wall Sticker Decals Home Decor Removable Black</td><td></td><td>$4.4</td><td>41735</td><td></td><td>香港平邮</td><td></td><td>Marc Bisseck<br />
+904 MONARCH CIR<br />
+STATESBORO, GEORGIA 30458-9196<br />
+United States</td><td></td><td>美国地址</td><td><a  target="_blank" href="http://www.amazon.com/gp/product/B00E1WKS50">http://www.amazon.com/gp/product/B00E1WKS50</a></td><td><a  target="_blank" href=""></a></td><td><a  target="_blank" href=""></a></td><td>0</td><td>0</td><td></td><td></td><td></td><td></td><td></td><td><a href="/amazon/edit/edit_table/?&order_id=14-0324-19">编辑</a></td></tr><tr><td id="order_14-0324-20">14-0324-20</td><td>苏瑞美国17</td><td>墙贴</td><td>102-2057812-7570603</td><td>WOW!STickeRs Audrey Hepburn's Eyes Silhouette Wall Sticker Decals Home Decor Removable Black</td><td></td><td>$4.4</td><td>41735</td><td></td><td>香港平邮</td><td></td><td>Lexi Patrick<br />
+4357 BROOKDALE DR<br />
+CINCINNATI, OHIO 45211-4514<br />
+United States</td><td></td><td>美国地址</td><td><a  target="_blank" href="http://www.amazon.com/gp/product/B00E1WKS50">http://www.amazon.com/gp/product/B00E1WKS50</a></td><td><a  target="_blank" href=""></a></td><td><a  target="_blank" href=""></a></td><td>0</td><td>0</td><td></td><td></td><td></td><td></td><td></td><td><a href="/amazon/edit/edit_table/?&order_id=14-0324-20">编辑</a></td></tr><tr><td id="order_14-0324-21">14-0324-21</td><td>苏瑞美国17</td><td>墙贴</td><td>111-1351277-4296227</td><td>WOW!STickeRs Audrey Hepburn's Eyes Silhouette Wall Sticker Decals Home Decor Removable Black</td><td></td><td>$4.4</td><td>41735</td><td></td><td>香港平邮</td><td></td><td>Nicole Smith<br />
+10 Rhode Island Avenue<br />
+Somerville, MA 02145<br />
+United States</td><td></td><td>美国地址</td><td><a  target="_blank" href="http://www.amazon.com/gp/product/B00E1WKS50">http://www.amazon.com/gp/product/B00E1WKS50</a></td><td><a  target="_blank" href=""></a></td><td><a  target="_blank" href=""></a></td><td>0</td><td>0</td><td></td><td></td><td></td><td></td><td></td><td><a href="/amazon/edit/edit_table/?&order_id=14-0324-21">编辑</a></td></tr><tr><td id="order_14-0324-22">14-0324-22</td><td>苏瑞美国17</td><td>墙贴</td><td>112-8781803-8309032</td><td>WOW!STickeRs Audrey Hepburn's Eyes Silhouette Wall Sticker Decals Home Decor Removable Black</td><td></td><td>$4.4</td><td>41735</td><td></td><td>香港平邮</td><td></td><td>Anastasia Brown<br />
+1403 ANNA MARIE CT<br />
+ANNAPOLIS, MARYLAND 21409-5634<br />
+United States</td><td></td><td>美国地址</td><td><a  target="_blank" href="http://www.amazon.com/gp/product/B00E1WKS50">http://www.amazon.com/gp/product/B00E1WKS50</a></td><td><a  target="_blank" href=""></a></td><td><a  target="_blank" href=""></a></td><td>0</td><td>0</td><td></td><td></td><td></td><td></td><td></td><td><a href="/amazon/edit/edit_table/?&order_id=14-0324-22">编辑</a></td></tr><tr><td id="order_14-0324-23">14-0324-23</td><td>苏瑞美国17</td><td>墙贴</td><td>103-6343619-0959460</td><td>WOW!STickeRs Audrey Hepburn's Eyes Silhouette Wall Sticker Decals Home Decor Removable Black</td><td></td><td>$4.4</td><td>41735</td><td></td><td>香港平邮</td><td></td><td>william adkins<br />
+3109 Honeywood ln<br />
+apt B<br />
+Roanoke, va 24018<br />
+United States</td><td></td><td>美国地址</td><td><a  target="_blank" href="http://www.amazon.com/gp/product/B00E1WKS50">http://www.amazon.com/gp/product/B00E1WKS50</a></td><td><a  target="_blank" href=""></a></td><td><a  target="_blank" href=""></a></td><td>0</td><td>0</td><td></td><td></td><td></td><td></td><td></td><td><a href="/amazon/edit/edit_table/?&order_id=14-0324-23">编辑</a></td></tr><tr><td id="order_14-0324-24">14-0324-24</td><td>苏瑞美国17</td><td>墙贴</td><td>105-7503566-7422669</td><td>WOW!STickeRs Audrey Hepburn's Eyes Silhouette Wall Sticker Decals Home Decor Removable Black</td><td></td><td>$4.4</td><td>41735</td><td></td><td>香港平邮</td><td></td><td>Shannette Stuart<br />
+792 PLANDERS AVE<br />
+UNIONDALE, NY 11553-3429<br />
+United States</td><td></td><td>美国地址</td><td><a  target="_blank" href="http://www.amazon.com/gp/product/B00E1WKS50">http://www.amazon.com/gp/product/B00E1WKS50</a></td><td><a  target="_blank" href=""></a></td><td><a  target="_blank" href=""></a></td><td>0</td><td>0</td><td></td><td></td><td></td><td></td><td></td><td><a href="/amazon/edit/edit_table/?&order_id=14-0324-24">编辑</a></td></tr><tr><td id="order_14-0324-25">14-0324-25</td><td>苏瑞美国17</td><td>三星数据线</td><td>002-3189654-3474617</td><td>Original micro USB 3.0 Charging Data Cable for SAMSUNG GALAXY Note 3 N9000 New</td><td></td><td>$3.31</td><td>41729</td><td></td><td>香港平邮</td><td></td><td>Vincent Tsou<br />
+12328 Valley Blvd.<br />
+# C<br />
+EL Monte, CA 91732<br />
+United States</td><td></td><td>美国地址</td><td><a  target="_blank" href="http://www.amazon.com/gp/product/B00FJ1XBA6">http://www.amazon.com/gp/product/B00FJ1XBA6</a></td><td><a  target="_blank" href=""></a></td><td><a  target="_blank" href=""></a></td><td>0</td><td>0</td><td></td><td></td><td><p onclick="showDiv(this);" class="buy_image_sys">/tools/images/202-0963577-4585945_1.jpg</p></td><td></td><td></td><td><a href="/amazon/edit/edit_table/?&order_id=14-0324-25">编辑</a></td></tr><tr><td id="order_14-0324-26">14-0324-26</td><td>苏瑞美国17</td><td>三星数据线</td><td>107-1469420-7269053</td><td>Original micro USB 3.0 Charging Data Cable for SAMSUNG GALAXY Note 3 N9000 New</td><td></td><td>$3.31</td><td>41729</td><td></td><td>香港平邮</td><td></td><td>Wayne Sherrod<br />
+226 N FAIRVIEW RD<br />
+ROCKY MOUNT, NORTH CAROLINA 27801-6064<br />
+United States</td><td></td><td>美国地址</td><td><a  target="_blank" href="http://www.amazon.com/gp/product/B00FJ1XBA6">http://www.amazon.com/gp/product/B00FJ1XBA6</a></td><td><a  target="_blank" href=""></a></td><td><a  target="_blank" href=""></a></td><td>0</td><td>0</td><td></td><td></td><td></td><td></td><td></td><td><a href="/amazon/edit/edit_table/?&order_id=14-0324-26">编辑</a></td></tr><tr><td id="order_14-0324-27">14-0324-27</td><td>苏瑞美国17</td><td>三星数据线</td><td>114-4111542-1488263</td><td>Original micro USB 3.0 Charging Data Cable for SAMSUNG GALAXY Note 3 N9000 New</td><td></td><td>$3.31</td><td>41729</td><td></td><td>香港平邮</td><td></td><td>Yolanda Jefferson<br />
+811 MALLET HILL RD APT 1207<br />
+COLUMBIA, SC 29223-4420<br />
+United States</td><td></td><td>美国地址</td><td><a  target="_blank" href="http://www.amazon.com/gp/product/B00FJ1XBA6">http://www.amazon.com/gp/product/B00FJ1XBA6</a></td><td><a  target="_blank" href=""></a></td><td><a  target="_blank" href=""></a></td><td>0</td><td>0</td><td></td><td></td><td></td><td></td><td></td><td><a href="/amazon/edit/edit_table/?&order_id=14-0324-27">编辑</a></td></tr><tr><td id="order_14-0324-28">14-0324-28</td><td>苏瑞美国17</td><td>三星数据线</td><td>112-2136698-8970622</td><td>Original micro USB 3.0 Charging Data Cable for SAMSUNG GALAXY Note 3 N9000 New</td><td></td><td>$3.31</td><td>41729</td><td></td><td>香港平邮</td><td></td><td>christy n ghabbour<br />
+18905 3c rd<br />
+ocean springs, MS 39565-9019<br />
+United States</td><td></td><td>美国地址</td><td><a  target="_blank" href="http://www.amazon.com/gp/product/B00FJ1XBA6">http://www.amazon.com/gp/product/B00FJ1XBA6</a></td><td><a  target="_blank" href=""></a></td><td><a  target="_blank" href=""></a></td><td>0</td><td>0</td><td></td><td></td><td></td><td></td><td></td><td><a href="/amazon/edit/edit_table/?&order_id=14-0324-28">编辑</a></td></tr><tr><td id="order_14-0324-29">14-0324-29</td><td>苏瑞美国17</td><td>三星数据线</td><td>104-6574056-6310635</td><td>Original micro USB 3.0 Charging Data Cable for SAMSUNG GALAXY Note 3 N9000 New</td><td></td><td>$3.31</td><td>41729</td><td></td><td>香港平邮</td><td></td><td>Krystal Lloyd<br />
+6150 Jones Rd.<br />
+unit A<br />
+Flowery branch, GA 30542<br />
+United States</td><td></td><td>美国地址</td><td><a  target="_blank" href="http://www.amazon.com/gp/product/B00FJ1XBA6">http://www.amazon.com/gp/product/B00FJ1XBA6</a></td><td><a  target="_blank" href=""></a></td><td><a  target="_blank" href=""></a></td><td>0</td><td>0</td><td></td><td></td><td></td><td></td><td></td><td><a href="/amazon/edit/edit_table/?&order_id=14-0324-29">编辑</a></td></tr><tr><td id="order_14-0324-30">14-0324-30</td><td>苏瑞美国17</td><td>三星数据线</td><td>108-4233229-2945029</td><td>Original micro USB 3.0 Charging Data Cable for SAMSUNG GALAXY Note 3 N9000 New</td><td></td><td>$3.31</td><td>41729</td><td></td><td>香港平邮</td><td></td><td>Conrado Pulgo<br />
+12901 RAMONA BLVD STE E<br />
+IRWINDALE, CA 91706-3747<br />
+United States</td><td></td><td>美国地址</td><td><a  target="_blank" href="http://www.amazon.com/gp/product/B00FJ1XBA6">http://www.amazon.com/gp/product/B00FJ1XBA6</a></td><td><a  target="_blank" href=""></a></td><td><a  target="_blank" href=""></a></td><td>0</td><td>0</td><td></td><td></td><td></td><td></td><td></td><td><a href="/amazon/edit/edit_table/?&order_id=14-0324-30">编辑</a></td></tr><tr><td id="order_14-0324-31">14-0324-31</td><td>苏瑞美国17</td><td>三星数据线</td><td>108-5616089-7039431</td><td>Original micro USB 3.0 Charging Data Cable for SAMSUNG GALAXY Note 3 N9000 New</td><td></td><td>$3.31</td><td>41729</td><td></td><td>香港平邮</td><td></td><td>gnorae wright<br />
+p o box 7126<br />
+hicksville, ny 11802<br />
+United States</td><td></td><td>美国地址</td><td><a  target="_blank" href="http://www.amazon.com/gp/product/B00FJ1XBA6">http://www.amazon.com/gp/product/B00FJ1XBA6</a></td><td><a  target="_blank" href=""></a></td><td><a  target="_blank" href=""></a></td><td>0</td><td>0</td><td></td><td></td><td></td><td></td><td></td><td><a href="/amazon/edit/edit_table/?&order_id=14-0324-31">编辑</a></td></tr><tr><td id="order_14-0324-32-1">14-0324-32-1</td><td>苏瑞美国17</td><td>三星数据线</td><td>110-8444552-6673858</td><td>Original micro USB 3.0 Charging Data Cable for SAMSUNG GALAXY Note 3 N9000 New</td><td></td><td>$3.31</td><td>41729</td><td></td><td>香港平邮</td><td></td><td>Rena Gurvitz<br />
+1120 East Irvington<br />
+South Bend, IN 46614<br />
+United States</td><td></td><td>美国地址</td><td><a  target="_blank" href="http://www.amazon.com/gp/product/B00FJ1XBA6">http://www.amazon.com/gp/product/B00FJ1XBA6</a></td><td><a  target="_blank" href=""></a></td><td><a  target="_blank" href=""></a></td><td>0</td><td>0</td><td></td><td></td><td></td><td></td><td></td><td><a href="/amazon/edit/edit_table/?&order_id=14-0324-32-1">编辑</a></td></tr><tr><td id="order_14-0324-32-2">14-0324-32-2</td><td>苏瑞美国17</td><td>三星数据线</td><td>110-8444552-6673858</td><td>Original micro USB 3.0 Charging Data Cable for SAMSUNG GALAXY Note 3 N9000 New</td><td></td><td>$3.31</td><td>41729</td><td></td><td>香港平邮</td><td></td><td>Rena Gurvitz<br />
+1120 East Irvington<br />
+South Bend, IN 46614<br />
+United States</td><td></td><td>美国地址</td><td><a  target="_blank" href="http://www.amazon.com/gp/product/B00FJ1XBA6">http://www.amazon.com/gp/product/B00FJ1XBA6</a></td><td><a  target="_blank" href=""></a></td><td><a  target="_blank" href=""></a></td><td>0</td><td>0</td><td></td><td></td><td></td><td></td><td></td><td><a href="/amazon/edit/edit_table/?&order_id=14-0324-32-2">编辑</a></td></tr><tr><td id="order_14-0324-33-1">14-0324-33-1</td><td>苏瑞美国17</td><td>电子配件</td><td>104-5932754-5072261</td><td>Black Wall Travel Home Charger for Samsung Galaxy S3 S III i9300 / I535 / L710 / T999 / I747</td><td></td><td>$2.58</td><td>41726</td><td></td><td>香港平邮</td><td></td><td>renee l. sell<br />
+545 cecil henderson rd.<br />
+cecil, pa 15321<br />
+United States</td><td></td><td>美国地址</td><td><a  target="_blank" href="http://www.amazon.com/gp/product/B00A3NIRZE">http://www.amazon.com/gp/product/B00A3NIRZE</a></td><td><a  target="_blank" href=""></a></td><td><a  target="_blank" href=""></a></td><td>0</td><td>0</td><td></td><td></td><td></td><td></td><td></td><td><a href="/amazon/edit/edit_table/?&order_id=14-0324-33-1">编辑</a></td></tr><tr><td id="order_14-0324-33-2">14-0324-33-2</td><td>苏瑞美国17</td><td>电子配件</td><td>104-5932754-5072261</td><td>Black Wall Travel Home Charger for Samsung Galaxy S3 S III i9300 / I535 / L710 / T999 / I747</td><td></td><td>$2.58</td><td>41726</td><td></td><td>香港平邮</td><td></td><td>renee l. sell<br />
+545 cecil henderson rd.<br />
+cecil, pa 15321<br />
+United States</td><td></td><td>美国地址</td><td><a  target="_blank" href="http://www.amazon.com/gp/product/B00A3NIRZE">http://www.amazon.com/gp/product/B00A3NIRZE</a></td><td><a  target="_blank" href=""></a></td><td><a  target="_blank" href=""></a></td><td>0</td><td>0</td><td></td><td></td><td></td><td></td><td></td><td><a href="/amazon/edit/edit_table/?&order_id=14-0324-33-2">编辑</a></td></tr><tr><td id="order_14-0324-34">14-0324-34</td><td>苏瑞美国17</td><td>电子配件</td><td>104-9349209-8358600</td><td>Black Wall Travel Home Charger for Samsung Galaxy S3 S III i9300 / I535 / L710 / T999 / I747</td><td></td><td>$2.58</td><td>41726</td><td></td><td>香港平邮</td><td></td><td>Fabian Alvarez<br />
+30 QUINTARD TER APT 2<br />
+STAMFORD, CT 06902-3924<br />
+United States</td><td></td><td>美国地址</td><td><a  target="_blank" href="http://www.amazon.com/gp/product/B00A3NIRZE">http://www.amazon.com/gp/product/B00A3NIRZE</a></td><td><a  target="_blank" href=""></a></td><td><a  target="_blank" href=""></a></td><td>0</td><td>0</td><td></td><td></td><td></td><td></td><td></td><td><a href="/amazon/edit/edit_table/?&order_id=14-0324-34">编辑</a></td></tr><tr><td id="order_14-0324-35">14-0324-35</td><td>苏瑞美国17</td><td>电子配件</td><td>002-0186870-6981060</td><td>Black Wall Travel Home Charger for Samsung Galaxy S3 S III i9300 / I535 / L710 / T999 / I747</td><td></td><td>$2.58</td><td>41726</td><td></td><td>香港平邮</td><td></td><td>ALAN NELSON<br />
+1675 Peoples Creek Rd<br />
+Advance, NC 27006-7452<br />
+United States</td><td></td><td>美国地址</td><td><a  target="_blank" href="http://www.amazon.com/gp/product/B00A3NIRZE">http://www.amazon.com/gp/product/B00A3NIRZE</a></td><td><a  target="_blank" href=""></a></td><td><a  target="_blank" href=""></a></td><td>0</td><td>0</td><td></td><td></td><td></td><td></td><td></td><td><a href="/amazon/edit/edit_table/?&order_id=14-0324-35">编辑</a></td></tr><tr><td id="order_14-0324-36-1">14-0324-36-1</td><td>苏瑞美国17</td><td>电子配件</td><td>108-7728914-2588216</td><td>Black Wall Travel Home Charger for Samsung Galaxy S3 S III i9300 / I535 / L710 / T999 / I747</td><td></td><td>$2.58</td><td>41726</td><td></td><td>香港平邮</td><td></td><td>Hilary Pech<br />
+422 AMHERST RD<br />
+SUNDERLAND, MA 01375-9311<br />
+United States</td><td></td><td>美国地址</td><td><a  target="_blank" href="http://www.amazon.com/gp/product/B00A3NIRZE">http://www.amazon.com/gp/product/B00A3NIRZE</a></td><td><a  target="_blank" href=""></a></td><td><a  target="_blank" href=""></a></td><td>0</td><td>0</td><td></td><td></td><td></td><td></td><td></td><td><a href="/amazon/edit/edit_table/?&order_id=14-0324-36-1">编辑</a></td></tr><tr><td id="order_14-0324-36-2">14-0324-36-2</td><td>苏瑞美国17</td><td>电子配件</td><td>108-7728914-2588216</td><td>Black Wall Travel Home Charger for Samsung Galaxy S3 S III i9300 / I535 / L710 / T999 / I747</td><td></td><td>$2.58</td><td>41726</td><td></td><td>香港平邮</td><td></td><td>Hilary Pech<br />
+422 AMHERST RD<br />
+SUNDERLAND, MA 01375-9311<br />
+United States</td><td></td><td>美国地址</td><td><a  target="_blank" href="http://www.amazon.com/gp/product/B00A3NIRZE">http://www.amazon.com/gp/product/B00A3NIRZE</a></td><td><a  target="_blank" href=""></a></td><td><a  target="_blank" href=""></a></td><td>0</td><td>0</td><td></td><td></td><td></td><td></td><td></td><td><a href="/amazon/edit/edit_table/?&order_id=14-0324-36-2">编辑</a></td></tr><tr><td id="order_14-0324-37">14-0324-37</td><td>苏瑞美国17</td><td>电子配件</td><td>104-5392315-2510617</td><td>Black Wall Travel Home Charger for Samsung Galaxy S3 S III i9300 / I535 / L710 / T999 / I747</td><td></td><td>$2.58</td><td>41726</td><td></td><td>香港平邮</td><td></td><td>Connie Overberg<br />
+3108 6TH ST<br />
+EMMETSBURG, IA 50536-2730<br />
+United States</td><td></td><td>美国地址</td><td><a  target="_blank" href="http://www.amazon.com/gp/product/B00A3NIRZE">http://www.amazon.com/gp/product/B00A3NIRZE</a></td><td><a  target="_blank" href=""></a></td><td><a  target="_blank" href=""></a></td><td>0</td><td>0</td><td></td><td></td><td></td><td></td><td></td><td><a href="/amazon/edit/edit_table/?&order_id=14-0324-37">编辑</a></td></tr><tr><td id="order_14-0324-38">14-0324-38</td><td>苏瑞美国17</td><td>游戏周边</td><td>113-4103806-1049805</td><td>Lamaze Musical Inchworm</td><td></td><td>$9.800000000000001</td><td>41727</td><td></td><td>香港平邮</td><td></td><td>Deborah Rickett<br />
+35 AUSTINS CREEK DR<br />
+NEWNAN, GA 30263-4686<br />
+United States</td><td></td><td>美国地址</td><td><a  target="_blank" href="http://www.amazon.com/gp/product/B000I2MRJC">http://www.amazon.com/gp/product/B000I2MRJC</a></td><td><a  target="_blank" href=""></a></td><td><a  target="_blank" href=""></a></td><td>0</td><td>0</td><td></td><td></td><td></td><td></td><td></td><td><a href="/amazon/edit/edit_table/?&order_id=14-0324-38">编辑</a></td></tr><tr><td id="order_14-0324-39">14-0324-39</td><td>苏瑞美国17</td><td>游戏周边</td><td>105-9150487-4052238</td><td>Lamaze Musical Inchworm</td><td></td><td>$9.800000000000001</td><td>41727</td><td></td><td>香港平邮</td><td></td><td>Michelle Hussain<br />
+7503 SPRING LAKE DR APT B2<br />
+BETHESDA, MD 20817-6516<br />
+United States</td><td></td><td>美国地址</td><td><a  target="_blank" href="http://www.amazon.com/gp/product/B000I2MRJC">http://www.amazon.com/gp/product/B000I2MRJC</a></td><td><a  target="_blank" href=""></a></td><td><a  target="_blank" href=""></a></td><td>0</td><td>0</td><td></td><td></td><td></td><td></td><td></td><td><a href="/amazon/edit/edit_table/?&order_id=14-0324-39">编辑</a></td></tr><tr><td id="order_14-0324-40">14-0324-40</td><td>苏瑞美国17</td><td>游戏周边</td><td>104-8508929-6763414</td><td>Lamaze Musical Inchworm</td><td></td><td>$9.800000000000001</td><td>41727</td><td></td><td>香港平邮</td><td></td><td>Jennifer Dott<br />
+18 CAMPUS VIEW DR<br />
+LOUDONVILLE, NEW YORK 12211-1404<br />
+United States</td><td></td><td>美国地址</td><td><a  target="_blank" href="http://www.amazon.com/gp/product/B000I2MRJC">http://www.amazon.com/gp/product/B000I2MRJC</a></td><td><a  target="_blank" href=""></a></td><td><a  target="_blank" href=""></a></td><td>0</td><td>0</td><td></td><td></td><td></td><td></td><td></td><td><a href="/amazon/edit/edit_table/?&order_id=14-0324-40">编辑</a></td></tr><tr><td id="order_14-0324-41">14-0324-41</td><td>苏瑞美国17</td><td>游戏周边</td><td>002-1812796-6745835</td><td>Lamaze Musical Inchworm</td><td></td><td>$9.800000000000001</td><td>41727</td><td></td><td>香港平邮</td><td></td><td>Nicole Cox<br />
+12556 120TH AVE NE # 8069<br />
+KIRKLAND, WA 98034-7501<br />
+United States</td><td></td><td>美国地址</td><td><a  target="_blank" href="http://www.amazon.com/gp/product/B000I2MRJC">http://www.amazon.com/gp/product/B000I2MRJC</a></td><td><a  target="_blank" href=""></a></td><td><a  target="_blank" href=""></a></td><td>0</td><td>0</td><td></td><td></td><td></td><td></td><td></td><td><a href="/amazon/edit/edit_table/?&order_id=14-0324-41">编辑</a></td></tr><tr><td id="order_14-0324-42">14-0324-42</td><td>苏瑞美国17</td><td>游戏周边</td><td>115-4407271-4125029</td><td>Lamaze Musical Inchworm</td><td></td><td>$9.800000000000001</td><td>41727</td><td></td><td>香港平邮</td><td></td><td>Aileen Ruddy<br />
+153 MERCER ST APT 2<br />
+NEW YORK, NY 10012-3203<br />
+United States</td><td></td><td>美国地址</td><td><a  target="_blank" href="http://www.amazon.com/gp/product/B000I2MRJC">http://www.amazon.com/gp/product/B000I2MRJC</a></td><td><a  target="_blank" href=""></a></td><td><a  target="_blank" href=""></a></td><td>0</td><td>0</td><td></td><td></td><td></td><td></td><td></td><td><a href="/amazon/edit/edit_table/?&order_id=14-0324-42">编辑</a></td></tr><tr><td id="order_14-0324-43-1">14-0324-43-1</td><td>苏瑞美国17</td><td>游戏周边</td><td>113-7198401-3393812</td><td>Lamaze Musical Inchworm</td><td></td><td>$9.800000000000001</td><td>41727</td><td></td><td>香港平邮</td><td></td><td>NA WU NYNPX<br />
+14840 VALLEY BLVD<br />
+UNIT K ---103407<br />
+CITY OF INDUSTRY, CA 91746-3231<br />
+United States</td><td></td><td>美国地址</td><td><a  target="_blank" href="http://www.amazon.com/gp/product/B000I2MRJC">http://www.amazon.com/gp/product/B000I2MRJC</a></td><td><a  target="_blank" href=""></a></td><td><a  target="_blank" href=""></a></td><td>0</td><td>0</td><td></td><td></td><td></td><td></td><td></td><td><a href="/amazon/edit/edit_table/?&order_id=14-0324-43-1">编辑</a></td></tr><tr><td id="order_14-0324-43-2">14-0324-43-2</td><td>苏瑞美国17</td><td>游戏周边</td><td>113-7198401-3393812</td><td>Lamaze Musical Inchworm</td><td></td><td>$9.800000000000001</td><td>41727</td><td></td><td>香港平邮</td><td></td><td>NA WU NYNPX<br />
+14840 VALLEY BLVD<br />
+UNIT K ---103407<br />
+CITY OF INDUSTRY, CA 91746-3231<br />
+United States</td><td></td><td>美国地址</td><td><a  target="_blank" href="http://www.amazon.com/gp/product/B000I2MRJC">http://www.amazon.com/gp/product/B000I2MRJC</a></td><td><a  target="_blank" href=""></a></td><td><a  target="_blank" href=""></a></td><td>0</td><td>0</td><td></td><td></td><td></td><td></td><td></td><td><a href="/amazon/edit/edit_table/?&order_id=14-0324-43-2">编辑</a></td></tr><tr><td id="order_14-0324-44">14-0324-44</td><td>苏瑞美国17</td><td>游戏周边</td><td>113-5596292-0141822</td><td>Lamaze Musical Inchworm</td><td></td><td>$9.800000000000001</td><td>41727</td><td></td><td>香港平邮</td><td></td><td>Michael Ohler<br />
+PSC 2 BOX 5878<br />
+APO, AE 09012-0008<br />
+United States</td><td></td><td>美国地址</td><td><a  target="_blank" href="http://www.amazon.com/gp/product/B000I2MRJC">http://www.amazon.com/gp/product/B000I2MRJC</a></td><td><a  target="_blank" href=""></a></td><td><a  target="_blank" href=""></a></td><td>0</td><td>0</td><td></td><td></td><td></td><td></td><td></td><td><a href="/amazon/edit/edit_table/?&order_id=14-0324-44">编辑</a></td></tr><tr><td id="order_14-0324-45">14-0324-45</td><td>苏瑞美国17</td><td>游戏周边</td><td>113-0877051-4939416</td><td>Lamaze Musical Inchworm</td><td></td><td>$9.800000000000001</td><td>41727</td><td></td><td>香港平邮</td><td></td><td>Julie M Kreibick<br />
+3235 INDEPENDENCE CT<br />
+BENSALEM, PA 19020-1801<br />
+United States</td><td></td><td>美国地址</td><td><a  target="_blank" href="http://www.amazon.com/gp/product/B000I2MRJC">http://www.amazon.com/gp/product/B000I2MRJC</a></td><td><a  target="_blank" href=""></a></td><td><a  target="_blank" href=""></a></td><td>0</td><td>0</td><td></td><td></td><td></td><td></td><td></td><td><a href="/amazon/edit/edit_table/?&order_id=14-0324-45">编辑</a></td></tr><tr><td id="order_14-0324-46">14-0324-46</td><td>苏瑞美国17</td><td>游戏周边</td><td>109-3707224-7722608</td><td>Lamaze Musical Inchworm</td><td></td><td>$9.800000000000001</td><td>41727</td><td></td><td>香港平邮</td><td></td><td>Cassandra Estes<br />
+3795 CARLISLE RD<br />
+GARDNERS, PA 17324-9511<br />
+United States</td><td></td><td>美国地址</td><td><a  target="_blank" href="http://www.amazon.com/gp/product/B000I2MRJC">http://www.amazon.com/gp/product/B000I2MRJC</a></td><td><a  target="_blank" href=""></a></td><td><a  target="_blank" href=""></a></td><td>0</td><td>0</td><td></td><td></td><td></td><td></td><td></td><td><a href="/amazon/edit/edit_table/?&order_id=14-0324-46">编辑</a></td></tr><tr><td id="order_14-0324-47">14-0324-47</td><td>苏瑞美国17</td><td>游戏周边</td><td>108-7084739-9287457</td><td>Lamaze Musical Inchworm</td><td></td><td>$9.800000000000001</td><td>41727</td><td></td><td>香港平邮</td><td></td><td>JOSEPH PRUSINSKI<br />
+18 OAKLAND DRIVE<br />
+PORT WASHINGTON, NY 11050<br />
+United States</td><td></td><td>美国地址</td><td><a  target="_blank" href="http://www.amazon.com/gp/product/B000I2MRJC">http://www.amazon.com/gp/product/B000I2MRJC</a></td><td><a  target="_blank" href=""></a></td><td><a  target="_blank" href=""></a></td><td>0</td><td>0</td><td></td><td></td><td></td><td></td><td></td><td><a href="/amazon/edit/edit_table/?&order_id=14-0324-47">编辑</a></td></tr><tr><td id="order_14-0324-48">14-0324-48</td><td>苏瑞美国17</td><td>游戏周边</td><td>108-6508946-1542657</td><td>Lamaze Musical Inchworm</td><td></td><td>$9.800000000000001</td><td>41727</td><td></td><td>香港平邮</td><td></td><td>Steven L Cantrell<br />
+3205 TURKEY TROT WAY<br />
+OPELIKA, AL 36801-1120<br />
+United States</td><td></td><td>美国地址</td><td><a  target="_blank" href="http://www.amazon.com/gp/product/B000I2MRJC">http://www.amazon.com/gp/product/B000I2MRJC</a></td><td><a  target="_blank" href=""></a></td><td><a  target="_blank" href=""></a></td><td>0</td><td>0</td><td></td><td></td><td></td><td></td><td></td><td><a href="/amazon/edit/edit_table/?&order_id=14-0324-48">编辑</a></td></tr><tr><td id="order_14-0324-49">14-0324-49</td><td>苏瑞美国17</td><td>游戏周边</td><td>107-7617395-0625003</td><td>Lamaze Musical Inchworm</td><td></td><td>$9.800000000000001</td><td>41727</td><td></td><td>香港平邮</td><td></td><td>Christie DeSpain<br />
+2280 ROLLING HILLS DR<br />
+NOLENSVILLE, TENNESSEE 37135-9483<br />
+United States</td><td></td><td>美国地址</td><td><a  target="_blank" href="http://www.amazon.com/gp/product/B000I2MRJC">http://www.amazon.com/gp/product/B000I2MRJC</a></td><td><a  target="_blank" href=""></a></td><td><a  target="_blank" href=""></a></td><td>0</td><td>0</td><td></td><td></td><td></td><td></td><td></td><td><a href="/amazon/edit/edit_table/?&order_id=14-0324-49">编辑</a></td></tr><tr><td id="order_14-0324-50">14-0324-50</td><td>苏瑞美国17</td><td>U盘</td><td>112-0919181-5939443</td><td>8GB Cartoon Mario USB Memory Stick</td><td></td><td>$8.58</td><td>41730</td><td></td><td>香港平邮</td><td></td><td>Pacita Tang<br />
+79 Clearview Dr<br />
+Daly City, CA 94015-4705<br />
+United States</td><td></td><td>美国地址</td><td><a  target="_blank" href="http://www.amazon.com/gp/product/B0086BF8VQ">http://www.amazon.com/gp/product/B0086BF8VQ</a></td><td><a  target="_blank" href=""></a></td><td><a  target="_blank" href=""></a></td><td>0</td><td>0</td><td></td><td></td><td></td><td></td><td></td><td><a href="/amazon/edit/edit_table/?&order_id=14-0324-50">编辑</a></td></tr><tr><td id="order_14-0324-51">14-0324-51</td><td>苏瑞美国17</td><td>手机壳</td><td>113-9002438-9344210</td><td>3d Cute Hello Kitty Cat Soft Silicone Rubber Gel Case Cover Skin for Samsung Galaxy S4 Iv I9500 (glasses/Rose)</td><td></td><td>$4.9</td><td>41736</td><td></td><td>香港平邮</td><td></td><td>patty flores<br />
+10522 COURT AVE<br />
+STANTON, CA 90680-2447<br />
+United States</td><td></td><td>美国地址</td><td><a  target="_blank" href="http://www.amazon.com/gp/product/B00DPBOGDI">http://www.amazon.com/gp/product/B00DPBOGDI</a></td><td><a  target="_blank" href=""></a></td><td><a  target="_blank" href=""></a></td><td>0</td><td>0</td><td></td><td></td><td></td><td></td><td></td><td><a href="/amazon/edit/edit_table/?&order_id=14-0324-51">编辑</a></td></tr><tr><td id="order_14-0324-52">14-0324-52</td><td>苏瑞美国17</td><td>手机壳</td><td>105-5423319-6705034</td><td>I Need Lovely 3D Pink Dots Yellow Frame Bow-knot Soft Silicone Case Cover Compatible for Samsung Galaxy S4 I9500(White)</td><td></td><td>$4.9</td><td>41730</td><td></td><td>香港平邮</td><td></td><td>Courtnee<br />
+6700 ROCK QUARRY RD<br />
+RALEIGH, NC 27610-9614<br />
+United States</td><td></td><td>美国地址</td><td><a  target="_blank" href="http://www.amazon.com/gp/product/B00D5O3FQE">http://www.amazon.com/gp/product/B00D5O3FQE</a></td><td><a  target="_blank" href=""></a></td><td><a  target="_blank" href=""></a></td><td>0</td><td>0</td><td></td><td></td><td></td><td></td><td></td><td><a href="/amazon/edit/edit_table/?&order_id=14-0324-52">编辑</a></td></tr><tr><td id="order_14-0324-53">14-0324-53</td><td>苏瑞美国17</td><td>墙贴</td><td>002-9448596-1249017</td><td>LARGE Black Photo Picture Frame Tree Vine Branch Removable Wall Decor Decal Sticker XL LEFT FACING</td><td></td><td>$9.699999999999999</td><td>41735</td><td></td><td>香港平邮</td><td></td><td>bj jones<br />
+4942 hwy 219 s<br />
+po box 97<br />
+wallins, ky 40873-0291<br />
+United States</td><td></td><td>美国地址</td><td><a  target="_blank" href="http://www.amazon.com/gp/product/B0071A7690">http://www.amazon.com/gp/product/B0071A7690</a></td><td><a  target="_blank" href=""></a></td><td><a  target="_blank" href=""></a></td><td>0</td><td>0</td><td></td><td></td><td></td><td></td><td></td><td><a href="/amazon/edit/edit_table/?&order_id=14-0324-53">编辑</a></td></tr><tr><td id="order_14-0324-54">14-0324-54</td><td>苏瑞美国17</td><td>手机壳</td><td>113-8172652-2503462</td><td>I Need Lovely 3D Pink Dots Yellow Frame Bow-knot Soft Silicone Case Cover Compatible for Samsung Galaxy S4 I9500(White)</td><td></td><td>$4.9</td><td>41730</td><td></td><td>香港平邮</td><td></td><td>patricia c gray<br />
+1481 kilmuir way<br />
+stone mountain, georgia 30083<br />
+United States</td><td></td><td>美国地址</td><td><a  target="_blank" href="http://www.amazon.com/gp/product/B00D5O3FQE">http://www.amazon.com/gp/product/B00D5O3FQE</a></td><td><a  target="_blank" href=""></a></td><td><a  target="_blank" href=""></a></td><td>0</td><td>0</td><td></td><td></td><td></td><td></td><td></td><td><a href="/amazon/edit/edit_table/?&order_id=14-0324-54">编辑</a></td></tr><tr><td id="order_14-0324-55">14-0324-55</td><td>苏瑞美国17</td><td>墙贴</td><td>113-0522925-3747465</td><td>Hotportgift Rose Flower Removable PVC Wall Sticker Home decor Room Decal Large Size</td><td></td><td>$4.7</td><td>41735</td><td></td><td>香港平邮</td><td></td><td>karmen lazar<br />
+1330 TODD FARM DR<br />
+ELGIN, ILLINOIS 60123-1715<br />
+United States</td><td></td><td>美国地址</td><td><a  target="_blank" href="www.amazon.com/gp/product/B00C3BFI2Y">www.amazon.com/gp/product/B00C3BFI2Y</a></td><td><a  target="_blank" href=""></a></td><td><a  target="_blank" href=""></a></td><td>0</td><td>0</td><td></td><td></td><td></td><td></td><td></td><td><a href="/amazon/edit/edit_table/?&order_id=14-0324-55">编辑</a></td></tr><tr><td id="order_14-0324-56">14-0324-56</td><td>苏瑞美国17</td><td>墙贴</td><td>111-5993638-8551438</td><td>Hotportgift Rose Flower Removable PVC Wall Sticker Home decor Room Decal Large Size</td><td></td><td>$4.7</td><td>41735</td><td></td><td>香港平邮</td><td></td><td>Eliany O\'Reilly<br />
+1655 W 44TH PL APT 540<br />
+HIALEAH, FL 33012-7418<br />
+United States</td><td></td><td>美国地址</td><td><a  target="_blank" href="www.amazon.com/gp/product/B00C3BFI2Y">www.amazon.com/gp/product/B00C3BFI2Y</a></td><td><a  target="_blank" href=""></a></td><td><a  target="_blank" href=""></a></td><td>0</td><td>0</td><td></td><td></td><td></td><td></td><td></td><td><a href="/amazon/edit/edit_table/?&order_id=14-0324-56">编辑</a></td></tr></table><br>&nbsp;<strong>1</strong>&nbsp;<a href="/amazon/choose/showzuyuan/showmessage/60">2</a>&nbsp;<a href="/amazon/choose/showzuyuan/showmessage/60">下一页</a>&nbsp;</div>
+<script type="text/javascript">
+//	搜索框！
+$('submit_search').onclick=function(){
+	
+	var attribute = $('search').value
+		if(!attribute){
+					alert("搜索条件不能为空！");
+				}else{
+			var url = '/amazon/search/getsearch/getsearch_post/';
+
+			new Ajax.Request(url, { 
+				method: 'post',
+				parameters:'attribute='+attribute,
+				onSuccess: function(transport) {
+					
+//				为了保持页码的一致性！		
+				
+				window.location.href="/amazon/search/getsearch/showmessage/"
+					
+					}
+				}
+			); 
+			
+			}
+}
+function showDiv(obj){
+//  点击显示图片;
+	$('showimg').src=obj.innerHTML;
+	$('popDiv').style.height = $('showimg')+'20px';
+	$('popDiv').style.width = $('showimg');
+	$('popDiv').style.display='block';
+	$('bg').style.display='block';
+}
+function closeDiv(){
+	$('popDiv').style.display='none';
+	$('bg').style.display='none';
+	}
+	// logout 退出系统;
+	$('logout_showmessage').onclick=function(){
+		
+		var bol = confirm("真的要退出系统吗？");
+		
+		if(bol){
+			window.location.href="/amazon/user/account/logout";
+		}
+	}
+	//	按日期筛选！
+		$('date_title').onclick=function(){
+			var date = $('time').value
+				if(!date){
+							alert("筛选日期不能为空！");
+						}
+				else{
+					var url = '/amazon/choose/showzuyuan/gettime/';
+	
+					new Ajax.Request(url, { 
+						method: 'post',
+						parameters:'time='+date,
+						onSuccess: function(transport) {
+							
+	//				为了保持页码的一致性！		
+	
+						window.location.href="/amazon/choose/showzuyuan/showmessage"
+					
+							}
+						}
+					); 
+					
+					}
+		}
+
+//		账户筛选;
+
+	$('shaixuan_zhanghu').onchange=function(){
+
+				var zhanghu=this.value;
+
+				if(zhanghu!='账户选择'){
+
+					var url = '/amazon/choose/showzuyuan/getpost/';
+					
+					new Ajax.Request(url, { 
+						method: 'post',
+						parameters:'shaixuan_zhanghu='+zhanghu,
+						onSuccess: function(transport) {
+							
+	//				为了保持页码的一致性！		
+
+						window.location.href="/amazon/choose/showzuyuan/showmessage"
+
+							
+							}
+						}
+					); 
+			}
+		}
+	
+//  按订单状态选择;
+
+
+	$('shaixuan_status').onchange=function(){
+
+				var status=this.value;
+				
+				if(status!='订单状态'){
+
+					var url = '/amazon/choose/showzuyuan/getpost/';
+					
+					new Ajax.Request(url, { 
+						method: 'post',
+						parameters:'shaixuan_status='+status,
+						onSuccess: function(transport) {
+							
+	//				为了保持页码的一致性！		
+	
+						window.location.href="/amazon/choose/showzuyuan/showmessage"
+							
+							}
+						}
+					); 
+			}
+		}
+	
+	</script>
+</head>
+<body>
+
+<div id="popDiv" class="mydiv" style="display:none;"><img id="showimg" src='' /><br/>
+				<a href="javascript:closeDiv()">close</a>
+			</div>
+<div id="bg" class="bg" style="display:none;"></div>
+
+<div style="padding-top: 20px;">
+</div>
